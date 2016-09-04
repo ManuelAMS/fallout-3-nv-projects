@@ -1637,7 +1637,7 @@ END</ORIGINAL>
     <ORIGINAL>Keepsake</ORIGINAL>
     <TRADUIT>Recuerdo</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -1853,7 +1853,7 @@ END</ORIGINAL>
     <ORIGINAL>Amanda</ORIGINAL>
     <TRADUIT>Amanda</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>000042c2 (ID) - Mujer</COMMENTAIRE>
   </ESP>
@@ -1865,7 +1865,7 @@ END</ORIGINAL>
     <ORIGINAL>Amanda</ORIGINAL>
     <TRADUIT>Amanda</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>Caucasian (mod) - Mujer</COMMENTAIRE>
   </ESP>
@@ -1891,7 +1891,7 @@ END</ORIGINAL>
     <INDEX>1</INDEX>
     <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
-    <COMMENTAIRE>Caucasian Old - Hombre</COMMENTAIRE>
+    <COMMENTAIRE>000042c3 (ID) - Hombre</COMMENTAIRE>
   </ESP>
   <ESP>
     <GRUP>NPC_</GRUP>
@@ -1913,7 +1913,7 @@ END</ORIGINAL>
     <ORIGINAL>Amanda</ORIGINAL>
     <TRADUIT>Amanda</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>Caucasian (mod) - Mujer</COMMENTAIRE>
   </ESP>
@@ -1959,9 +1959,9 @@ END</ORIGINAL>
     <EDID>ttbNoteParadiseFalls</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Paradise Falls</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Paradise Falls</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -1971,9 +1971,9 @@ END</ORIGINAL>
     <EDID>ttbNoteParadiseFalls</EDID>
     <CHAMP>TNAM</CHAMP>
     <ORIGINAL>The attackers mentioned they were heading for Paradise Falls. Hopefully, that's where Amanda will be.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Los asaltantes mencionaron que iban hacia Paradise Falls. Espero que Amanda esté allí.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2163,9 +2163,9 @@ END</ORIGINAL>
     <EDID>ParadiseFalls</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Paradise Falls</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Paradise Falls</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>52</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2667,7 +2667,7 @@ endif</ORIGINAL>
     <ORIGINAL>It's eerie, isn't it?</ORIGINAL>
     <TRADUIT>Es extraño, ¿no?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2799,7 +2799,7 @@ endif</ORIGINAL>
     <ORIGINAL>Huh?</ORIGINAL>
     <TRADUIT>¿Eh?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2849,7 +2849,7 @@ setobjectivecompleted ttbtiesthatbind 25 1</ORIGINAL>
     <EDID>GREETING</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Nevermind. Can you get me out?</ORIGINAL>
-    <TRADUIT>Da igual. ¿Puedes sacarme de aquí?</TRADUIT>
+    <TRADUIT>Bueno, da igual. ¿Puedes sacarme de aquí?</TRADUIT>
     <INDEX>2</INDEX>
     <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
@@ -3143,9 +3143,9 @@ ttbCG04JammedDoorRef.disable</ORIGINAL>
     <EDID>IdleChatter</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I wonder if there are any twinkies left...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Me pregunto si quedará algún Bollycao..</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -3299,7 +3299,7 @@ ttbCG04JammedDoorRef.disable</ORIGINAL>
     <EDID>IdleChatter</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Sad to think places like this are about as close as we've got to cities now.</ORIGINAL>
-    <TRADUIT>Es triste pensar que los lugares como este son lo mas parecido a una ciudad que nos queda.</TRADUIT>
+    <TRADUIT>Es triste pensar que los lugares como este son lo más parecido a una ciudad que nos queda.</TRADUIT>
     <INDEX>1</INDEX>
     <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
@@ -3337,7 +3337,7 @@ ttbCG04JammedDoorRef.disable</ORIGINAL>
     <ORIGINAL>Being back here just feels... I dunno... weird.</ORIGINAL>
     <TRADUIT>Volver aquí se siente... no se.. raro.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -3671,9 +3671,9 @@ ttbCG04JammedDoorRef.disable</ORIGINAL>
     <EDID>NormalToCombat</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>This one's mine!</ORIGINAL>
-    <TRADUIT>¡Para mí!</TRADUIT>
+    <TRADUIT>¡Este es mío!</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -3803,9 +3803,9 @@ ttbCG04JammedDoorRef.disable</ORIGINAL>
     <EDID>NormalToAlert</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Get ready...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Prepárate...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -3851,9 +3851,9 @@ ttbCG04JammedDoorRef.disable</ORIGINAL>
     <EDID>CombatToNormal</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Hah, did ya see that?</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Je, ¿viste eso?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -3863,9 +3863,9 @@ ttbCG04JammedDoorRef.disable</ORIGINAL>
     <EDID>CombatToNormal</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Whoah, nice!</ORIGINAL>
-    <TRADUIT>Whoah, nice!</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -5861,7 +5861,7 @@ set TTBDialogue.CG04TrapAmanda to 4
     <EDID>ttbCG04Wilk1</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Eeeeasy there, girl. Don't make us waste any bullets now...</ORIGINAL>
-    <TRADUIT>Tranquiiila, chica. No nos hagas gastar balas...</TRADUIT>
+    <TRADUIT>Tranquiiila, chica. No nos hagas malgastar balas...</TRADUIT>
     <INDEX>1</INDEX>
     <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
@@ -5993,9 +5993,9 @@ set TTBDialogue.CG04TrapAmanda to 4
     <EDID>ttbCG04Ricketts2</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>You got it...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Ya lo pillas...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -6173,7 +6173,7 @@ set TTBDialogue.CG04TrapAmanda to 4
     <EDID>ttbMQ01Vault1Confess3</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>What does it matter? We're here now.</ORIGINAL>
-    <TRADUIT>¿Qué importa eso? Estamos aquí.</TRADUIT>
+    <TRADUIT>¿Qué importa eso? Estamos aquí ahora.</TRADUIT>
     <INDEX>1</INDEX>
     <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
@@ -6329,7 +6329,7 @@ set TTBDialogue.CG04TrapAmanda to 4
     <EDID>ttbMQ01Vault1Confess2b</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>It's not so black and white as that.</ORIGINAL>
-    <TRADUIT>Las cosas no son tan simples.</TRADUIT>
+    <TRADUIT>Las cosas no son tan simples como crees.</TRADUIT>
     <INDEX>1</INDEX>
     <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
@@ -6401,9 +6401,9 @@ set TTBDialogue.CG04TrapAmanda to 4
     <EDID>ttbMQ01Vault1Confess2ai</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Come on, let's go find Dad.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Venga, vamos a buscar a papá.</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -6833,9 +6833,9 @@ set TTBDialogue.CG04TrapAmanda to 4
     <EDID>ttbMQ03DrLee1Remember1ai</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>(sigh) I wish you could have known her.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>(suspiro) Ojalá hubieras podido conocerla.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -7025,9 +7025,9 @@ set TTBDialogue.CG04TrapAmanda to 4
     <EDID>ttbMQ03DrLee1Mom3</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>(sigh) I wish you could have known her.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>(suspiro) Ojalá hubieras podido conocerla.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -7061,9 +7061,9 @@ set TTBDialogue.CG04TrapAmanda to 4
     <EDID>ttbMQ03DrLee1Mom3</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>Do you miss Mom?</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¿Echas de menos a mamá?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -7085,9 +7085,9 @@ set TTBDialogue.CG04TrapAmanda to 4
     <EDID>ttbMQ03DrLee1Mom4</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I can't even imagine what that's like for you.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>No puedo ni imaginar lo que debe ser para tí.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -7097,9 +7097,9 @@ set TTBDialogue.CG04TrapAmanda to 4
     <EDID>ttbMQ03DrLee1Mom4</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>(sigh) I wish you could have known her.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>(suspiro) Ojalá hubieras podido conocerla.</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -7509,7 +7509,7 @@ SetObjectiveDisplayed TTBTiesThatBind 99 0</ORIGINAL>
     <EDID>ttbMiscAmandaGoodbye</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Come on.</ORIGINAL>
-    <TRADUIT>Vamos.</TRADUIT>
+    <TRADUIT>Venga.</TRADUIT>
     <INDEX>1</INDEX>
     <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
@@ -7569,7 +7569,7 @@ SetObjectiveDisplayed TTBTiesThatBind 99 0</ORIGINAL>
     <EDID>ttbMiscAmandaGoodbye</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>Come on.</ORIGINAL>
-    <TRADUIT>Vamos.</TRADUIT>
+    <TRADUIT>Venga.</TRADUIT>
     <INDEX>1</INDEX>
     <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
@@ -7583,7 +7583,7 @@ SetObjectiveDisplayed TTBTiesThatBind 99 0</ORIGINAL>
     <ORIGINAL>Any thoughts?</ORIGINAL>
     <TRADUIT>¿Alguna idea?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -7761,7 +7761,7 @@ SetObjectiveDisplayed TTBTiesThatBind 99 0</ORIGINAL>
     <EDID>ttbMiscAmandaThoughts</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Sad to think places like this are about as close as we've got to cities now.</ORIGINAL>
-    <TRADUIT>Es triste pensar que los lugares como este son lo mas parecido a una ciudad que nos queda.</TRADUIT>
+    <TRADUIT>Es triste pensar que los lugares como este son lo más parecido a una ciudad que nos queda.</TRADUIT>
     <INDEX>1</INDEX>
     <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
@@ -7941,9 +7941,9 @@ SetObjectiveDisplayed TTBTiesThatBind 99 0</ORIGINAL>
     <EDID>ttbMiscAmandaThoughts</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I wonder if there are any twinkies left...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Me pregunto si quedará algún Bollycao..</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -7989,9 +7989,9 @@ SetObjectiveDisplayed TTBTiesThatBind 99 0</ORIGINAL>
     <EDID>ttbMiscAmandaInventory</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>Let me have a look at your stuff.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Déjame echar un vistazo a tus cosas.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -8025,9 +8025,9 @@ SetObjectiveDisplayed TTBTiesThatBind 99 0</ORIGINAL>
     <EDID>ttbMiscAmandaInventory</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>What are you carrying?</ORIGINAL>
-    <TRADUIT>What are you carrying?</TRADUIT>
+    <TRADUIT>¿Qué llevas encima?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -8663,9 +8663,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ04Freed1Plan2a</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I guess you're right. Well, no time like the present...</ORIGINAL>
-    <TRADUIT>I guess you're right. Well, no time like the present...</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -8687,9 +8687,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ04Freed1Plan2a</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>We've got to move forward.</ORIGINAL>
-    <TRADUIT>We've got to move forward.</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -9002,7 +9002,7 @@ ttbAmandaRef.sayto MQDadRef ttbMQ04Freed</ORIGINAL>
     <ORIGINAL>Let's go.</ORIGINAL>
     <TRADUIT>Vamos.</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -9137,7 +9137,7 @@ endif</ORIGINAL>
     <ORIGINAL>Like what?</ORIGINAL>
     <TRADUIT>¿Como qué?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -9460,9 +9460,9 @@ set TTBDialogue.CG04SlaverConversation to ( TTBDialogue.CG04SlaverConversation +
     <EDID>ttbMQ05Death2Plan</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>What are you doing just standing around? We've got to get in there!</ORIGINAL>
-    <TRADUIT>What are you doing just standing around? We've got to get in there!</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -9559,9 +9559,9 @@ endif
     <EDID>ttbMQ05Death2Plan3</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ05Death2Plan3</ORIGINAL>
-    <TRADUIT>ttbMQ05Death2Plan3</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -9679,9 +9679,9 @@ endif
     <EDID>ttbMQ05Death2Plan2ii</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ05Death2Plan2ii</ORIGINAL>
-    <TRADUIT>ttbMQ05Death2Plan2ii</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -9715,9 +9715,9 @@ endif
     <EDID>ttbMQ05Death2Plan2ia</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ05Death2Plan2ia</ORIGINAL>
-    <TRADUIT>ttbMQ05Death2Plan2ia</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -9775,9 +9775,9 @@ endif
     <EDID>ttbMQ05Death2Plan2ib</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ05Death2Plan2ib</ORIGINAL>
-    <TRADUIT>ttbMQ05Death2Plan2ib</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -9811,9 +9811,9 @@ endif
     <EDID>ttbMQ05Death2Plan2iia</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ05Death2Plan2iia</ORIGINAL>
-    <TRADUIT>ttbMQ05Death2Plan2iia</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -9837,7 +9837,7 @@ endif
     <ORIGINAL>You know I can't do that.</ORIGINAL>
     <TRADUIT>Sabes que no puedo hacerlo.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>90</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -9847,9 +9847,9 @@ endif
     <EDID>ttbMQ05Death2Plan2iib</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ05Death2Plan2iib</ORIGINAL>
-    <TRADUIT>ttbMQ05Death2Plan2iib</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -9907,9 +9907,9 @@ endif
     <EDID>ttbMQ05Death2Plan2iia1</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ05Death2Plan2iia1</ORIGINAL>
-    <TRADUIT>ttbMQ05Death2Plan2iia1</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -9943,9 +9943,9 @@ endif
     <EDID>ttbMQ05Death2Plan2iia2</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ05Death2Plan2iia2</ORIGINAL>
-    <TRADUIT>ttbMQ05Death2Plan2iia2</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -9979,9 +9979,9 @@ endif
     <EDID>ttbMQ05Death2Plan2iia3</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ05Death2Plan2iia3</ORIGINAL>
-    <TRADUIT>ttbMQ05Death2Plan2iia3</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -10015,9 +10015,9 @@ endif
     <EDID>ttbMQ05Death2Plan3i</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ05Death2Plan3i</ORIGINAL>
-    <TRADUIT>ttbMQ05Death2Plan3i</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -10039,9 +10039,9 @@ endif
     <EDID>ttbMQ05Death2Plan3i</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>I do know what he did, and he's not getting up from that.</ORIGINAL>
-    <TRADUIT>I do know what he did, and he's not getting up from that.</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -10051,9 +10051,9 @@ endif
     <EDID>ttbMQ05Death2Plan3ii</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ05Death2Plan3ii</ORIGINAL>
-    <TRADUIT>ttbMQ05Death2Plan3ii</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -10087,9 +10087,9 @@ endif
     <EDID>ttbMQ05Death2Plan3iii</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ05Death2Plan3iii</ORIGINAL>
-    <TRADUIT>ttbMQ05Death2Plan3iii</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -10123,9 +10123,9 @@ endif
     <EDID>ttbMQ05Death2Plan3ia</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ05Death2Plan3ia</ORIGINAL>
-    <TRADUIT>ttbMQ05Death2Plan3ia</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -10171,9 +10171,9 @@ endif
     <EDID>ttbMQ05Death2Plan3iiia</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ05Death2Plan3ib</ORIGINAL>
-    <TRADUIT>ttbMQ05Death2Plan3ib</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -10231,9 +10231,9 @@ endif
     <EDID>ttbMQ05Death3Argue</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ05Death3Argue</ORIGINAL>
-    <TRADUIT>ttbMQ05Death3Argue</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -10269,9 +10269,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ05Death3Argue1</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ05Death3Argue1</ORIGINAL>
-    <TRADUIT>ttbMQ05Death3Argue1</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -10295,7 +10295,7 @@ endif</ORIGINAL>
     <ORIGINAL>What are you talking about?</ORIGINAL>
     <TRADUIT>¿De qué hablas?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -10305,9 +10305,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ05Death3Argue2</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ05Death3Argue2</ORIGINAL>
-    <TRADUIT>ttbMQ05Death3Argue2</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -10329,9 +10329,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ05Death3Argue2</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>How could you just leave him like that?</ORIGINAL>
-    <TRADUIT>How could you just leave him like that?</TRADUIT>
+    <TRADUIT />
     <INDEX>2</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -10353,9 +10353,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ05Death3Argue3</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ05Death3Argue3</ORIGINAL>
-    <TRADUIT>ttbMQ05Death3Argue3</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -10367,7 +10367,7 @@ endif</ORIGINAL>
     <ORIGINAL>How can you make jokes?!</ORIGINAL>
     <TRADUIT>¡¿Cómo puedes bromear en un momento así?!</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>90</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -10389,9 +10389,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ05Death3Argue1a</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ05Death3Argue1a</ORIGINAL>
-    <TRADUIT>ttbMQ05Death3Argue1a</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -10425,9 +10425,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ05Death3Argue1b</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ05Death3Argue1b</ORIGINAL>
-    <TRADUIT>ttbMQ05Death3Argue1b</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -10461,9 +10461,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ05Death3Argue1ai</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ05Death3Argue1ai</ORIGINAL>
-    <TRADUIT>ttbMQ05Death3Argue1ai</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -10509,9 +10509,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ05Death3Argue1aii</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ05Death3Argue1aii</ORIGINAL>
-    <TRADUIT>ttbMQ05Death3Argue1aii</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -10545,9 +10545,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ05Death3Argue1aii</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>I didn't see YOU doing much.</ORIGINAL>
-    <TRADUIT>I didn't see YOU doing much.</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -10557,9 +10557,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ05Death3Argue1ai1</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ05Death3Argue1ai1</ORIGINAL>
-    <TRADUIT>ttbMQ05Death3Argue1ai1</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -10605,9 +10605,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ05Death3Argue1ai2</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ05Death3Argue1ai2</ORIGINAL>
-    <TRADUIT>ttbMQ05Death3Argue1ai2</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -10641,9 +10641,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ05Death3Argue1bi</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ05Death3Argue1bi</ORIGINAL>
-    <TRADUIT>ttbMQ05Death3Argue1bi</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -10653,9 +10653,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ05Death3Argue1bi</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I don't want a body... I want Dad.</ORIGINAL>
-    <TRADUIT>I don't want a body... I want Dad.</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -10689,9 +10689,9 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Imprisoned1</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>What are you waiting for? Unlock this thing!</ORIGINAL>
-    <TRADUIT>What are you waiting for? Unlock this thing!</TRADUIT>
+    <TRADUIT>¿A qué esperas? ¡Abre esta cosa!</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -10788,7 +10788,7 @@ SetObjectiveDisplayed TTBTiesThatBind 25 1</ORIGINAL>
     <ORIGINAL>Are you okay?</ORIGINAL>
     <TRADUIT>¿Estás bien?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -10846,9 +10846,9 @@ SetObjectiveDisplayed TTBTiesThatBind 25 1</ORIGINAL>
     <EDID>ttbMQ06Kids1Optimism</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ06Kids1Optimism</ORIGINAL>
-    <TRADUIT>ttbMQ06Kids1Optimism</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -10884,9 +10884,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Kids1Optimism1</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ06Kids1Optimism1</ORIGINAL>
-    <TRADUIT>ttbMQ06Kids1Optimism1</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -10896,9 +10896,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Kids1Optimism1</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>What do you mean what do I mean? They live in a hole in the ground with no one to look out for them.</ORIGINAL>
-    <TRADUIT>What do you mean what do I mean? They live in a hole in the ground with no one to look out for them.</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -10910,7 +10910,7 @@ endif</ORIGINAL>
     <ORIGINAL>What do you mean?</ORIGINAL>
     <TRADUIT>¿Qué quieres decir?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -10920,9 +10920,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Kids1Optimism2</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ06Kids1Optimism2</ORIGINAL>
-    <TRADUIT>ttbMQ06Kids1Optimism2</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -10932,9 +10932,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Kids1Optimism2</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I don't know about that... Even at their age I could tell the world was an ugly waste of a place.</ORIGINAL>
-    <TRADUIT>I don't know about that... Even at their age I could tell the world was an ugly waste of a place.</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -10956,9 +10956,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Kids1Optimism3</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ06Kids1Optimism3</ORIGINAL>
-    <TRADUIT>ttbMQ06Kids1Optimism3</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -10992,9 +10992,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Kids1Optimism1a</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ06Kids1Optimism1a</ORIGINAL>
-    <TRADUIT>ttbMQ06Kids1Optimism1a</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -11028,9 +11028,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Kids1Optimism1ai</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ06Kids1Optimism1b</ORIGINAL>
-    <TRADUIT>ttbMQ06Kids1Optimism1b</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -11040,9 +11040,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Kids1Optimism1ai</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I don't know... At one point I would have said the Vault, but now I'm not so sure.</ORIGINAL>
-    <TRADUIT>I don't know... At one point I would have said the Vault, but now I'm not so sure.</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -11088,9 +11088,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Kids1Optimism2a</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ06Kids1Optimism2a</ORIGINAL>
-    <TRADUIT>ttbMQ06Kids1Optimism2a</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -11112,9 +11112,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Kids1Optimism2a</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I guess you're right. I just wish I'd had their courage back then...</ORIGINAL>
-    <TRADUIT>I guess you're right. I just wish I'd had their courage back then...</TRADUIT>
+    <TRADUIT />
     <INDEX>2</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -11160,9 +11160,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Kids1Optimism2b</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ06Kids1Optimism2b</ORIGINAL>
-    <TRADUIT>ttbMQ06Kids1Optimism2b</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -11172,9 +11172,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Kids1Optimism2b</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I guess you're right. I just wish I'd had their courage back then...</ORIGINAL>
-    <TRADUIT>I guess you're right. I just wish I'd had their courage back then...</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -11220,9 +11220,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Kids1Optimism1aii</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ06Kids1Optimism1aii</ORIGINAL>
-    <TRADUIT>ttbMQ06Kids1Optimism1aii</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -11232,9 +11232,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Kids1Truth1</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ06Kids1Truth1</ORIGINAL>
-    <TRADUIT>ttbMQ06Kids1Truth1</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -11304,9 +11304,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Kids1Truth2</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ06Kids1Truth2</ORIGINAL>
-    <TRADUIT>ttbMQ06Kids1Truth2</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -11352,9 +11352,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Kids1Truth3</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ06Kids1Truth3</ORIGINAL>
-    <TRADUIT>ttbMQ06Kids1Truth3</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -11388,9 +11388,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Kids1Truth3a</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ06Kids1Truth3a</ORIGINAL>
-    <TRADUIT>ttbMQ06Kids1Truth3a</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -11424,9 +11424,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Kids1Truth3b</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ06Kids1Truth3b</ORIGINAL>
-    <TRADUIT>ttbMQ06Kids1Truth3b</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -11472,9 +11472,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Kids1Truth2a</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ06Kids1Truth2a</ORIGINAL>
-    <TRADUIT>ttbMQ06Kids1Truth2a</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -11520,9 +11520,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Kids1Truth2b</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ06Kids1Truth2b</ORIGINAL>
-    <TRADUIT>ttbMQ06Kids1Truth2b</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -11556,9 +11556,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Kids1Truth3ai</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ06Kids1Truth3ai</ORIGINAL>
-    <TRADUIT>ttbMQ06Kids1Truth3ai</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -11604,9 +11604,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Kids1Truth3aii</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ06Kids1Truth3aii</ORIGINAL>
-    <TRADUIT>ttbMQ06Kids1Truth3aii</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -11652,9 +11652,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Kids1Truth2ai</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ06Kids1Truth2ai</ORIGINAL>
-    <TRADUIT>ttbMQ06Kids1Truth2ai</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -11664,9 +11664,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Kids1Truth2ai</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I did what I did - I don't know if right and wrong factor into it...</ORIGINAL>
-    <TRADUIT>I did what I did - I don't know if right and wrong factor into it...</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -11700,9 +11700,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Kids1Truth2aii</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ06Kids1Truth2aii</ORIGINAL>
-    <TRADUIT>ttbMQ06Kids1Truth2aii</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -11736,9 +11736,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Kids1Truth2bi</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ06Kids1Truth2bi</ORIGINAL>
-    <TRADUIT>ttbMQ06Kids1Truth2bi</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -11784,9 +11784,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Kids1Truth2bii</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ06Kids1Truth2bii</ORIGINAL>
-    <TRADUIT>ttbMQ06Kids1Truth2bii</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -11796,9 +11796,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Kids1Truth2bii</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I dunno... I'd have had none of us leave to begin with, but seeing as we did...</ORIGINAL>
-    <TRADUIT>I dunno... I'd have had none of us leave to begin with, but seeing as we did...</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -11844,9 +11844,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Sad1console1</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ06Sad1console1</ORIGINAL>
-    <TRADUIT>ttbMQ06Sad1console1</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -11904,9 +11904,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Sad1console2</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ06Sad1console2</ORIGINAL>
-    <TRADUIT>ttbMQ06Sad1console2</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -11940,9 +11940,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Sad1console1a</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ06Sad1console1a</ORIGINAL>
-    <TRADUIT>ttbMQ06Sad1console1a</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -11976,9 +11976,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Sad1console1b</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ06Sad1console1b</ORIGINAL>
-    <TRADUIT>ttbMQ06Sad1console1b</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12024,9 +12024,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Sad1console1ai</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ06Sad1console1ai</ORIGINAL>
-    <TRADUIT>ttbMQ06Sad1console1ai</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12048,9 +12048,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Sad1console1ai</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I can't help but think what it's gonna be like when I die... Or what if you go first -  and I have to lose you too?</ORIGINAL>
-    <TRADUIT>I can't help but think what it's gonna be like when I die... Or what if you go first -  and I have to lose you too?</TRADUIT>
+    <TRADUIT />
     <INDEX>2</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12060,9 +12060,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Sad1console1ai</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I couldn't keep on all by myself...</ORIGINAL>
-    <TRADUIT>I couldn't keep on all by myself...</TRADUIT>
+    <TRADUIT />
     <INDEX>3</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12072,9 +12072,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Sad1console1ai</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>I don't think I can deal with this yet.</ORIGINAL>
-    <TRADUIT>I don't think I can deal with this yet.</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12084,9 +12084,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Sad1console1aii</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ06Sad1console1aii</ORIGINAL>
-    <TRADUIT>ttbMQ06Sad1console1aii</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12108,9 +12108,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Sad1console1aii</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I can't help but think what it's gonna be like when I die... Or what if you go first -  and I have to lose you too?</ORIGINAL>
-    <TRADUIT>I can't help but think what it's gonna be like when I die... Or what if you go first -  and I have to lose you too?</TRADUIT>
+    <TRADUIT />
     <INDEX>2</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12120,9 +12120,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Sad1console1aii</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I couldn't keep on all by myself...</ORIGINAL>
-    <TRADUIT>I couldn't keep on all by myself...</TRADUIT>
+    <TRADUIT />
     <INDEX>3</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12144,9 +12144,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Sad1console2a</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ06Sad1console2a</ORIGINAL>
-    <TRADUIT>ttbMQ06Sad1console2a</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12156,9 +12156,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Sad1console2a</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I don't know how you're holding it all together.</ORIGINAL>
-    <TRADUIT>I don't know how you're holding it all together.</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12180,9 +12180,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Sad1console2ai</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ06Sad1console2ai</ORIGINAL>
-    <TRADUIT>ttbMQ06Sad1console2ai</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12228,9 +12228,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Sad1console2ai</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>I guess I haven't really thought about it.</ORIGINAL>
-    <TRADUIT>I guess I haven't really thought about it.</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12240,9 +12240,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Sad1console2aii</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ06Sad1console2aii</ORIGINAL>
-    <TRADUIT>ttbMQ06Sad1console2aii</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12264,9 +12264,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Sad1console2aii</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>I had a feeling it wasn't going to work out from the start.</ORIGINAL>
-    <TRADUIT>I had a feeling it wasn't going to work out from the start.</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12276,9 +12276,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Sad1console2aii1</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ06Sad1console2aii1</ORIGINAL>
-    <TRADUIT>ttbMQ06Sad1console2aii1</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12336,9 +12336,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Sad1console2aii2</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ06Sad1console2aii2</ORIGINAL>
-    <TRADUIT>ttbMQ06Sad1console2aii2</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12408,9 +12408,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Sad1console1ai1</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ06Sad1console1ai1</ORIGINAL>
-    <TRADUIT>ttbMQ06Sad1console1ai1</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12456,9 +12456,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Sad1console1ai2</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ06Sad1console1ai2</ORIGINAL>
-    <TRADUIT>ttbMQ06Sad1console1ai2</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12470,7 +12470,7 @@ endif</ORIGINAL>
     <ORIGINAL>What?</ORIGINAL>
     <TRADUIT>¿Qué?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12492,9 +12492,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Sad1console1ai3</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ06Sad1console1ai3</ORIGINAL>
-    <TRADUIT>ttbMQ06Sad1console1ai3</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12506,7 +12506,7 @@ endif</ORIGINAL>
     <ORIGINAL>What?</ORIGINAL>
     <TRADUIT>¿Qué?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12528,9 +12528,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Sad1console1ai2a</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ06Sad1console1ai2a</ORIGINAL>
-    <TRADUIT>ttbMQ06Sad1console1ai2a</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12576,9 +12576,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Sad1console1ai2b</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ06Sad1console1ai2b</ORIGINAL>
-    <TRADUIT>ttbMQ06Sad1console1ai2b</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12612,9 +12612,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Sad1console1ai2ai</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ06Sad1console1ai2ai</ORIGINAL>
-    <TRADUIT>ttbMQ06Sad1console1ai2ai</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12672,9 +12672,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Sad1console1ai2aii</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ06Sad1console1ai2aii</ORIGINAL>
-    <TRADUIT>ttbMQ06Sad1console1ai2aii</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12708,9 +12708,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ07Pfalls1Reconsider1</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ07Pfalls1Reconsider1</ORIGINAL>
-    <TRADUIT>ttbMQ07Pfalls1Reconsider1</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12744,9 +12744,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ07Pfalls1Reconsider2</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ07Pfalls1Reconsider2</ORIGINAL>
-    <TRADUIT>ttbMQ07Pfalls1Reconsider2</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12758,7 +12758,7 @@ endif</ORIGINAL>
     <ORIGINAL>Like last time?!</ORIGINAL>
     <TRADUIT>¡¿Como la última vez?!</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>90</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12780,9 +12780,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ07Pfalls1Reconsider3</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ07Pfalls1Reconsider3</ORIGINAL>
-    <TRADUIT>ttbMQ07Pfalls1Reconsider3</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12794,7 +12794,7 @@ endif</ORIGINAL>
     <ORIGINAL>What are you talking about?!</ORIGINAL>
     <TRADUIT>¡¿De qué estás hablando?!</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>90</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12816,9 +12816,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ07Pfalls1Reconsider1a</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ07Pfalls1Reconsider1a</ORIGINAL>
-    <TRADUIT>ttbMQ07Pfalls1Reconsider1a</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12828,9 +12828,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ07Pfalls1Reconsider1a</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Wait! Just... don't go too far...</ORIGINAL>
-    <TRADUIT>¡Espera! Al menos... no te alejes mucho..</TRADUIT>
+    <TRADUIT>¡Espera! Al menos... no te alejes mucho...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>90</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12842,7 +12842,7 @@ endif</ORIGINAL>
     <ORIGINAL>Suit yourself.</ORIGINAL>
     <TRADUIT>Como quieras.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12852,9 +12852,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ07Pfalls1Reconsider2a</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ07Pfalls1Reconsider2a</ORIGINAL>
-    <TRADUIT>ttbMQ07Pfalls1Reconsider2a</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12900,9 +12900,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ07Pfalls1Reconsider2b</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ07Pfalls1Reconsider2b</ORIGINAL>
-    <TRADUIT>ttbMQ07Pfalls1Reconsider2b</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12948,9 +12948,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ07Pfalls1Reconsider3a</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ07Pfalls1Reconsider3a</ORIGINAL>
-    <TRADUIT>ttbMQ07Pfalls1Reconsider3a</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12996,9 +12996,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ07Pfalls1Reconsider3b</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ07Pfalls1Reconsider3b</ORIGINAL>
-    <TRADUIT>ttbMQ07Pfalls1Reconsider3b</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -13044,9 +13044,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ07Pfalls1Reconsider</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ07Pfalls1Reconsider</ORIGINAL>
-    <TRADUIT>ttbMQ07Pfalls1Reconsider</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -13082,9 +13082,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ07Pfalls1Reconsider3ai</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ07Pfalls1Reconsider3ai</ORIGINAL>
-    <TRADUIT>ttbMQ07Pfalls1Reconsider3ai</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -13118,9 +13118,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ07Pfalls1Reconsider3aii</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ07Pfalls1Reconsider3aii</ORIGINAL>
-    <TRADUIT>ttbMQ07Pfalls1Reconsider3aii</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -13166,9 +13166,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ07Pfalls1Reconsider3ai1</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ07Pfalls1Reconsider3ai1</ORIGINAL>
-    <TRADUIT>ttbMQ07Pfalls1Reconsider3ai1</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -13250,9 +13250,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ07Pfalls1Reconsider3ai2</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ07Pfalls1Reconsider3ai2</ORIGINAL>
-    <TRADUIT>ttbMQ07Pfalls1Reconsider3ai2</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -13286,9 +13286,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ07Pfalls2Reassure</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ07Pfalls2Reassure</ORIGINAL>
-    <TRADUIT>ttbMQ07Pfalls2Reassure</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -13298,9 +13298,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ07Pfalls2Reassure</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I didn't even get the worst of it. Eulogy took a... liking to me. I suppose I should count myself lucky.</ORIGINAL>
-    <TRADUIT>I didn't even get the worst of it. Eulogy took a... liking to me. I suppose I should count myself lucky.</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -13322,9 +13322,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ07Pfalls2Reassure1</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ07Pfalls2Reassure1</ORIGINAL>
-    <TRADUIT>ttbMQ07Pfalls2Reassure1</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -13358,9 +13358,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ07Pfalls2Reassure1</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I hope it's just a story told to scare people...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Espero que solo sea un cuento para asustar a la gente...</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -13370,9 +13370,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ07Pfalls2Reassure1</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>I'll make them pay...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Les haré pagar...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -13382,9 +13382,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ07Pfalls2Reassure2</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ07Pfalls2Reassure2</ORIGINAL>
-    <TRADUIT>ttbMQ07Pfalls2Reassure2</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -13406,9 +13406,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ07Pfalls2Reassure2</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I hope it's just a story told to scare people...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Espero que solo sea un cuento para asustar a la gente...</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -13430,9 +13430,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ07Pfalls2Reassure2a</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ07Pfalls2Reassure2a</ORIGINAL>
-    <TRADUIT>ttbMQ07Pfalls2Reassure2a</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -13466,9 +13466,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ07Pfalls2Reassure2b</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ07Pfalls2Reassure2b</ORIGINAL>
-    <TRADUIT>ttbMQ07Pfalls2Reassure2b</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -13502,9 +13502,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ09Escape1Rescue1</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ09Escape1Rescue1</ORIGINAL>
-    <TRADUIT>ttbMQ09Escape1Rescue1</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -13550,9 +13550,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ09Escape1Rescue2</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ09Escape1Rescue2</ORIGINAL>
-    <TRADUIT>ttbMQ09Escape1Rescue2</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -13610,9 +13610,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ09Escape1Rescue3</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ09Escape1Rescue3</ORIGINAL>
-    <TRADUIT>ttbMQ09Escape1Rescue3</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -13670,9 +13670,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ09Escape1Rescue1a</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ09Escape1Rescue1a</ORIGINAL>
-    <TRADUIT>ttbMQ09Escape1Rescue1a</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -13722,9 +13722,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ09Escape1Rescue1b</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ09Escape1Rescue1b</ORIGINAL>
-    <TRADUIT>ttbMQ09Escape1Rescue1b</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -13770,9 +13770,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ09Escape1Rescue1c</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ09Escape1Rescue1c</ORIGINAL>
-    <TRADUIT>ttbMQ09Escape1Rescue1c</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -13818,9 +13818,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ09Escape1Rescue1ci</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ09Escape1Rescue1ci</ORIGINAL>
-    <TRADUIT>ttbMQ09Escape1Rescue1ci</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -13870,9 +13870,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ09Escape1Rescue1cii</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ09Escape1Rescue1cii</ORIGINAL>
-    <TRADUIT>ttbMQ09Escape1Rescue1cii</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -13918,9 +13918,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ09Escape1Rescue1cii1</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ09Escape1Rescue1cii1</ORIGINAL>
-    <TRADUIT>ttbMQ09Escape1Rescue1cii1</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -13970,9 +13970,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ09Escape1Rescue1cii2</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ09Escape1Rescue1cii2</ORIGINAL>
-    <TRADUIT>ttbMQ09Escape1Rescue1cii2</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -14009,9 +14009,9 @@ set TTBFamilyReunion.RetrieveDad to 99</ORIGINAL>
     <EDID>ttbMQ09Escape1Rescue1cii2</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>We're not getting his body - end of discussion.</ORIGINAL>
-    <TRADUIT>We're not getting his body - end of discussion.</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -14021,9 +14021,9 @@ set TTBFamilyReunion.RetrieveDad to 99</ORIGINAL>
     <EDID>ttbMQ09Escape2FoundDad</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ09Escape2FoundDad</ORIGINAL>
-    <TRADUIT>ttbMQ09Escape2FoundDad</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -14057,9 +14057,9 @@ set TTBFamilyReunion.RetrieveDad to 99</ORIGINAL>
     <EDID>ttbMQ09Escape2TookDad</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ09Escape2TookDad</ORIGINAL>
-    <TRADUIT>ttbMQ09Escape2TookDad</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -14081,9 +14081,9 @@ set TTBFamilyReunion.RetrieveDad to 99</ORIGINAL>
     <EDID>ttbOQ01Funeral1Plan</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Funeral1Plan</ORIGINAL>
-    <TRADUIT>ttbOQ01Funeral1Plan</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -14093,9 +14093,9 @@ set TTBFamilyReunion.RetrieveDad to 99</ORIGINAL>
     <EDID>ttbOQ01Funeral1Plan</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Well, I guess with that over we should... I don't even know.</ORIGINAL>
-    <TRADUIT>Well, I guess with that over we should... I don't even know.</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -14117,9 +14117,9 @@ set TTBFamilyReunion.RetrieveDad to 99</ORIGINAL>
     <EDID>ttbOQ01Funeral1Plan1</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Funeral1Plan1</ORIGINAL>
-    <TRADUIT>ttbOQ01Funeral1Plan1</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -14166,9 +14166,9 @@ setstage ttbFamilyReunion 60</ORIGINAL>
     <EDID>ttbOQ01Funeral1Plan2</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Funeral1Plan2</ORIGINAL>
-    <TRADUIT>ttbOQ01Funeral1Plan2</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -14215,9 +14215,9 @@ setstage ttbFamilyReunion 60</ORIGINAL>
     <EDID>ttbOQ01Funeral1Plan3</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Funeral1Plan3</ORIGINAL>
-    <TRADUIT>ttbOQ01Funeral1Plan3</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -14264,9 +14264,9 @@ setstage ttbFamilyReunion 60</ORIGINAL>
     <EDID>ttbOQ01Funeral1Reflect</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Funeral1Eulogy</ORIGINAL>
-    <TRADUIT>ttbOQ01Funeral1Eulogy</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -14288,9 +14288,9 @@ setstage ttbFamilyReunion 60</ORIGINAL>
     <EDID>ttbOQ01Funeral1Reflect1</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Funeral1Eulogy111</ORIGINAL>
-    <TRADUIT>ttbOQ01Funeral1Eulogy111</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -14372,9 +14372,9 @@ setstage ttbFamilyReunion 60</ORIGINAL>
     <EDID>ttbOQ01Funeral1Reflect2</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Funeral1Eulogy2</ORIGINAL>
-    <TRADUIT>ttbOQ01Funeral1Eulogy2</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -14480,9 +14480,9 @@ setstage ttbFamilyReunion 60</ORIGINAL>
     <EDID>ttbOQ01Funeral1Reflect1a</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Funeral1Eulogy1a</ORIGINAL>
-    <TRADUIT>ttbOQ01Funeral1Eulogy1a</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -14540,9 +14540,9 @@ setstage ttbFamilyReunion 60</ORIGINAL>
     <EDID>ttbOQ01Funeral1Reflect1b</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Funeral1Eulogy1b</ORIGINAL>
-    <TRADUIT>ttbOQ01Funeral1Eulogy1b</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -14576,9 +14576,9 @@ setstage ttbFamilyReunion 60</ORIGINAL>
     <EDID>ttbOQ01Funeral1Eulogy1</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Funeral1Eulogy1</ORIGINAL>
-    <TRADUIT>ttbOQ01Funeral1Eulogy1</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -14612,9 +14612,9 @@ setstage ttbFamilyReunion 60</ORIGINAL>
     <EDID>ttbOQ01Funeral1Eulogy2</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Funeral1Eulogy2</ORIGINAL>
-    <TRADUIT>ttbOQ01Funeral1Eulogy2</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -14661,9 +14661,9 @@ ttbAmandaRef.say ttbOQ01Funeral1EulogyGiveALT</ORIGINAL>
     <EDID>ttbOQ01Funeral1Eulogy3</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Funeral1Eulogy3</ORIGINAL>
-    <TRADUIT>ttbOQ01Funeral1Eulogy3</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -14733,9 +14733,9 @@ ttbAmandaRef.say ttbOQ01Funeral1EulogyGiveALT</ORIGINAL>
     <EDID>ttbOQ01Funeral1Eulogy1a</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Funeral1Eulogy1a</ORIGINAL>
-    <TRADUIT>ttbOQ01Funeral1Eulogy1a</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -14745,9 +14745,9 @@ ttbAmandaRef.say ttbOQ01Funeral1EulogyGiveALT</ORIGINAL>
     <EDID>ttbOQ01Funeral1Eulogy1a</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>What are you going to miss most?</ORIGINAL>
-    <TRADUIT>What are you going to miss most?</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -14769,9 +14769,9 @@ ttbAmandaRef.say ttbOQ01Funeral1EulogyGiveALT</ORIGINAL>
     <EDID>ttbOQ01Funeral1Eulogy1b</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Funeral1Eulogy1b</ORIGINAL>
-    <TRADUIT>ttbOQ01Funeral1Eulogy1b</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -14818,9 +14818,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Funeral1Eulogy1c</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Funeral1Eulogy1c</ORIGINAL>
-    <TRADUIT>ttbOQ01Funeral1Eulogy1c</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -14854,9 +14854,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Funeral1Eulogy1ai</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Funeral1Eulogy1ai</ORIGINAL>
-    <TRADUIT>ttbOQ01Funeral1Eulogy1ai</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -14902,9 +14902,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Funeral1Eulogy1aii</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Funeral1Eulogy1aii</ORIGINAL>
-    <TRADUIT>ttbOQ01Funeral1Eulogy1aii</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -14950,9 +14950,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Funeral1Eulogy1aiii</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Funeral1Eulogy1aiii</ORIGINAL>
-    <TRADUIT>ttbOQ01Funeral1Eulogy1aiii</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -14998,9 +14998,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Funeral1Eulogy1aiv</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Funeral1Eulogy1aiv</ORIGINAL>
-    <TRADUIT>ttbOQ01Funeral1Eulogy1aiv</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15010,9 +15010,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Funeral1Eulogy1aiv</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I wasn't expecting THAT...</ORIGINAL>
-    <TRADUIT>I wasn't expecting THAT...</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15046,9 +15046,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Funeral1Eulogy1ai1</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Funeral1Eulogy1ai1</ORIGINAL>
-    <TRADUIT>ttbOQ01Funeral1Eulogy1ai1</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15058,9 +15058,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Funeral1Eulogy1ai1</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>We've still got each other.</ORIGINAL>
-    <TRADUIT>We've still got each other.</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15107,9 +15107,9 @@ setStage ttbFamilyReunion 70</ORIGINAL>
     <EDID>ttbOQ01Funeral1Eulogy1ai2</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Funeral1Eulogy1ai2</ORIGINAL>
-    <TRADUIT>ttbOQ01Funeral1Eulogy1ai2</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15156,9 +15156,9 @@ setStage ttbFamilyReunion 70</ORIGINAL>
     <EDID>ttbOQ01Funeral1Eulogy1ai3</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Funeral1Eulogy1ai3</ORIGINAL>
-    <TRADUIT>ttbOQ01Funeral1Eulogy1ai3</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15229,9 +15229,9 @@ setStage ttbFamilyReunion 70</ORIGINAL>
     <EDID>ttbOQ01Funeral1EulogyGive</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Funeral1EulogyGive</ORIGINAL>
-    <TRADUIT>ttbOQ01Funeral1EulogyGive</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15283,9 +15283,9 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Funeral1EulogyGive2</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Funeral1EulogyGive2</ORIGINAL>
-    <TRADUIT>ttbOQ01Funeral1EulogyGive2</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15319,9 +15319,9 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Funeral1EulogyGive3</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Funeral1EulogyGive3</ORIGINAL>
-    <TRADUIT>ttbOQ01Funeral1EulogyGive3</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15355,9 +15355,9 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Funeral1EulogyGive4</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Funeral1EulogyGive4</ORIGINAL>
-    <TRADUIT>ttbOQ01Funeral1EulogyGive4</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15391,9 +15391,9 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Funeral1EulogyGiveALT</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Funeral1EulogyGiveALT</ORIGINAL>
-    <TRADUIT>ttbOQ01Funeral1EulogyGiveALT</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15445,9 +15445,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Home1Remains</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Home1Remains</ORIGINAL>
-    <TRADUIT>ttbOQ01Home1Remains</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15457,9 +15457,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Home1Remains</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I guess it's back to business. We' should probably tell the Brotherhood about Raven Rock.</ORIGINAL>
-    <TRADUIT>I guess it's back to business. We' should probably tell the Brotherhood about Raven Rock.</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15481,9 +15481,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Home1Remains1</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Home1Remains1</ORIGINAL>
-    <TRADUIT>ttbOQ01Home1Remains1</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15517,9 +15517,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Home1Remains2</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Home1Remains2</ORIGINAL>
-    <TRADUIT>ttbOQ01Home1Remains2</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15553,9 +15553,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Home1Remains3</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Home1Remains3</ORIGINAL>
-    <TRADUIT>ttbOQ01Home1Remains3</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15589,9 +15589,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Home1Remains4</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Home1Remains4</ORIGINAL>
-    <TRADUIT>ttbOQ01Home1Remains4</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15625,9 +15625,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Home1Remains1a</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Home1Remains1a</ORIGINAL>
-    <TRADUIT>ttbOQ01Home1Remains1a</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15649,9 +15649,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Home1Remains1a</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>What did you and Dad do with Mom's body?</ORIGINAL>
-    <TRADUIT>What did you and Dad do with Mom's body?</TRADUIT>
+    <TRADUIT>¿Qué hicisteis papá y tú con el cuerpo de mamá?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15661,9 +15661,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Home1Remains1b</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Home1Remains1b</ORIGINAL>
-    <TRADUIT>ttbOQ01Home1Remains1b</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15709,9 +15709,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Home1Remains3a</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Home1Remains3a</ORIGINAL>
-    <TRADUIT>ttbOQ01Home1Remains3a</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15733,9 +15733,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Home1Remains3a</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>What aren't you telling me?</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¿Qué es lo que no me estás contando?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15745,9 +15745,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Home1Remains3b</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Home1Remains3b</ORIGINAL>
-    <TRADUIT>ttbOQ01Home1Remains3b</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15781,9 +15781,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Home1Remains3c</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Home1Remains3c</ORIGINAL>
-    <TRADUIT>ttbOQ01Home1Remains3c</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15817,9 +15817,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Home1Truth1</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Home1Truth1</ORIGINAL>
-    <TRADUIT>ttbOQ01Home1Truth1</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15853,9 +15853,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Home1Truth2</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Home1Truth2</ORIGINAL>
-    <TRADUIT>ttbOQ01Home1Truth2</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15889,9 +15889,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Home1Truth1a</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Home1Truth1a</ORIGINAL>
-    <TRADUIT>ttbOQ01Home1Truth1a</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15913,9 +15913,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Home1Truth1a</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I didn't even know about it until after Mum died: when Dad suddenly became obsessed with taking her body there.</ORIGINAL>
-    <TRADUIT>I didn't even know about it until after Mum died: when Dad suddenly became obsessed with taking her body there.</TRADUIT>
+    <TRADUIT />
     <INDEX>2</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15937,9 +15937,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Home1Truth1a</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>Why did you avoid telling me?</ORIGINAL>
-    <TRADUIT>Why did you avoid telling me?</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15949,9 +15949,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Home1Truth1b</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Home1Truth1b</ORIGINAL>
-    <TRADUIT>ttbOQ01Home1Truth1b</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15985,9 +15985,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Home1Truth1c</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Home1Truth1c</ORIGINAL>
-    <TRADUIT>ttbOQ01Home1Truth1c</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16033,9 +16033,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Home1Truth1bi</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Home1Truth1bi</ORIGINAL>
-    <TRADUIT>ttbOQ01Home1Truth1bi</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16081,9 +16081,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Home1Truth1bii</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Home1Truth1bii</ORIGINAL>
-    <TRADUIT>ttbOQ01Home1Truth1bii</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16117,9 +16117,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Home1Truth1bii1</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Home1Truth1bii1</ORIGINAL>
-    <TRADUIT>ttbOQ01Home1Truth1bii1</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16203,9 +16203,9 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Home1Truth1bii2</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Home1Truth1bii2</ORIGINAL>
-    <TRADUIT>ttbOQ01Home1Truth1bii2</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16277,9 +16277,9 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Home1Truth1bii3</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Home1Truth1bii3</ORIGINAL>
-    <TRADUIT>ttbOQ01Home1Truth1bii3</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16327,9 +16327,9 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Home1Truth1bii3</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I can't say I'm looking forward to it, but I understand.</ORIGINAL>
-    <TRADUIT>I can't say I'm looking forward to it, but I understand.</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16363,6 +16363,7 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Home1Truth1bii3</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>That's where I want to spread Dad's ashes.</ORIGINAL>
+    <TRADUIT />
     <INDEX>1</INDEX>
     <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
@@ -16374,9 +16375,9 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Home2Arrive</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Home2Arrive</ORIGINAL>
-    <TRADUIT>ttbOQ01Home2Arrive</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16496,9 +16497,9 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Home3Mom</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Home3Mom</ORIGINAL>
-    <TRADUIT>ttbOQ01Home3Mom</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16510,7 +16511,7 @@ endif</ORIGINAL>
     <ORIGINAL>This is it.</ORIGINAL>
     <TRADUIT>Ya está.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16520,9 +16521,9 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Home3Mom1</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Home3Mom1</ORIGINAL>
-    <TRADUIT>ttbOQ01Home3Mom1</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16544,9 +16545,9 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Home3Mom1</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>What do I do now?</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¿Qué hago ahora?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16568,9 +16569,9 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Home3Mom1</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>What do I do now?</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¿Qué hago ahora?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16664,9 +16665,9 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Home3Mom1a</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Home3Mom1a</ORIGINAL>
-    <TRADUIT>ttbOQ01Home3Mom1a</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16712,9 +16713,9 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Home3Mom1a</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I'll see you inside.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Te veré dentro.</TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16751,9 +16752,9 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Home3Mom1b</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Home3Mom1b</ORIGINAL>
-    <TRADUIT>ttbOQ01Home3Mom1b</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16775,9 +16776,9 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Home3Mom1b</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I'll see you inside.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Te veré dentro.</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16814,9 +16815,9 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Home3Mom1c</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Home3Mom1c</ORIGINAL>
-    <TRADUIT>ttbOQ01Home3Mom1c</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16838,9 +16839,9 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Home3Mom1c</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I'll see you inside.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Te veré dentro.</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16877,9 +16878,9 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Home3Mom1d</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Home3Mom1d</ORIGINAL>
-    <TRADUIT>ttbOQ01Home3Mom1d</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16925,9 +16926,9 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Home3Mom1d</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I'll see you inside.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Te veré dentro.</TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -17014,7 +17015,7 @@ endif</ORIGINAL>
     <ORIGINAL>What is it?</ORIGINAL>
     <TRADUIT>¿Qué pasa?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -17376,9 +17377,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight1Payback</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ11Fight1</ORIGINAL>
-    <TRADUIT>ttbMQ11Fight1</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -17400,9 +17401,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight1Payback1</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ11Fight1Payback1</ORIGINAL>
-    <TRADUIT>ttbMQ11Fight1Payback1</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -17451,9 +17452,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight1Payback2</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ11Fight1Payback2</ORIGINAL>
-    <TRADUIT>ttbMQ11Fight1Payback2</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -17499,9 +17500,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight1Payback3</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ11Fight1Payback3</ORIGINAL>
-    <TRADUIT>ttbMQ11Fight1Payback3</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -17511,9 +17512,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight1Payback3</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>What are you talking about? Of course I'm coming.</ORIGINAL>
-    <TRADUIT>What are you talking about? Of course I'm coming.</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -17535,9 +17536,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight1Payback2a</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ11Fight1Payback2a</ORIGINAL>
-    <TRADUIT>ttbMQ11Fight1Payback2a</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -17586,9 +17587,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight1Payback2b</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ11Fight1Payback2b</ORIGINAL>
-    <TRADUIT>ttbMQ11Fight1Payback2b</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -17622,9 +17623,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight1Payback2bi</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ11Fight1Payback2bi</ORIGINAL>
-    <TRADUIT>ttbMQ11Fight1Payback2bi</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -17673,9 +17674,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight1Payback3ai</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ11Fight1Payback3ai</ORIGINAL>
-    <TRADUIT>ttbMQ11Fight1Payback3ai</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -17724,9 +17725,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight1Payback3a</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ11Fight1Payback3a</ORIGINAL>
-    <TRADUIT>ttbMQ11Fight1Payback3a</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -17772,9 +17773,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight1Payback3b</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ11Fight1Payback3b</ORIGINAL>
-    <TRADUIT>ttbMQ11Fight1Payback3b</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -17796,9 +17797,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight1Payback3b</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>I can't risk anything happening to you.</ORIGINAL>
-    <TRADUIT>I can't risk anything happening to you.</TRADUIT>
+    <TRADUIT>No puedo arriesgarme a que te pase nada.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>90</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -17808,9 +17809,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight1Payback3c</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ11Fight1Payback3c</ORIGINAL>
-    <TRADUIT>ttbMQ11Fight1Payback3c</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -17844,9 +17845,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight1Payback3bi</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ11Fight1Payback3bi</ORIGINAL>
-    <TRADUIT>ttbMQ11Fight1Payback3bi</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -17907,9 +17908,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight1Payback3bii</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ11Fight1Payback3bii</ORIGINAL>
-    <TRADUIT>ttbMQ11Fight1Payback3bii</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -17931,9 +17932,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight1Payback3bii</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>What am I supposed to do when my baby brother doesn't come home?</ORIGINAL>
-    <TRADUIT>What am I supposed to do when my baby brother doesn't come home?</TRADUIT>
+    <TRADUIT />
     <INDEX>2</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -17967,9 +17968,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight1Payback3bii</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>What am I supposed to do when my baby sister doesn't come home?</ORIGINAL>
-    <TRADUIT>What am I supposed to do when my baby sister doesn't come home?</TRADUIT>
+    <TRADUIT />
     <INDEX>2</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -17991,9 +17992,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight1Payback3bii1</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ11Fight1Payback3bii1</ORIGINAL>
-    <TRADUIT>ttbMQ11Fight1Payback3bii1</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18105,9 +18106,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ11Fight2Wound</ORIGINAL>
-    <TRADUIT>ttbMQ11Fight2Wound</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18141,9 +18142,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound1</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ11Fight2Wound1</ORIGINAL>
-    <TRADUIT>ttbMQ11Fight2Wound1</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18189,9 +18190,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound1</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>What happened?</ORIGINAL>
-    <TRADUIT>¿Qué ha ocurrido?</TRADUIT>
+    <TRADUIT>¿Qué ha pasado?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18201,9 +18202,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound2</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ11Fight2Wound2</ORIGINAL>
-    <TRADUIT>ttbMQ11Fight2Wound2</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18251,7 +18252,7 @@ endif</ORIGINAL>
     <ORIGINAL>Are you okay?</ORIGINAL>
     <TRADUIT>¿Estás bien?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18261,9 +18262,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound3</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ11Fight2Wound3</ORIGINAL>
-    <TRADUIT>ttbMQ11Fight2Wound3</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18333,9 +18334,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound1a</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ11Fight2Wound1a</ORIGINAL>
-    <TRADUIT>ttbMQ11Fight2Wound1a</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18466,9 +18467,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound1b</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ11Fight2Wound1b</ORIGINAL>
-    <TRADUIT>ttbMQ11Fight2Wound1b</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18541,7 +18542,7 @@ endif</ORIGINAL>
     <ORIGINAL>What can I do?</ORIGINAL>
     <TRADUIT>¿Qué puedo hacer?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18599,9 +18600,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound1c</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ11Fight2Wound1c</ORIGINAL>
-    <TRADUIT>ttbMQ11Fight2Wound1c</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18732,9 +18733,9 @@ showmessage ttbOQ01MessageKeepsakeNotification</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound1ai</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ11Fight2Wound1ai</ORIGINAL>
-    <TRADUIT>ttbMQ11Fight2Wound1ai</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18797,9 +18798,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound1aii</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ11Fight2Wound1aii</ORIGINAL>
-    <TRADUIT>ttbMQ11Fight2Wound1aii</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18862,9 +18863,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound1aiii</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ11Fight2Wound1aiii</ORIGINAL>
-    <TRADUIT>ttbMQ11Fight2Wound1aiii</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18927,9 +18928,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11AmandaWounded</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ11AmandaWounded</ORIGINAL>
-    <TRADUIT>ttbMQ11AmandaWounded</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18941,7 +18942,7 @@ endif</ORIGINAL>
     <ORIGINAL>Wait - hold on!</ORIGINAL>
     <TRADUIT>Espera ¡Un momento!</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>90</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18987,9 +18988,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ09FoundAmanda</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ09FoundAmanda</ORIGINAL>
-    <TRADUIT>ttbMQ09FoundAmanda</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -19038,9 +19039,9 @@ ttbAmandaRef.evp</ORIGINAL>
     <EDID>ttbMS12Tenpenny1</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMS12Tenpenny1</ORIGINAL>
-    <TRADUIT>ttbMS12Tenpenny1</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -19098,9 +19099,9 @@ ttbAmandaRef.evp</ORIGINAL>
     <EDID>ttbMS12Tenpenny2</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMS12Tenpenny2</ORIGINAL>
-    <TRADUIT>ttbMS12Tenpenny2</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -19146,9 +19147,9 @@ ttbAmandaRef.evp</ORIGINAL>
     <EDID>ttbMS12Tenpenny3</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMS12Tenpenny3</ORIGINAL>
-    <TRADUIT>ttbMS12Tenpenny3</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -19182,9 +19183,9 @@ ttbAmandaRef.evp</ORIGINAL>
     <EDID>ttbMS12Tenpenny1a</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMS12Tenpenny1a</ORIGINAL>
-    <TRADUIT>ttbMS12Tenpenny1a</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -19230,9 +19231,9 @@ ttbAmandaRef.evp</ORIGINAL>
     <EDID>ttbMS12Tenpenny1b</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMS12Tenpenny1b</ORIGINAL>
-    <TRADUIT>ttbMS12Tenpenny1b</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -19278,9 +19279,9 @@ ttbAmandaRef.evp</ORIGINAL>
     <EDID>ttbMS12Tenpenny3a</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMS12Tenpenny3a</ORIGINAL>
-    <TRADUIT>ttbMS12Tenpenny3a</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -19338,9 +19339,9 @@ ttbAmandaRef.evp</ORIGINAL>
     <EDID>ttbMS12Tenpenny3b</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMS12Tenpenny3b</ORIGINAL>
-    <TRADUIT>ttbMS12Tenpenny3b</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -19434,9 +19435,9 @@ ttbAmandaRef.evp</ORIGINAL>
     <EDID>ttbMS12Tenpenny3c</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMS12Tenpenny3c</ORIGINAL>
-    <TRADUIT>ttbMS12Tenpenny3c</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -19470,9 +19471,9 @@ ttbAmandaRef.evp</ORIGINAL>
     <EDID>ttbMS12Tenpenny3ai</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMS12Tenpenny3ai</ORIGINAL>
-    <TRADUIT>ttbMS12Tenpenny3ai</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -19506,9 +19507,9 @@ ttbAmandaRef.evp</ORIGINAL>
     <EDID>ttbMS12Tenpenny3aii</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMS12Tenpenny3aii</ORIGINAL>
-    <TRADUIT>ttbMS12Tenpenny3aii</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -19542,9 +19543,9 @@ ttbAmandaRef.evp</ORIGINAL>
     <EDID>ttbMS12Tenpenny3bi</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMS12Tenpenny3bi</ORIGINAL>
-    <TRADUIT>ttbMS12Tenpenny3bi</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -19578,9 +19579,9 @@ ttbAmandaRef.evp</ORIGINAL>
     <EDID>ttbMS12Tenpenny3bii</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMS12Tenpenny3bii</ORIGINAL>
-    <TRADUIT>ttbMS12Tenpenny3bii</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -19626,9 +19627,9 @@ ttbAmandaRef.evp</ORIGINAL>
     <EDID>ttbMS03Moira1</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMS03Moira1</ORIGINAL>
-    <TRADUIT>ttbMS03Moira1</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -19662,9 +19663,9 @@ ttbAmandaRef.evp</ORIGINAL>
     <EDID>ttbMS03Moira1a</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMS03Moira1a</ORIGINAL>
-    <TRADUIT>ttbMS03Moira1a</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -19698,9 +19699,9 @@ ttbAmandaRef.evp</ORIGINAL>
     <EDID>ttbMS03Moira1b</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMS03Moira1b</ORIGINAL>
-    <TRADUIT>ttbMS03Moira1b</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -19734,9 +19735,9 @@ ttbAmandaRef.evp</ORIGINAL>
     <EDID>ttbMS03Moira2</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMS03Moira2</ORIGINAL>
-    <TRADUIT>ttbMS03Moira2</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -19758,9 +19759,9 @@ ttbAmandaRef.evp</ORIGINAL>
     <EDID>ttbMS03Moira2a</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMS03Moira2a</ORIGINAL>
-    <TRADUIT>ttbMS03Moira2a</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -19794,9 +19795,9 @@ ttbAmandaRef.evp</ORIGINAL>
     <EDID>ttbMS03Moira2b</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMS03Moira2b</ORIGINAL>
-    <TRADUIT>ttbMS03Moira2b</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -19830,9 +19831,9 @@ ttbAmandaRef.evp</ORIGINAL>
     <EDID>ttbMS03Moira2ai</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMS03Moira2ai</ORIGINAL>
-    <TRADUIT>ttbMS03Moira2ai</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -19878,9 +19879,9 @@ ttbAmandaRef.evp</ORIGINAL>
     <EDID>ttbMS11Bomb</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMS11Bomb</ORIGINAL>
-    <TRADUIT>ttbMS11Bomb</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -19942,9 +19943,9 @@ endif</ORIGINAL>
     <EDID>ttbMS11Bomb1</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMS11Bomb1</ORIGINAL>
-    <TRADUIT>ttbMS11Bomb1</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -20014,9 +20015,9 @@ endif</ORIGINAL>
     <EDID>ttbMS11Bomb2</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMS11Bomb2</ORIGINAL>
-    <TRADUIT>ttbMS11Bomb2</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -20052,7 +20053,7 @@ endif</ORIGINAL>
     <ORIGINAL>What do you mean?</ORIGINAL>
     <TRADUIT>¿Qué quieres decir?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -20098,9 +20099,9 @@ endif</ORIGINAL>
     <EDID>ttbMS11Bomb3</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMS11Bomb3</ORIGINAL>
-    <TRADUIT>ttbMS11Bomb3</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -20134,9 +20135,9 @@ endif</ORIGINAL>
     <EDID>ttbMS11Bomb3a</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMS11Bomb3a</ORIGINAL>
-    <TRADUIT>ttbMS11Bomb3a</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -20182,9 +20183,9 @@ endif</ORIGINAL>
     <EDID>ttbMS11Bomb3b</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMS11Bomb3b</ORIGINAL>
-    <TRADUIT>ttbMS11Bomb3b</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -20218,9 +20219,9 @@ endif</ORIGINAL>
     <EDID>ttbMS11Bomb3bi</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMS11Bomb3bi</ORIGINAL>
-    <TRADUIT>ttbMS11Bomb3bi</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -20266,9 +20267,9 @@ endif</ORIGINAL>
     <EDID>ttbMS11Bomb3bii</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMS11Bomb3bii</ORIGINAL>
-    <TRADUIT>ttbMS11Bomb3bii</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -20314,9 +20315,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight3Forgive1</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ11Fight3Forgive1</ORIGINAL>
-    <TRADUIT>ttbMQ11Fight3Forgive1</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -20376,9 +20377,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight3Forgive2</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMQ11Fight3Forgive2</ORIGINAL>
-    <TRADUIT>ttbMQ11Fight3Forgive2</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -20486,7 +20487,7 @@ endif</ORIGINAL>
     <EDID>ttbMiscJoke1a</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>Who's there?</ORIGINAL>
-    <TRADUIT>¿Quién está ahí?</TRADUIT>
+    <TRADUIT>¿Quién es?</TRADUIT>
     <INDEX>1</INDEX>
     <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
@@ -20546,9 +20547,9 @@ endif</ORIGINAL>
     <EDID>ttbMiscJoke2</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Knock-knock!</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¡Toc toc!</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -20558,9 +20559,9 @@ endif</ORIGINAL>
     <EDID>ttbMiscJoke2</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>Seriously?</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>...¿En serio?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -20594,7 +20595,7 @@ endif</ORIGINAL>
     <EDID>ttbMiscJoke2a</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>Who's there?</ORIGINAL>
-    <TRADUIT>¿Quién está ahí?</TRADUIT>
+    <TRADUIT>¿Quién es?</TRADUIT>
     <INDEX>1</INDEX>
     <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
@@ -20642,9 +20643,9 @@ endif</ORIGINAL>
     <EDID>ttbMiscJoke3</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Oh, come on! Last one...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¡Oh, venga! El último...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -20654,9 +20655,9 @@ endif</ORIGINAL>
     <EDID>ttbMiscJoke3</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>I'm not doing this.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Paso de esto.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -20690,7 +20691,7 @@ endif</ORIGINAL>
     <EDID>ttbMiscJoke3a</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>Who's there?</ORIGINAL>
-    <TRADUIT>¿Quién está ahí?</TRADUIT>
+    <TRADUIT>¿Quién es?</TRADUIT>
     <INDEX>1</INDEX>
     <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
@@ -20738,9 +20739,9 @@ endif</ORIGINAL>
     <EDID>ttbMiscAmandaStay1</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Let me know when you're ready to go.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Avísame cuando quieras que nos marchemos.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
