@@ -1875,9 +1875,9 @@ END</ORIGINAL>
     <EDID>ttbCG04RaiderLeader</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Wilk</ORIGINAL>
-    <TRADUIT>Wilk</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>000042c3 (ID) - Hombre</COMMENTAIRE>
   </ESP>
@@ -1891,7 +1891,7 @@ END</ORIGINAL>
     <INDEX>1</INDEX>
     <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
-    <COMMENTAIRE>000042c3 (ID) - Hombre</COMMENTAIRE>
+    <COMMENTAIRE>Caucasian Old - Hombre</COMMENTAIRE>
   </ESP>
   <ESP>
     <GRUP>NPC_</GRUP>
@@ -2555,9 +2555,9 @@ endif</ORIGINAL>
     <EDID>GREETING</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>'Spose you come fer that peach we got locked up 'round back.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Supongo que vienes a por ese melocotoncito que tenemos encerrado ahí atrás.</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2569,7 +2569,7 @@ endif</ORIGINAL>
     <ORIGINAL>Yeah?</ORIGINAL>
     <TRADUIT>¿Sí?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2581,7 +2581,7 @@ endif</ORIGINAL>
     <ORIGINAL>Yeah?</ORIGINAL>
     <TRADUIT>¿Sí?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2809,9 +2809,9 @@ endif</ORIGINAL>
     <EDID>GREETING</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Thank God! Let's get the hell out of here.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¡Gracias a Dios! Larguémonos de aquí.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2839,7 +2839,7 @@ setobjectivecompleted ttbtiesthatbind 25 1</ORIGINAL>
     <ORIGINAL>Thank God! How did you find me?</ORIGINAL>
     <TRADUIT>¡Gracias a Dios! ¿Cómo me has encontrado?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2851,7 +2851,7 @@ setobjectivecompleted ttbtiesthatbind 25 1</ORIGINAL>
     <ORIGINAL>Nevermind. Can you get me out?</ORIGINAL>
     <TRADUIT>Da igual. ¿Puedes sacarme de aquí?</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2863,7 +2863,7 @@ setobjectivecompleted ttbtiesthatbind 25 1</ORIGINAL>
     <ORIGINAL>Any luck?</ORIGINAL>
     <TRADUIT>¿Ha habido suerte?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2875,7 +2875,7 @@ setobjectivecompleted ttbtiesthatbind 25 1</ORIGINAL>
     <ORIGINAL>Happy Birthday, little brother!</ORIGINAL>
     <TRADUIT>¡Feliz cumpleaños, hermanito!</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2887,7 +2887,7 @@ setobjectivecompleted ttbtiesthatbind 25 1</ORIGINAL>
     <ORIGINAL>Happy Birthday, little sister!</ORIGINAL>
     <TRADUIT>¡Feliz cumpleaños, hermanita!</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2899,7 +2899,7 @@ setobjectivecompleted ttbtiesthatbind 25 1</ORIGINAL>
     <ORIGINAL>Enjoy your party, kiddo.</ORIGINAL>
     <TRADUIT>Disfruta de tu fiesta, colega.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2971,11 +2971,9 @@ setobjectivecompleted ttbtiesthatbind 25 1</ORIGINAL>
     <ORIGINAL>if ttbdialogue.MiscJoke &lt; 1
 set ttbdialogue.MiscJoke to 1
 endif</ORIGINAL>
-    <TRADUIT>if ttbdialogue.MiscJoke &lt; 1
-set ttbdialogue.MiscJoke to 1
-endif</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2999,11 +2997,9 @@ endif</TRADUIT>
     <ORIGINAL>if ttbdialogue.MiscJoke &lt; 2
 set ttbdialogue.MiscJoke to 2
 endif</ORIGINAL>
-    <TRADUIT>if ttbdialogue.MiscJoke &lt; 2
-set ttbdialogue.MiscJoke to 2
-endif</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -3099,9 +3095,9 @@ ttbCG04JammedDoorRef.disable</ORIGINAL>
     <EDID>IdleChatter</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Idle Chatter</ORIGINAL>
-    <TRADUIT>Idle Chatter</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -3159,9 +3155,9 @@ ttbCG04JammedDoorRef.disable</ORIGINAL>
     <EDID>IdleChatter</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Another day in the wasteland...</ORIGINAL>
-    <TRADUIT>Another day in the wasteland...</TRADUIT>
+    <TRADUIT>Otro día en el yermo...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>90</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -3257,7 +3253,7 @@ ttbCG04JammedDoorRef.disable</ORIGINAL>
     <ORIGINAL>It's weird being back here.</ORIGINAL>
     <TRADUIT>Se siente raro estar aquí otra vez.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -3377,7 +3373,7 @@ ttbCG04JammedDoorRef.disable</ORIGINAL>
     <ORIGINAL>Now THIS is my kind of place!</ORIGINAL>
     <TRADUIT>¡Este sitio sí que me gusta!</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>90</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -3735,9 +3731,9 @@ ttbCG04JammedDoorRef.disable</ORIGINAL>
     <EDID>CombatIdleChatter</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>CombatIdleChatter</ORIGINAL>
-    <TRADUIT>CombatIdleChatter</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -3831,9 +3827,9 @@ ttbCG04JammedDoorRef.disable</ORIGINAL>
     <EDID>CombatToNormal</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>CombatToNormal</ORIGINAL>
-    <TRADUIT>CombatToNormal</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -3966,12 +3962,9 @@ ttbCG04JammedDoorRef.disable</ORIGINAL>
 set TTBDialogue.MQ01TruthDiscovered to 1
 ttbAmandaRef.evp
 endif</ORIGINAL>
-    <TRADUIT>if TTBDialogue.MQ01TruthDiscovered == 0
-set TTBDialogue.MQ01TruthDiscovered to 1
-ttbAmandaRef.evp
-endif</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -4032,12 +4025,9 @@ endif</TRADUIT>
 set TTBDialogue.MQ01TruthDiscovered to 1
 ttbAmandaRef.evp
 endif</ORIGINAL>
-    <TRADUIT>if TTBDialogue.MQ01TruthDiscovered == 0
-set TTBDialogue.MQ01TruthDiscovered to 1
-ttbAmandaRef.evp
-endif</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -4122,12 +4112,9 @@ endif</TRADUIT>
 set TTBDialogue.MQ01TruthDiscovered to 1
 ttbAmandaRef.evp
 endif</ORIGINAL>
-    <TRADUIT>if TTBDialogue.MQ01TruthDiscovered == 0
-set TTBDialogue.MQ01TruthDiscovered to 1
-ttbAmandaRef.evp
-endif</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -4161,9 +4148,9 @@ endif</TRADUIT>
     <EDID>MQ05DadDeathConv</EDID>
     <CHAMP>NAM2</CHAMP>
     <ORIGINAL>dyingDAD_RECORD</ORIGINAL>
-    <TRADUIT>dyingDAD_RECORD</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -4178,14 +4165,9 @@ set TTBDialogue.MQ05DadDeath to 1
 ttbAmandaRef.evp
 endif
 endif</ORIGINAL>
-    <TRADUIT>if TTBDialogue.AmandaFollowing == 1
-if TTBDialogue.MQ05DadDeath == 0
-set TTBDialogue.MQ05DadDeath to 1
-ttbAmandaRef.evp
-endif
-endif</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -4195,9 +4177,9 @@ endif</TRADUIT>
     <EDID>ttbCG02Bday1Greet1</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbCG02Bday1Greet1</ORIGINAL>
-    <TRADUIT>ttbCG02Bday1Greet1</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -4231,9 +4213,9 @@ endif</TRADUIT>
     <EDID>ttbCG02Bday1Greet2</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbCG02Bday1Greet2</ORIGINAL>
-    <TRADUIT>ttbCG02Bday1Greet2</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -4267,9 +4249,9 @@ endif</TRADUIT>
     <EDID>ttbCG02Bday1Greet2a</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbCG02Bday1Greet2a</ORIGINAL>
-    <TRADUIT>ttbCG02Bday1Greet2a</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -4339,9 +4321,9 @@ endif</TRADUIT>
     <EDID>ttbCG02Bday1Greet2b</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbCG02Bday1Greet2b</ORIGINAL>
-    <TRADUIT>ttbCG02Bday1Greet2b</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -4423,9 +4405,9 @@ endif</TRADUIT>
     <EDID>ttbCG02Bday1PipBoy1</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbCG02Bday1PipBoy1</ORIGINAL>
-    <TRADUIT>ttbCG02Bday1PipBoy1</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -4471,9 +4453,9 @@ endif</TRADUIT>
     <EDID>ttbCG02Bday1PipBoy2</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbCG02Bday1PipBoy2</ORIGINAL>
-    <TRADUIT>ttbCG02Bday1PipBoy2</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -4519,9 +4501,9 @@ endif</TRADUIT>
     <EDID>ttbCG02Bday1PipBoy1a</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbCG02Bday1</ORIGINAL>
-    <TRADUIT>ttbCG02Bday1</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -4603,9 +4585,9 @@ endif</TRADUIT>
     <EDID>ttbCG02Bday1PipBoy1b</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbCG02Bday1PipBoy1b</ORIGINAL>
-    <TRADUIT>ttbCG02Bday1PipBoy1b</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -4651,9 +4633,9 @@ endif</TRADUIT>
     <EDID>ttbCG02Bday1PipBoy2a</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbCG02Bday1PipBoy2a</ORIGINAL>
-    <TRADUIT>ttbCG02Bday1PipBoy2a</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -4711,9 +4693,9 @@ endif</TRADUIT>
     <EDID>ttbCG02Bday1Present1a</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbCG02Bday1Present1a</ORIGINAL>
-    <TRADUIT>ttbCG02Bday1Present1a</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -4759,9 +4741,9 @@ endif</TRADUIT>
     <EDID>ttbCG02Bday1Present1b</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbCG02Bday1Present1b</ORIGINAL>
-    <TRADUIT>ttbCG02Bday1Present1b</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -4807,9 +4789,9 @@ endif</TRADUIT>
     <EDID>ttbCG02Bday1Present1bi</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbCG02Bday1Present1c</ORIGINAL>
-    <TRADUIT>ttbCG02Bday1Present1c</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -4867,9 +4849,9 @@ endif</TRADUIT>
     <EDID>ttbCG02Bday1PipBoy2b</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbCG02Bday1PipBoy2b</ORIGINAL>
-    <TRADUIT>ttbCG02Bday1PipBoy2b</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -4939,9 +4921,9 @@ endif</TRADUIT>
     <EDID>ttbCG02Bday1Present1ai</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbCG02Bday1Present1ai</ORIGINAL>
-    <TRADUIT>ttbCG02Bday1Present1ai</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -4975,9 +4957,9 @@ endif</TRADUIT>
     <EDID>ttbCG02Bday1Present1bii</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbCG02Bday1Present1bii</ORIGINAL>
-    <TRADUIT>ttbCG02Bday1Present1bii</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -5035,9 +5017,9 @@ endif</TRADUIT>
     <EDID>ttbCG02Bday2Butch1</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbCG02Bday2Butch1</ORIGINAL>
-    <TRADUIT>ttbCG02Bday2Butch1</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -5095,9 +5077,9 @@ endif</TRADUIT>
     <EDID>ttbCG02Bday2Butch2</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbCG02Bday2Butch2</ORIGINAL>
-    <TRADUIT>ttbCG02Bday2Butch2</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -5143,9 +5125,9 @@ endif</TRADUIT>
     <EDID>ttbCG02Bday2Butch3</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbCG02Bday2Butch3</ORIGINAL>
-    <TRADUIT>ttbCG02Bday2Butch3</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -5191,9 +5173,9 @@ endif</TRADUIT>
     <EDID>ttbCG02Bday2Butch4</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbCG02Bday2Butch4</ORIGINAL>
-    <TRADUIT>ttbCG02Bday2Butch4</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -5227,9 +5209,9 @@ endif</TRADUIT>
     <EDID>ttbCG02Bday2Butch2a</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbCG02Bday2Butch2a</ORIGINAL>
-    <TRADUIT>ttbCG02Bday2Butch2a</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -5275,9 +5257,9 @@ endif</TRADUIT>
     <EDID>ttbCG02Bday2Butch2b</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbCG02Bday2Butch2b</ORIGINAL>
-    <TRADUIT>ttbCG02Bday2Butch2b</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -5311,9 +5293,9 @@ endif</TRADUIT>
     <EDID>ttbCG03Goat1Advice1</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbCG03Goat1</ORIGINAL>
-    <TRADUIT>ttbCG03Goat1</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -5347,9 +5329,9 @@ endif</TRADUIT>
     <EDID>ttbCG03Goat1Advice2</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbCG03Goat1Advice2</ORIGINAL>
-    <TRADUIT>ttbCG03Goat1Advice2</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -5395,9 +5377,9 @@ endif</TRADUIT>
     <EDID>ttbCG03Goat1Advice3</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbCG03Goat1Advice3</ORIGINAL>
-    <TRADUIT>ttbCG03Goat1Advice3</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -5431,9 +5413,9 @@ endif</TRADUIT>
     <EDID>ttbCG03Goat1Advice1a</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbCG03Goat1Advice1a</ORIGINAL>
-    <TRADUIT>ttbCG03Goat1Advice1a</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -5467,9 +5449,9 @@ endif</TRADUIT>
     <EDID>ttbCG03Goat1Advice1b</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbCG03Goat1Advice1b</ORIGINAL>
-    <TRADUIT>ttbCG03Goat1Advice1b</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -5503,9 +5485,9 @@ endif</TRADUIT>
     <EDID>ttbCG03Goat1Advice1c</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbCG03Goat1Advice1c</ORIGINAL>
-    <TRADUIT>ttbCG03Goat1Advice1c</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -5539,9 +5521,9 @@ endif</TRADUIT>
     <EDID>ttbCG04AmandaCallout</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbCG04AmandaCallout</ORIGINAL>
-    <TRADUIT>ttbCG04AmandaCallout</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -5551,9 +5533,9 @@ endif</TRADUIT>
     <EDID>ttbCG04AmandaCallout</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Hey, wait! Where are you going?!</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¡Oye, espera! ¡¿Donde vas?!</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -5575,9 +5557,9 @@ endif</TRADUIT>
     <EDID>ttbCG04AbandonAmanda</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbCG04AbandonAmanda</ORIGINAL>
-    <TRADUIT>ttbCG04AbandonAmanda</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -5587,9 +5569,9 @@ endif</TRADUIT>
     <EDID>ttbCG04AbandonAmanda</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Help me out of here! You can't just leave me!</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¡Ayúdame a salir de aquí! ¡No puedes abandonarme!</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -5611,9 +5593,9 @@ endif</TRADUIT>
     <EDID>ttbCG04HelpAmanda1</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbCG04HelpAmanda1</ORIGINAL>
-    <TRADUIT>ttbCG04HelpAmanda1</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -5659,9 +5641,9 @@ endif</TRADUIT>
     <EDID>ttbCG04HelpAmanda2</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbCG04HelpAmanda2</ORIGINAL>
-    <TRADUIT>ttbCG04HelpAmanda2</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -5695,9 +5677,9 @@ endif</TRADUIT>
     <EDID>ttbCG04HelpAmanda3</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbCG04HelpAmanda3</ORIGINAL>
-    <TRADUIT>ttbCG04HelpAmanda3</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -5733,9 +5715,9 @@ endif</ORIGINAL>
     <EDID>ttbCG04HelpAmanda4</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbCG04HelpAmanda4</ORIGINAL>
-    <TRADUIT>ttbCG04HelpAmanda4</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -5745,9 +5727,9 @@ endif</ORIGINAL>
     <EDID>ttbCG04HelpAmanda4</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I think if I just... come on... There!</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Creo que si intento... vamos... ¡Ahora!</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -5771,9 +5753,9 @@ set TTBDialogue.CG04TrapAmanda to 4
     <EDID>ttbCG04Kidnap2</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbCG04Kidnap2</ORIGINAL>
-    <TRADUIT>ttbCG04Kidnap2</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -5785,7 +5767,7 @@ set TTBDialogue.CG04TrapAmanda to 4
     <ORIGINAL>Hey, do you hear something...?</ORIGINAL>
     <TRADUIT>¿Oye, no has escuchado algo...?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>90</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -5807,9 +5789,9 @@ set TTBDialogue.CG04TrapAmanda to 4
     <EDID>ttbCG04Kidnap1</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbCG04Kidnap1</ORIGINAL>
-    <TRADUIT>ttbCG04Kidnap1</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -5821,7 +5803,7 @@ set TTBDialogue.CG04TrapAmanda to 4
     <ORIGINAL>Oh my God, it's so bright! Are your eyes all funny too?</ORIGINAL>
     <TRADUIT>¡Oh, Dios mío, hay tanta luz! ¿A tí también te molestan los ojos?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>90</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -5843,9 +5825,9 @@ set TTBDialogue.CG04TrapAmanda to 4
     <EDID>ttbCG04Kidnap3</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbCG04Kidnap3</ORIGINAL>
-    <TRADUIT>ttbCG04Kidnap3</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -5867,9 +5849,9 @@ set TTBDialogue.CG04TrapAmanda to 4
     <EDID>ttbCG04Wilk1</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbCG04Wilk1</ORIGINAL>
-    <TRADUIT>ttbCG04Wilk1</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -5903,9 +5885,9 @@ set TTBDialogue.CG04TrapAmanda to 4
     <EDID>ttbCG04Wilk2</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbCG04Wilk2</ORIGINAL>
-    <TRADUIT>ttbCG04Wilk2</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -5915,9 +5897,9 @@ set TTBDialogue.CG04TrapAmanda to 4
     <EDID>ttbCG04Wilk2</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Seriously? Shit, that went fast.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¿En serio? Joder, se nos han acabado pronto.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -5927,9 +5909,9 @@ set TTBDialogue.CG04TrapAmanda to 4
     <EDID>ttbCG04Wilk3</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbCG04Wilk3</ORIGINAL>
-    <TRADUIT>ttbCG04Wilk3</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -5963,9 +5945,9 @@ set TTBDialogue.CG04TrapAmanda to 4
     <EDID>ttbCG04Ricketts1</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbCG04Ricketts1</ORIGINAL>
-    <TRADUIT>ttbCG04Ricketts1</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -5975,9 +5957,9 @@ set TTBDialogue.CG04TrapAmanda to 4
     <EDID>ttbCG04Ricketts1</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>What do you want to do with the other one - that was the last slave collar.</ORIGINAL>
-    <TRADUIT>¿Qué hacemos con el otro? Este era el último collar de esclavo.</TRADUIT>
+    <TRADUIT>¿Qué hacemos con esta? Este era el último collar de esclavo.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>90</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -5987,9 +5969,9 @@ set TTBDialogue.CG04TrapAmanda to 4
     <EDID>ttbCG04Ricketts1</EDID>
     <CHAMP>SCTX</CHAMP>
     <ORIGINAL>ttbCG04RaiderLeaderRef.sayto ttbCG04RaiderSidekickRef ttbCG04Wilk2</ORIGINAL>
-    <TRADUIT>ttbCG04RaiderLeaderRef.sayto ttbCG04RaiderSidekickRef ttbCG04Wilk2</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -5999,9 +5981,9 @@ set TTBDialogue.CG04TrapAmanda to 4
     <EDID>ttbCG04Ricketts2</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbCG04Ricketts2</ORIGINAL>
-    <TRADUIT>ttbCG04Ricketts2</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -6023,9 +6005,9 @@ set TTBDialogue.CG04TrapAmanda to 4
     <EDID>ttbCG04Ricketts2</EDID>
     <CHAMP>SCTX</CHAMP>
     <ORIGINAL>ttbCG04RaiderLeaderRef.sayto ttbCG04RaiderSidekickRef ttbCG04Wilk4</ORIGINAL>
-    <TRADUIT>ttbCG04RaiderLeaderRef.sayto ttbCG04RaiderSidekickRef ttbCG04Wilk4</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -6035,9 +6017,9 @@ set TTBDialogue.CG04TrapAmanda to 4
     <EDID>ttbCG04Wilk4</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbCG04Wilk4</ORIGINAL>
-    <TRADUIT>ttbCG04Wilk4</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -7451,9 +7433,9 @@ set TTBDialogue.CG04TrapAmanda to 4
     <EDID>ttbMiscAmandaGoodbye</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMiscAmandaGoodbye</ORIGINAL>
-    <TRADUIT>ttbMiscAmandaGoodbye</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -8151,9 +8133,9 @@ SetObjectiveDisplayed TTBTiesThatBind 99 0</ORIGINAL>
     <EDID>ttbMiscAmandaHome</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbMiscAmandaHome</ORIGINAL>
-    <TRADUIT>ttbMiscAmandaHome</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -8199,9 +8181,9 @@ SetObjectiveDisplayed TTBTiesThatBind 99 0</ORIGINAL>
     <EDID>ttbAmandaWounded</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbAmandaWounded</ORIGINAL>
-    <TRADUIT>ttbAmandaWounded</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -8609,9 +8591,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ04Freed1Plan1c</EDID>
     <CHAMP>SCTX</CHAMP>
     <ORIGINAL>ttbAmandaRef.sayto MQDadRef ttbMQ04Freed</ORIGINAL>
-    <TRADUIT>ttbAmandaRef.sayto MQDadRef ttbMQ04Freed</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -8645,9 +8627,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ04Freed1Plan1c</EDID>
     <CHAMP>SCTX</CHAMP>
     <ORIGINAL>ttbAmandaRef.sayto MQDadRef ttbMQ04Freed</ORIGINAL>
-    <TRADUIT>ttbAmandaRef.sayto MQDadRef ttbMQ04Freed</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -8693,9 +8675,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ04Freed1Plan2a</EDID>
     <CHAMP>SCTX</CHAMP>
     <ORIGINAL>ttbAmandaRef.sayto MQDadRef ttbMQ04Freed</ORIGINAL>
-    <TRADUIT>ttbAmandaRef.sayto MQDadRef ttbMQ04Freed</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -8753,9 +8735,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ04Freed1Plan2b</EDID>
     <CHAMP>SCTX</CHAMP>
     <ORIGINAL>ttbAmandaRef.sayto MQDadRef ttbMQ04Freed</ORIGINAL>
-    <TRADUIT>ttbAmandaRef.sayto MQDadRef ttbMQ04Freed</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -8801,9 +8783,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ04Freed1Plan1ai</EDID>
     <CHAMP>SCTX</CHAMP>
     <ORIGINAL>ttbAmandaRef.sayto MQDadRef ttbMQ04Freed</ORIGINAL>
-    <TRADUIT>ttbAmandaRef.sayto MQDadRef ttbMQ04Freed</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -8970,9 +8952,9 @@ ttbAmandaRef.sayto MQDadRef ttbMQ04Freed</ORIGINAL>
     <EDID>ttbMQ04Freed1Plan1aii1</EDID>
     <CHAMP>SCTX</CHAMP>
     <ORIGINAL>ttbAmandaRef.sayto MQDadRef ttbMQ04Freed</ORIGINAL>
-    <TRADUIT>ttbAmandaRef.sayto MQDadRef ttbMQ04Freed</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -8982,9 +8964,9 @@ ttbAmandaRef.sayto MQDadRef ttbMQ04Freed</ORIGINAL>
     <EDID>ttbMQ04Freed1Plan1aii1</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>I guess you're right.</ORIGINAL>
-    <TRADUIT>I guess you're right.</TRADUIT>
+    <TRADUIT>Supongo que tienes razón.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -9067,9 +9049,9 @@ ttbAmandaRef.sayto MQDadRef ttbMQ04Freed</ORIGINAL>
     <EDID>ttbMQ05Death1DoSomething</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Do something! You've got to DO something!</ORIGINAL>
-    <TRADUIT>Do something! You've got to DO something!</TRADUIT>
+    <TRADUIT>¡Haz algo! ¡Tienes que hacer algo!</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>90</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -9237,9 +9219,9 @@ endif</ORIGINAL>
     <EDID>ttbCG04SlaverConversation</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbCG04SlaverConversation</ORIGINAL>
-    <TRADUIT>ttbCG04SlaverConversation</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -9249,9 +9231,9 @@ endif</ORIGINAL>
     <EDID>ttbCG04SlaverConversation</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Just take the other one - an' don't mention to ANYONE that we had to leave one behind 'cause we didn't pack enough collars; Grouse'd have a field day</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Nos llevamos a la otra. Y no le menciones A NADIE que tuvimos que dejar una detrás por no llevar suficientes collares. Grouse se descojonaría.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -9273,9 +9255,9 @@ endif</ORIGINAL>
     <EDID>ttbCG04SlaverConversation</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Shut up an' get the collar on 'er. We're not that far from Paradise Falls: if you pick up yer feet we might just make it back in time for dinner.</ORIGINAL>
-    <TRADUIT>Shut up an' get the collar on 'er. We're not that far from Paradise Falls: if you pick up yer feet we might just make it back in time for dinner.</TRADUIT>
+    <TRADUIT>Cierra la boca y ponle el collar a la chica. No estamos tan lejos de Paradise Falls. Si dejas de cagarla igual llegamos para la cena.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -9285,9 +9267,9 @@ endif</ORIGINAL>
     <EDID>ttbCG04SlaverConversation</EDID>
     <CHAMP>SCTX</CHAMP>
     <ORIGINAL>set TTBDialogue.CG04SlaverConversation to ( TTBDialogue.CG04SlaverConversation + 1 )</ORIGINAL>
-    <TRADUIT>set TTBDialogue.CG04SlaverConversation to ( TTBDialogue.CG04SlaverConversation + 1 )</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -9297,9 +9279,9 @@ endif</ORIGINAL>
     <EDID>ttbCG04SlaverConversation</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I hardly hit 'er!</ORIGINAL>
-    <TRADUIT>I hardly hit 'er!</TRADUIT>
+    <TRADUIT>¡Pero si casi ni la rocé!</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -9323,7 +9305,7 @@ endif</ORIGINAL>
     <ORIGINAL>Yeah, 'cause that's what the big man wants: yer sloppy seconds.</ORIGINAL>
     <TRADUIT>Claro. Porque eso es lo que el gran hombre quiere: tus sobras pegajosas.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>90</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -9347,7 +9329,7 @@ endif</ORIGINAL>
     <ORIGINAL>Yeah, an' you just clubbed the shit out of 'er! I'm not heavin' a body all the way back to Paradise Falls to find out she's bleedin into 'er skull.</ORIGINAL>
     <TRADUIT>Sí, ¡y le has reventado la cabeza! No voy a arrastrar un cuerpo todo el camino hasta Paradise Falls para enterarme de que se ha desangrado dentro del cráneo.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>90</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -9369,7 +9351,7 @@ endif</ORIGINAL>
     <EDID>ttbCG04SlaverConversation</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Nah, fuck that: peach sells better than sausage any day of the week. May even get myself a little taste before we hand 'er over to Eulogy...</ORIGINAL>
-    <TRADUIT>No, a la mierda. Los melocotones siempre se venden mejor que las salchichas. Quizá incluso le de un bocado antes de entregársela a Eulogy...</TRADUIT>
+    <TRADUIT>No, a la mierda. Los melocotones siempre se venden mejor que las salchichas. Quizá incluso la pruebe un ratito antes de entregársela a Eulogy...</TRADUIT>
     <INDEX>1</INDEX>
     <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
@@ -9393,9 +9375,9 @@ endif</ORIGINAL>
     <EDID>ttbCG04SlaverConversation</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>This one looks a bit younger: could be worth more.</ORIGINAL>
-    <TRADUIT>Esta parece más joven. Podría tener más valor.</TRADUIT>
+    <TRADUIT>Esta parece más joven. Podríamos sacar más dinero.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>90</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -9418,9 +9400,9 @@ set TTBDialogue.CG04SlaverConversation to ( TTBDialogue.CG04SlaverConversation +
     <EDID>ttbCG04SlaverConversation</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Seriously? Shit, that went fast...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¿En serio? Joder, se nos han acabado pronto...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>80</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -9442,9 +9424,9 @@ set TTBDialogue.CG04SlaverConversation to ( TTBDialogue.CG04SlaverConversation +
     <EDID>ttbCG04SlaverConversation</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>What one you wanna take? We only got the one collar left.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¿A cual nos llevamos? Solo nos queda un collar.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -9493,12 +9475,9 @@ set TTBDialogue.CG04SlaverConversation to ( TTBDialogue.CG04SlaverConversation +
 set TTBDialogue.MQ05DadDeath to 4
 endif
 </ORIGINAL>
-    <TRADUIT>if TTBDialogue.MQ05DadDeath == 3
-set TTBDialogue.MQ05DadDeath to 4
-endif
-</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -9532,9 +9511,9 @@ endif
     <EDID>ttbMQ05Death2Plan1</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>I've tried! The door won't open.</ORIGINAL>
-    <TRADUIT>¡Lo he intentado! La puerta no se abre</TRADUIT>
+    <TRADUIT>¡Lo he intentado! La puerta no se abre.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>90</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -9952,9 +9931,9 @@ endif
     <EDID>ttbMQ05Death2Plan2iia1</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>I promise.</ORIGINAL>
-    <TRADUIT>I promise.</TRADUIT>
+    <TRADUIT>Lo prometo.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -10048,9 +10027,9 @@ endif
     <EDID>ttbMQ05Death2Plan3i</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>But he... he's...</ORIGINAL>
-    <TRADUIT>But he... he's...</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -10230,7 +10209,7 @@ endif
     <ORIGINAL>Stupid Project Purity. Nothing good's ever come from it.</ORIGINAL>
     <TRADUIT>Estúpido Proyecto Pureza. Nunca saldrá nada bueno de él.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>90</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -10278,11 +10257,9 @@ endif
     <ORIGINAL>if TTBDialogue.MQ05DadDeath &lt; 6
 set TTBDialogue.MQ05DadDeath to 6
 endif</ORIGINAL>
-    <TRADUIT>if TTBDialogue.MQ05DadDeath &lt; 6
-set TTBDialogue.MQ05DadDeath to 6
-endif</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -10426,7 +10403,7 @@ endif</TRADUIT>
     <ORIGINAL>It's your fault! You should have DONE something!</ORIGINAL>
     <TRADUIT>¡Es culpa tuya! ¡Debiste hacer algo!</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>90</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -10436,9 +10413,9 @@ endif</TRADUIT>
     <EDID>ttbMQ05Death3Argue1a</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>Amanda, we've been over this.</ORIGINAL>
-    <TRADUIT>Amanda, we've been over this.</TRADUIT>
+    <TRADUIT>Amanda, ya superamos esto.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>90</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -10738,7 +10715,7 @@ endif</TRADUIT>
     <ORIGINAL>I've made arrangements to buy your freedom.</ORIGINAL>
     <TRADUIT>He negociado para comprar tu libertad.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>90</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -10750,7 +10727,7 @@ endif</TRADUIT>
     <ORIGINAL>Hurry. They... just hurry.</ORIGINAL>
     <TRADUIT>Rápido. Ellos... date prisa.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -10834,9 +10811,9 @@ SetObjectiveDisplayed TTBTiesThatBind 25 1</TRADUIT>
     <EDID>ttbOQ01Imprisoned3</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Back at the Vault, after they hit you, they put this THING on my neck.</ORIGINAL>
-    <TRADUIT>Back at the Vault, after they hit you, they put this THING on my neck.</TRADUIT>
+    <TRADUIT>Cuando salimos del refugio, después de que te golpearan, me pusieron esta COSA en el cuello.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -10846,9 +10823,9 @@ SetObjectiveDisplayed TTBTiesThatBind 25 1</TRADUIT>
     <EDID>ttbOQ01Imprisoned3</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>They walked me this whole way - said if I tried anything the collar would blow my head off.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Me arrastraron hasta aquí así... me dijeron que si intentaba cualquier cosa el collar me reventaría la cabeza.</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -10858,9 +10835,9 @@ SetObjectiveDisplayed TTBTiesThatBind 25 1</TRADUIT>
     <EDID>ttbOQ01Imprisoned3</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>How did you get all this way?</ORIGINAL>
-    <TRADUIT>How did you get all this way?</TRADUIT>
+    <TRADUIT>¿Cómo has llegado hasta aquí?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -11316,9 +11293,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Kids1Truth1</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>Dad told me he didn't want me growing up in the Wastes.</ORIGINAL>
-    <TRADUIT>Dad told me he didn't want me growing up in the Wastes.</TRADUIT>
+    <TRADUIT>Papá me dijo que no quería verme crecer en el Yermo.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -11366,7 +11343,7 @@ endif</ORIGINAL>
     <ORIGINAL>Why would you do that?</ORIGINAL>
     <TRADUIT>¿Por qué harías eso?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>90</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -11616,9 +11593,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Kids1Truth3ai</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>You don't know that.</ORIGINAL>
-    <TRADUIT>No lo sabes.</TRADUIT>
+    <TRADUIT>Eso no lo sabes.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>90</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -11714,7 +11691,7 @@ endif</ORIGINAL>
     <ORIGINAL>You did the right thing: for all of us.</ORIGINAL>
     <TRADUIT>Hiciste lo correcto. Para todos.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>90</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -11916,9 +11893,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Sad1console1</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>Amanda, are you okay?</ORIGINAL>
-    <TRADUIT>Amanda, are you okay?</TRADUIT>
+    <TRADUIT>Amanda, ¿Estás bien?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>90</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12650,7 +12627,7 @@ endif</ORIGINAL>
     <ORIGINAL>Thanks, little brother.</ORIGINAL>
     <TRADUIT>Gracias, hermanito.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>90</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12662,7 +12639,7 @@ endif</ORIGINAL>
     <ORIGINAL>I'll take care of it.</ORIGINAL>
     <TRADUIT>Me encargaré de ello.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12674,7 +12651,7 @@ endif</ORIGINAL>
     <ORIGINAL>Thanks, little sister.</ORIGINAL>
     <TRADUIT>Gracias, hermanita.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>90</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12686,7 +12663,7 @@ endif</ORIGINAL>
     <ORIGINAL>I'll take care of it.</ORIGINAL>
     <TRADUIT>Me encargaré de ello.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12794,7 +12771,7 @@ endif</ORIGINAL>
     <ORIGINAL>It's okay: I'll protect you.</ORIGINAL>
     <TRADUIT>Está bien: Yo te protegeré.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>90</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -13094,11 +13071,9 @@ endif</ORIGINAL>
     <ORIGINAL>If ttbDialogue.MQ07Pfalls1 == 1
 set ttbDialogue.MQ07Pfalls1 to 2
 endif</ORIGINAL>
-    <TRADUIT>If ttbDialogue.MQ07Pfalls1 == 1
-set ttbDialogue.MQ07Pfalls1 to 2
-endif</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -13134,7 +13109,7 @@ endif</TRADUIT>
     <ORIGINAL>Of course not.</ORIGINAL>
     <TRADUIT>Claro que no.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>90</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -13216,9 +13191,9 @@ endif</TRADUIT>
     <EDID>ttbMQ07Pfalls1Reconsider3ai1</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>Do you want to talk about it?</ORIGINAL>
-    <TRADUIT>Do you want to talk about it?</TRADUIT>
+    <TRADUIT>¿Quieres hablar de ello?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -13240,9 +13215,9 @@ endif</TRADUIT>
     <EDID>ttbMQ07Pfalls1Reconsider3ai1</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>They'd tell us we'd have to make them believe we really wanted to live, while they were dragging us closer and closer to the collar barrier.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Nos dijeron que teníamos que convencerles de que de verdad queríamos vivir... mientras nos empujaban más y más cerca de la barrera de collares.</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -13264,9 +13239,9 @@ endif</TRADUIT>
     <EDID>ttbMQ07Pfalls1Reconsider3ai1</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>Do you want to talk about it?</ORIGINAL>
-    <TRADUIT>Do you want to talk about it?</TRADUIT>
+    <TRADUIT>¿Quieres hablar de ello?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -13288,9 +13263,9 @@ endif</TRADUIT>
     <EDID>ttbMQ07Pfalls1Reconsider3ai2</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Don't go too far.</ORIGINAL>
-    <TRADUIT>Don't go too far.</TRADUIT>
+    <TRADUIT>No te alejes demasiado.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -13504,9 +13479,9 @@ endif</TRADUIT>
     <EDID>ttbMQ07Pfalls2Reassure2b</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I hope you're right.</ORIGINAL>
-    <TRADUIT>I hope you're right.</TRADUIT>
+    <TRADUIT>Espero que tengas razón.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -13566,7 +13541,7 @@ endif</TRADUIT>
     <ORIGINAL>Of course I came.</ORIGINAL>
     <TRADUIT>Claro que he venido.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>90</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -13724,13 +13699,9 @@ ttbAmandaRef.evp
 if GetStage TTBFamilyReunion &lt; 20
   Setstage TTBFamilyReunion 20
 endif</ORIGINAL>
-    <TRADUIT>set TTBFamilyReunion.RetrieveDad to 1
-ttbAmandaRef.evp
-if GetStage TTBFamilyReunion &lt; 20
-  Setstage TTBFamilyReunion 20
-endif</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -13742,7 +13713,7 @@ endif</TRADUIT>
     <ORIGINAL>Where?!</ORIGINAL>
     <TRADUIT>¡¿Donde?!</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>90</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -13836,9 +13807,9 @@ endif</TRADUIT>
     <EDID>ttbMQ09Escape1Rescue1c</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>Amanda, we haven't got time for that.</ORIGINAL>
-    <TRADUIT>Amanda, we haven't got time for that.</TRADUIT>
+    <TRADUIT>Amanda, no tenemos tiempo para esto.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>90</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -13876,13 +13847,9 @@ ttbAmandaRef.evp
 if GetStage TTBFamilyReunion &lt; 20
   Setstage TTBFamilyReunion 20
 endif</ORIGINAL>
-    <TRADUIT>set TTBFamilyReunion.RetrieveDad to 1
-ttbAmandaRef.evp
-if GetStage TTBFamilyReunion &lt; 20
-  Setstage TTBFamilyReunion 20
-endif</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -13942,7 +13909,7 @@ endif</TRADUIT>
     <ORIGINAL>He's dead. Nothing's going to change that.</ORIGINAL>
     <TRADUIT>Está muerto. Nada podrá cambiar eso.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>90</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -13980,13 +13947,9 @@ ttbAmandaRef.evp
 if GetStage TTBFamilyReunion &lt; 20
   Setstage TTBFamilyReunion 20
 endif</ORIGINAL>
-    <TRADUIT>set TTBFamilyReunion.RetrieveDad to 1
-ttbAmandaRef.evp
-if GetStage TTBFamilyReunion &lt; 20
-  Setstage TTBFamilyReunion 20
-endif</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -14109,7 +14072,7 @@ set TTBFamilyReunion.RetrieveDad to 99</ORIGINAL>
     <ORIGINAL>Thanks... Let's go.</ORIGINAL>
     <TRADUIT>Gracias... Vámonos.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>90</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -14180,10 +14143,9 @@ set TTBFamilyReunion.RetrieveDad to 99</ORIGINAL>
     <CHAMP>SCTX</CHAMP>
     <ORIGINAL>set TTBFamilyReunion.FuneralOption to 1
 setstage ttbFamilyReunion 60</ORIGINAL>
-    <TRADUIT>set TTBFamilyReunion.FuneralOption to 1
-setstage ttbFamilyReunion 60</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -14279,10 +14241,9 @@ setstage ttbFamilyReunion 60</ORIGINAL>
     <CHAMP>SCTX</CHAMP>
     <ORIGINAL>set TTBFamilyReunion.FuneralOption to 3
 setstage ttbFamilyReunion 60</ORIGINAL>
-    <TRADUIT>set TTBFamilyReunion.FuneralOption to 3
-setstage ttbFamilyReunion 60</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -14677,10 +14638,9 @@ setstage ttbFamilyReunion 60</TRADUIT>
     <CHAMP>SCTX</CHAMP>
     <ORIGINAL>ttbAmandaRef.look ttbOQ01Funeral1GraveRef
 ttbAmandaRef.say ttbOQ01Funeral1EulogyGiveALT</ORIGINAL>
-    <TRADUIT>ttbAmandaRef.look ttbOQ01Funeral1GraveRef
-ttbAmandaRef.say ttbOQ01Funeral1EulogyGiveALT</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -14835,10 +14795,9 @@ ttbAmandaRef.say ttbOQ01Funeral1EulogyGiveALT</TRADUIT>
     <CHAMP>SCTX</CHAMP>
     <ORIGINAL>set TTBFamilyReunion.GiveEulogy to 1
 ttbAmandaRef.EVP</ORIGINAL>
-    <TRADUIT>set TTBFamilyReunion.GiveEulogy to 1
-ttbAmandaRef.EVP</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -14874,7 +14833,7 @@ ttbAmandaRef.EVP</TRADUIT>
     <ORIGINAL>Please...?</ORIGINAL>
     <TRADUIT>¿Por favor...?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>90</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -14982,7 +14941,7 @@ ttbAmandaRef.EVP</TRADUIT>
     <ORIGINAL>I still have so many questions...</ORIGINAL>
     <TRADUIT>Aún tengo demasiadas preguntas...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>90</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15125,10 +15084,9 @@ ttbAmandaRef.EVP</TRADUIT>
     <CHAMP>SCTX</CHAMP>
     <ORIGINAL>ttbAmandaRef.look ttbOQ01Funeral1GraveRef
 setStage ttbFamilyReunion 70</ORIGINAL>
-    <TRADUIT>ttbAmandaRef.look ttbOQ01Funeral1GraveRef
-setStage ttbFamilyReunion 70</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15175,10 +15133,9 @@ setStage ttbFamilyReunion 70</TRADUIT>
     <CHAMP>SCTX</CHAMP>
     <ORIGINAL>ttbAmandaRef.look ttbOQ01Funeral1GraveRef
 setStage ttbFamilyReunion 70</ORIGINAL>
-    <TRADUIT>ttbAmandaRef.look ttbOQ01Funeral1GraveRef
-setStage ttbFamilyReunion 70</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15225,10 +15182,9 @@ setStage ttbFamilyReunion 70</TRADUIT>
     <CHAMP>SCTX</CHAMP>
     <ORIGINAL>ttbAmandaRef.look ttbOQ01Funeral1GraveRef
 setStage ttbFamilyReunion 70</ORIGINAL>
-    <TRADUIT>ttbAmandaRef.look ttbOQ01Funeral1GraveRef
-setStage ttbFamilyReunion 70</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15252,7 +15208,7 @@ setStage ttbFamilyReunion 70</TRADUIT>
     <ORIGINAL>What do we do now?</ORIGINAL>
     <TRADUIT>¿Y ahora qué hacemos?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15286,9 +15242,9 @@ setStage ttbFamilyReunion 70</TRADUIT>
     <EDID>ttbOQ01Funeral1EulogyGive</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>You may not have been perfect, but neither were we - and you loved us anyway.</ORIGINAL>
-    <TRADUIT>You may not have been perfect, but neither were we - and you loved us anyway.</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15316,9 +15272,9 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Funeral1EulogyGive</EDID>
     <CHAMP>SCTX</CHAMP>
     <ORIGINAL>ttbAmandaRef.say ttbOQ01Funeral1EulogyGive2</ORIGINAL>
-    <TRADUIT>ttbAmandaRef.say ttbOQ01Funeral1EulogyGive2</TRADUIT>
+    <TRADUIT />
     <INDEX>2</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15352,9 +15308,9 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Funeral1EulogyGive2</EDID>
     <CHAMP>SCTX</CHAMP>
     <ORIGINAL>ttbAmandaRef.say ttbOQ01Funeral1EulogyGive3</ORIGINAL>
-    <TRADUIT>ttbAmandaRef.say ttbOQ01Funeral1EulogyGive3</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15388,9 +15344,9 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Funeral1EulogyGive3</EDID>
     <CHAMP>SCTX</CHAMP>
     <ORIGINAL>ttbAmandaRef.say ttbOQ01Funeral1EulogyGive4</ORIGINAL>
-    <TRADUIT>ttbAmandaRef.say ttbOQ01Funeral1EulogyGive4</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15483,10 +15439,9 @@ endif</TRADUIT>
     <CHAMP>SCTX</CHAMP>
     <ORIGINAL>set TTBFamilyReunion.GiveEulogy to 1
 ttbAmandaRef.EVP</ORIGINAL>
-    <TRADUIT>set TTBFamilyReunion.GiveEulogy to 1
-ttbAmandaRef.EVP</TRADUIT>
+    <TRADUIT />
     <INDEX>2</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16098,7 +16053,7 @@ ttbAmandaRef.EVP</TRADUIT>
     <ORIGINAL>There are no children in the wasteland. That part of you dies as soon as your eyes can see - you ears can hear...</ORIGINAL>
     <TRADUIT>No hay niños en el yermo. Esa parte de tí muere en cuanto tus ojos pueden ver... y tus oidos pueden oir...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>90</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16366,9 +16321,9 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Home1Truth1bii3</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>Why didn't we bury Dad there?</ORIGINAL>
-    <TRADUIT>Why didn't we bury Dad there?</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16414,7 +16369,6 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Home1Truth1bii3</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>That's where I want to spread Dad's ashes.</ORIGINAL>
-    <TRADUIT />
     <INDEX>1</INDEX>
     <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
@@ -17126,7 +17080,7 @@ endif</ORIGINAL>
     <ORIGINAL>No! Of course not!</ORIGINAL>
     <TRADUIT>¡No! Claro que no!</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>90</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -17995,9 +17949,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight1Payback3bii</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>Please, I'm begging you. I can't lose you.</ORIGINAL>
-    <TRADUIT>Please, I'm begging you. I can't lose you.</TRADUIT>
+    <TRADUIT>Por favor, te lo suplico. No puedo perderte.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18031,9 +17985,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight1Payback3bii</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>Please, I'm begging you. I can't lose you.</ORIGINAL>
-    <TRADUIT>Please, I'm begging you. I can't lose you.</TRADUIT>
+    <TRADUIT>Por favor, te lo suplico. No puedo perderte.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18726,7 +18680,7 @@ showmessage ttbOQ01MessageKeepsakeNotification</ORIGINAL>
     <ORIGINAL>Stay with me, Amanda.</ORIGINAL>
     <TRADUIT>Quédate conmigo, Amanda.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>90</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18842,9 +18796,9 @@ endif</TRADUIT>
     <EDID>ttbMQ11Fight2Wound1ai</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>Don't talk like that.</ORIGINAL>
-    <TRADUIT>Don't talk like that.</TRADUIT>
+    <TRADUIT>No hables así.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18895,14 +18849,9 @@ enableplayercontrols
 if player.hasperk ttbPerkKeepsake
 showmessage ttbOQ01MessageKeepsakeNotification
 endif</ORIGINAL>
-    <TRADUIT>SetEssential ttbAmanda 0
-ttbamandaref.kill
-enableplayercontrols
-if player.hasperk ttbPerkKeepsake
-showmessage ttbOQ01MessageKeepsakeNotification
-endif</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18938,7 +18887,7 @@ endif</TRADUIT>
     <ORIGINAL>Thank you... I...</ORIGINAL>
     <TRADUIT>Gracias. Yo...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>90</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18965,14 +18914,9 @@ enableplayercontrols
 if player.hasperk ttbPerkKeepsake
 showmessage ttbOQ01MessageKeepsakeNotification
 endif</ORIGINAL>
-    <TRADUIT>SetEssential ttbAmanda 0
-ttbamandaref.kill
-enableplayercontrols
-if player.hasperk ttbPerkKeepsake
-showmessage ttbOQ01MessageKeepsakeNotification
-endif</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -19042,9 +18986,9 @@ endif</TRADUIT>
     <EDID>ttbMQ04Freed</EDID>
     <CHAMP>SCTX</CHAMP>
     <ORIGINAL>ttbamandaRef.removescriptpackage ttbmq04talktodad</ORIGINAL>
-    <TRADUIT>ttbamandaRef.removescriptpackage ttbmq04talktodad</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -19146,7 +19090,7 @@ ttbAmandaRef.evp</TRADUIT>
     <ORIGINAL>I mean, just from time to time...</ORIGINAL>
     <TRADUIT>Es decir, aunque sea de vez en cuando...</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -19182,7 +19126,7 @@ ttbAmandaRef.evp</TRADUIT>
     <ORIGINAL>It's funny: when the world is no longer civilized, civilization suddenly seems out of place.</ORIGINAL>
     <TRADUIT>Es curioso. Cuando el mundo ya no es civilizado, la civilización es lo que parece fuera de lugar.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -19242,7 +19186,7 @@ ttbAmandaRef.evp</TRADUIT>
     <ORIGINAL>It's pompous, is what it is.</ORIGINAL>
     <TRADUIT>A mí me parece pomposo.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -19290,7 +19234,7 @@ ttbAmandaRef.evp</TRADUIT>
     <ORIGINAL>I'm sure we can work something out.</ORIGINAL>
     <TRADUIT>Creo que podremos arreglarlo.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -19602,7 +19546,7 @@ ttbAmandaRef.evp</TRADUIT>
     <ORIGINAL>Maybe you're right. I'll give it some thought.</ORIGINAL>
     <TRADUIT>Tal vez tengas razón. Me lo pensaré.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -19794,7 +19738,7 @@ ttbAmandaRef.evp</TRADUIT>
     <ORIGINAL>I said I'd do it: we're doing it.</ORIGINAL>
     <TRADUIT>Dije que lo haría, y lo haremos.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -19926,7 +19870,7 @@ ttbAmandaRef.evp</TRADUIT>
     <ORIGINAL>Whatever. Let's just get this over with.</ORIGINAL>
     <TRADUIT>Da igual. Acabemos con esto.</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -20422,11 +20366,9 @@ endif</ORIGINAL>
     <ORIGINAL>If ttbDialogue.AmandaFollowing == 0
 set ttbDialogue.AmandaFollowing to 1
 endif</ORIGINAL>
-    <TRADUIT>If ttbDialogue.AmandaFollowing == 0
-set ttbDialogue.AmandaFollowing to 1
-endif</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -20546,9 +20488,9 @@ endif</ORIGINAL>
     <EDID>ttbMiscJoke1a</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Botany...</ORIGINAL>
-    <TRADUIT>Botany...</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -20560,7 +20502,7 @@ endif</ORIGINAL>
     <ORIGINAL>Who's there?</ORIGINAL>
     <TRADUIT>¿Quién está ahí?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -20594,9 +20536,9 @@ endif</ORIGINAL>
     <EDID>ttbMiscJoke1a</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>Botany who?</ORIGINAL>
-    <TRADUIT>Botany who?</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -20668,7 +20610,7 @@ endif</ORIGINAL>
     <ORIGINAL>Who's there?</ORIGINAL>
     <TRADUIT>¿Quién está ahí?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -20764,7 +20706,7 @@ endif</ORIGINAL>
     <ORIGINAL>Who's there?</ORIGINAL>
     <TRADUIT>¿Quién está ahí?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -20876,13 +20818,9 @@ SetObjectiveDisplayed TTBTiesThatBind 99 1</ORIGINAL>
 set ttbDialogue.AmandaHome to 1
 ttbAmandaRef.evp
 SetObjectiveDisplayed TTBTiesThatBind 99 1</ORIGINAL>
-    <TRADUIT>set TTBDialogue.AmandaFollowing to 0
-set ttbDialogue.AmandaHome to 1
-setstage TTBOverrideQuest 80
-ttbamandaref.evp
-SetObjectiveDisplayed TTBTiesThatBind 99 1</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -21006,9 +20944,9 @@ SetObjectiveDisplayed TTBTiesThatBind 99 1</ORIGINAL>
     <EDID>ttbOQ01Negotiate1</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Negotiate1</ORIGINAL>
-    <TRADUIT>ttbOQ01Negotiate1</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -21018,9 +20956,9 @@ SetObjectiveDisplayed TTBTiesThatBind 99 1</ORIGINAL>
     <EDID>ttbOQ01Negotiate1</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Settle down there, squirt. What's to stop me from slappin' a collar on YOU right here an' now?</ORIGINAL>
-    <TRADUIT>Settle down there, squirt. What's to stop me from slappin' a collar on YOU right here an' now?</TRADUIT>
+    <TRADUIT>Frena un poco, idiota. ¿Qué me impide colgarte un collar a TÍ ahora mismo?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -21032,7 +20970,7 @@ SetObjectiveDisplayed TTBTiesThatBind 99 1</ORIGINAL>
     <ORIGINAL>What's she to you, anyway?</ORIGINAL>
     <TRADUIT>¿Qué es ella para tí, por cierto?</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -21044,7 +20982,7 @@ SetObjectiveDisplayed TTBTiesThatBind 99 1</ORIGINAL>
     <ORIGINAL>Let her go, you son of a bitch!</ORIGINAL>
     <TRADUIT>¡Déjala libre, hijo de puta!</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -21054,9 +20992,9 @@ SetObjectiveDisplayed TTBTiesThatBind 99 1</ORIGINAL>
     <EDID>ttbOQ01Negotiate2</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Negotiate2</ORIGINAL>
-    <TRADUIT>ttbOQ01Negotiate2</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -21068,7 +21006,7 @@ SetObjectiveDisplayed TTBTiesThatBind 99 1</ORIGINAL>
     <ORIGINAL>What's she to you, anyway?</ORIGINAL>
     <TRADUIT>¿Qué es ella para tí, por cierto?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -21080,7 +21018,7 @@ SetObjectiveDisplayed TTBTiesThatBind 99 1</ORIGINAL>
     <ORIGINAL>How much?</ORIGINAL>
     <TRADUIT>¿Cuánto?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -21090,9 +21028,9 @@ SetObjectiveDisplayed TTBTiesThatBind 99 1</ORIGINAL>
     <EDID>ttbOQ01Negotiate3</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Negotiate3</ORIGINAL>
-    <TRADUIT>ttbOQ01Negotiate3</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -21116,7 +21054,7 @@ SetObjectiveDisplayed TTBTiesThatBind 99 1</ORIGINAL>
     <ORIGINAL>I'll be back.</ORIGINAL>
     <TRADUIT>Volveré.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -21126,9 +21064,9 @@ SetObjectiveDisplayed TTBTiesThatBind 99 1</ORIGINAL>
     <EDID>ttbOQ01Negotiate2a</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Negotiate2a</ORIGINAL>
-    <TRADUIT>ttbOQ01Negotiate2a</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -21138,9 +21076,9 @@ SetObjectiveDisplayed TTBTiesThatBind 99 1</ORIGINAL>
     <EDID>ttbOQ01Negotiate2a</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Ha! Well, you know, my Daddy always said "family comes first" - so I bet you'd be willing to cough up 500 caps to see her free an' safe.</ORIGINAL>
-    <TRADUIT>¡Je! Bueno, ya sabes, mi papá siempre dijo que "la familia es lo primero"... así que me apuesto lo que sea a que pagarías 500 chapas para verla libre y a salvo.</TRADUIT>
+    <TRADUIT>¡Je! Bueno, ya sabes, mi papá siempre dijo que "la familia es lo primero"... así que apuesto lo que sea a que podrás soltar 500 chapas para verla libre y a salvo.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -21150,9 +21088,9 @@ SetObjectiveDisplayed TTBTiesThatBind 99 1</ORIGINAL>
     <EDID>ttbOQ01Negotiate2a</EDID>
     <CHAMP>SCTX</CHAMP>
     <ORIGINAL>set ttbDialogue.OQ01AmandaDeal to 5</ORIGINAL>
-    <TRADUIT>set ttbDialogue.OQ01AmandaDeal to 5</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -21174,9 +21112,9 @@ SetObjectiveDisplayed TTBTiesThatBind 99 1</ORIGINAL>
     <EDID>ttbOQ01Negotiate2b</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Negotiate2b</ORIGINAL>
-    <TRADUIT>ttbOQ01Negotiate2b</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -21188,7 +21126,7 @@ SetObjectiveDisplayed TTBTiesThatBind 99 1</ORIGINAL>
     <ORIGINAL>Well, friends cost money, now don't they? 'Spose I could let 'er go fer... 200 caps.</ORIGINAL>
     <TRADUIT>Bueno, los amigos valen dinero, ¿verdad? Supongo que podría dejarla ir por... 200 chapas.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -21222,9 +21160,9 @@ SetObjectiveDisplayed TTBTiesThatBind 99 1</ORIGINAL>
     <EDID>ttbOQ01Negotiate2c</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01Negotiate2c</ORIGINAL>
-    <TRADUIT>ttbOQ01Negotiate2c</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -21258,7 +21196,7 @@ SetObjectiveDisplayed TTBTiesThatBind 99 1</ORIGINAL>
     <EDID>ttbOQ01Negotiate2c</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>Just a bitch who owe's me money. [karma]</ORIGINAL>
-    <TRADUIT>Solo es una zorra que me debe dinero. [karma]</TRADUIT>
+    <TRADUIT>Es solo una zorra que me debe dinero. [karma]</TRADUIT>
     <INDEX>1</INDEX>
     <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
@@ -21270,9 +21208,9 @@ SetObjectiveDisplayed TTBTiesThatBind 99 1</ORIGINAL>
     <EDID>ttbOQ01NegotiateKarma</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01NegotiateKarma</ORIGINAL>
-    <TRADUIT>ttbOQ01NegotiateKarma</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -21297,12 +21235,9 @@ SetObjectiveDisplayed TTBTiesThatBind 99 1</ORIGINAL>
 player.additem ttbOQ01CollarKey 1
 player.additem ttbOQ01CellKey 1
 set ttbDialogue.OQ01AmandaDeal to 99</ORIGINAL>
-    <TRADUIT>ttbCG04RaiderLeaderRef.removeitem ttbOQ01CollarKey 1
-player.additem ttbOQ01CollarKey 1
-player.additem ttbOQ01CellKey 1
-set ttbDialogue.OQ01AmandaDeal to 99</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -21312,9 +21247,9 @@ set ttbDialogue.OQ01AmandaDeal to 99</TRADUIT>
     <EDID>ttbOQ01NegotiateKarma</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>Do you know who I AM?! [karma]</ORIGINAL>
-    <TRADUIT>Do you know who I AM?! [karma]</TRADUIT>
+    <TRADUIT>¡¿Pero es que no sabes QUIEN SOY?? [karma]</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -21324,9 +21259,9 @@ set ttbDialogue.OQ01AmandaDeal to 99</TRADUIT>
     <EDID>ttbOQ01NegotiatePay</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01NegotiatePay</ORIGINAL>
-    <TRADUIT>ttbOQ01NegotiatePay</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -21336,9 +21271,9 @@ set ttbDialogue.OQ01AmandaDeal to 99</TRADUIT>
     <EDID>ttbOQ01NegotiatePay</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Pleasure doin' business with ya, squirt.</ORIGINAL>
-    <TRADUIT>Pleasure doin' business with ya, squirt.</TRADUIT>
+    <TRADUIT>Un placer hacer negocios contigo, imbécil.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -21367,7 +21302,7 @@ set ttbDialogue.OQ01AmandaDeal to 99</ORIGINAL>
     <ORIGINAL>Here's your damn money.</ORIGINAL>
     <TRADUIT>Aquí tienes tu maldito dinero.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -21377,9 +21312,9 @@ set ttbDialogue.OQ01AmandaDeal to 99</ORIGINAL>
     <EDID>ttbOQ01NegotiatePay</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Pleasure doin' business with ya, squirt.</ORIGINAL>
-    <TRADUIT>Pleasure doin' business with ya, squirt.</TRADUIT>
+    <TRADUIT>Un placer hacer negocios contigo, imbécil.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -21408,7 +21343,7 @@ set ttbDialogue.OQ01AmandaDeal to 99</ORIGINAL>
     <ORIGINAL>Here's your damn money.</ORIGINAL>
     <TRADUIT>Aquí tienes tu maldito dinero.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -21418,9 +21353,9 @@ set ttbDialogue.OQ01AmandaDeal to 99</ORIGINAL>
     <EDID>ttbOQ01NegotiatePay</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Pleasure doin' business with ya, squirt.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Un placer hacer negocios contigo, imbécil.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -21449,7 +21384,7 @@ set ttbDialogue.OQ01AmandaDeal to 99</ORIGINAL>
     <ORIGINAL>Here's your damn money.</ORIGINAL>
     <TRADUIT>Aquí tienes tu maldito dinero.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -21459,9 +21394,9 @@ set ttbDialogue.OQ01AmandaDeal to 99</ORIGINAL>
     <EDID>ttbOQ01NegotiateRefuse</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01NegotiateRefuse</ORIGINAL>
-    <TRADUIT>ttbOQ01NegotiateRefuse</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -21495,9 +21430,9 @@ set ttbDialogue.OQ01AmandaDeal to 99</ORIGINAL>
     <EDID>ttbOQ01NegotiateFunds</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>ttbOQ01NegotiateFunds</ORIGINAL>
-    <TRADUIT>ttbOQ01NegotiateFunds</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -21904,11 +21839,9 @@ SetObjectiveDisplayed MQ09 20 1</ORIGINAL>
     <ORIGINAL>SetObjectiveCompleted MQ09 20 1
 SetObjectiveDisplayed MQ09 30 1
 </ORIGINAL>
-    <TRADUIT>SetObjectiveCompleted MQ09 20 1
-SetObjectiveDisplayed MQ09 30 1
-</TRADUIT>
+    <TRADUIT />
     <INDEX>3</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -21989,44 +21922,9 @@ endif
 
 StartQuest MQ11
 SetStage MQ11 1</ORIGINAL>
-    <TRADUIT>SetObjectiveCompleted MQ09 50 1
-SetObjectiveDisplayed MQ09 60 1
-Player.SetFactionRank MQPlayerBOSAllyFaction 0
-ElderLyonsRef.Moveto CitElderLyonsSuperviseLibertyPrimeMarker
-MQ11ScribeDisableMarker.Disable
-MQ01SarahRef.RemoveItem ArmorReconHelmet 1
-PaladinKodiakRef.additem CondPowerArmorHelmetLyonsPride 1
-CitadelBoSGuardRef1.additem CondPowerArmorHelmet 1
-
-MQ11GateMarker.enable   ; Ensure that Enclave gates are turned on near Purifier
-MQ11WaitGate01.enable
-MQ11WaitGate02.enable
-MQ11WaitGate03.enable
-MQ11WaitGate04.enable
-MQ11Gate01ForcefieldsMarker.enable
-MQ11Gate03ForcefieldsMarker.enable
-MQ11Gate03ForcefieldsMarker.enable
-
-if ( MQ09.RRDestroy == 1 )
-RewardXP 100
-NathanRef.Disable
-else
-CitBaileyRadioGNRRef.Disable
-CitBaileyRadioENCRef.Enable
-endif
-
-if (getDeadCount MQ08Fawkes == 0)
-   if (MQ08FawkesREF.Rescued == 1)
-      FollowersHireFawkesEnclaveSoldiers03REF.evp
-      FollowersHireFawkesEnclaveSoldiers02REF.evp
-      FollowersHireFawkesEnclaveSoldiers01REF.evp
-   endif
-endif
-
-StartQuest MQ11
-SetStage MQ11 1</TRADUIT>
+    <TRADUIT />
     <INDEX>6</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -22225,18 +22123,9 @@ CG02PaulHannonREF.look player
 CG02Vault101Security04REF.look player
 CG02WallyMackREF.look player
 </ORIGINAL>
-    <TRADUIT>; everybody look at player
-CG02AmataREF.look player
-CG02ButchREF.look player
-CG02DadREF.look player
-CG02OldLadyPalmerREF.look player
-CG02OverseerREF.look player
-CG02PaulHannonREF.look player
-CG02Vault101Security04REF.look player
-CG02WallyMackREF.look player
-</TRADUIT>
+    <TRADUIT />
     <INDEX>3</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -22286,13 +22175,9 @@ set CG02DadREF.doTalk to 1
 ; close diner door
 CG02DinerExitREF.setOpenState 0
 </ORIGINAL>
-    <TRADUIT>; dad starts speech, everybody else stops clapping
-set CG02DadREF.doTalk to 1
-; close diner door
-CG02DinerExitREF.setOpenState 0
-</TRADUIT>
+    <TRADUIT />
     <INDEX>5</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -22314,21 +22199,9 @@ CG02Vault101Security04REF.look player
 CG02WallyMackREF.look player
 ;CG02SusieMackREF.look player
 ;CG02ChristineKendallREF.look player</ORIGINAL>
-    <TRADUIT>; everybody look at player
-CG02AmataREF.look player
-;CG02BeatriceREF.look player
-CG02ButchREF.look player
-CG02DadREF.look player
-CG02OldLadyPalmerREF.look player
-CG02OverseerREF.look player
-CG02PaulHannonREF.look player
-CG02Vault101Security04REF.look player
-;CG02StevieMackREF.look player
-CG02WallyMackREF.look player
-;CG02SusieMackREF.look player
-;CG02ChristineKendallREF.look player</TRADUIT>
+    <TRADUIT />
     <INDEX>6</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -22374,9 +22247,9 @@ CG02OverseerREF.evp</TRADUIT>
     <EDID>CG02</EDID>
     <CHAMP>CNAM</CHAMP>
     <ORIGINAL>Enjoy the party and speak with the guests.</ORIGINAL>
-    <TRADUIT>Enjoy the party and speak with the guests.</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -22393,16 +22266,9 @@ CG02DadREF.evp
 
 
 </ORIGINAL>
-    <TRADUIT>; give player pipboy
-player.additem pipboy 1
-ResetPipboyManager
-; party scene
-CG02DadREF.evp
-
-
-</TRADUIT>
+    <TRADUIT />
     <INDEX>9</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -22456,9 +22322,9 @@ CG02WallyMackREF.stoplook
     <EDID>CG02</EDID>
     <CHAMP>CNAM</CHAMP>
     <ORIGINAL>Dad finished talking to player</ORIGINAL>
-    <TRADUIT>Dad finished talking to player</TRADUIT>
+    <TRADUIT />
     <INDEX>2</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -22523,14 +22389,9 @@ CG02AmataREF.Say CG02CakeSpeech
 set CG02.timer to CG02FailsafeTimer
 set CG02.runTimer to 1
 </ORIGINAL>
-    <TRADUIT>; cake scene is over
-CG02AmataREF.Say CG02CakeSpeech
-; run "failsafe" timer
-set CG02.timer to CG02FailsafeTimer
-set CG02.runTimer to 1
-</TRADUIT>
+    <TRADUIT />
     <INDEX>14</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -22662,9 +22523,9 @@ setstage CG02 34
     <EDID>CG02</EDID>
     <CHAMP>SCTX</CHAMP>
     <ORIGINAL>; Amata spoke to player after Butch sweetroll "incident"</ORIGINAL>
-    <TRADUIT>; Amata spoke to player after Butch sweetroll "incident"</TRADUIT>
+    <TRADUIT />
     <INDEX>23</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -22716,11 +22577,9 @@ set CG02.runTimer to 1</TRADUIT>
     <ORIGINAL>; Dad talks to Jonas through the intercom
 set CG02.intercomBeep to 0 ; turn off beeping
 set CG02.runTimer to 0</ORIGINAL>
-    <TRADUIT>; Dad talks to Jonas through the intercom
-set CG02.intercomBeep to 0 ; turn off beeping
-set CG02.runTimer to 0</TRADUIT>
+    <TRADUIT />
     <INDEX>26</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -22732,11 +22591,9 @@ set CG02.runTimer to 0</TRADUIT>
     <ORIGINAL>; Dad done talking to Jonas, he comes over to talk to you
 CG02DinerIntercomREF.setTalkingActivatorActor
 CG02DadREF.evp</ORIGINAL>
-    <TRADUIT>; Dad done talking to Jonas, he comes over to talk to you
-CG02DinerIntercomREF.setTalkingActivatorActor
-CG02DadREF.evp</TRADUIT>
+    <TRADUIT />
     <INDEX>27</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -22814,15 +22671,9 @@ player.equipitem CG02weapBBgun
 CG02TargetRangeDoorNEW.unlock
 EnablePlayerControls 1 1 1 1 1 ; everything available
 setObjectiveCompleted CG02 20 1</ORIGINAL>
-    <TRADUIT>; dad talked to player
-player.additem CG02weapBBgun 1
-player.additem ammoBB 50
-player.equipitem CG02weapBBgun 
-CG02TargetRangeDoorNEW.unlock
-EnablePlayerControls 1 1 1 1 1 ; everything available
-setObjectiveCompleted CG02 20 1</TRADUIT>
+    <TRADUIT />
     <INDEX>30</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -22846,11 +22697,9 @@ setObjectiveCompleted CG02 20 1</TRADUIT>
     <ORIGINAL>setObjectiveCompleted CG02 20 1
 setObjectiveDisplayed CG02 30 1
 setstage CGTutorial 60</ORIGINAL>
-    <TRADUIT>setObjectiveCompleted CG02 20 1
-setObjectiveDisplayed CG02 30 1
-setstage CGTutorial 60</TRADUIT>
+    <TRADUIT />
     <INDEX>31</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -23051,9 +22900,9 @@ setstage CG03 0</ORIGINAL>
     <EDID>CG02</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Enjoy the party and speak with the guests.</ORIGINAL>
-    <TRADUIT>Enjoy the party and speak with the guests.</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -23239,17 +23088,9 @@ set CG04.timer to 6.3
 ; make sure vault suit is equipped
 player.equipitem vaultsuit101 0 1
 player.equipitem pipboy 0 1</ORIGINAL>
-    <TRADUIT>; play animation
-CG04AmataREF.evp
-player.addscriptpackage CG04PlayerSection0
-; run timer for "wake up" animation
-set CG04.runTimer to 1
-set CG04.timer to 6.3
-; make sure vault suit is equipped
-player.equipitem vaultsuit101 0 1
-player.equipitem pipboy 0 1</TRADUIT>
+    <TRADUIT />
     <INDEX>4</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -23329,9 +23170,9 @@ player.additem ammo10mm 36</TRADUIT>
     <EDID>CG04</EDID>
     <CHAMP>CNAM</CHAMP>
     <ORIGINAL>Enter the Overseer's office.</ORIGINAL>
-    <TRADUIT>Enter the Overseer's office.</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -23346,14 +23187,9 @@ player.additem lockpick 10
 ; tutorial picking things up
 setstage CGTutorial 80
 </ORIGINAL>
-    <TRADUIT>setObjectiveCompleted CG04 5 1
-setObjectiveDisplayed CG04 10 1
-player.additem lockpick 10
-; tutorial picking things up
-setstage CGTutorial 80
-</TRADUIT>
+    <TRADUIT />
     <INDEX>9</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -23428,10 +23264,9 @@ SetAlly CG04ButchFamilyFaction PlayerFaction 1 1</TRADUIT>
     <CHAMP>SCTX</CHAMP>
     <ORIGINAL>; Butch has spoken to player
 </ORIGINAL>
-    <TRADUIT>; Butch has spoken to player
-</TRADUIT>
+    <TRADUIT />
     <INDEX>13</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -23568,10 +23403,9 @@ CG04ButchREF.setav aggression 1
     <CHAMP>SCTX</CHAMP>
     <ORIGINAL>; Butch's mom is dead
 </ORIGINAL>
-    <TRADUIT>; Butch's mom is dead
-</TRADUIT>
+    <TRADUIT />
     <INDEX>19</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -23630,10 +23464,9 @@ CG04SecurityCenterDoor.setOpenState 0
     <CHAMP>SCTX</CHAMP>
     <ORIGINAL>setObjectiveCompleted CG04 5 1 ; in case I never talked to Amata
 setObjectiveDisplayed CG04 10 1</ORIGINAL>
-    <TRADUIT>setObjectiveCompleted CG04 5 1 ; in case I never talked to Amata
-setObjectiveDisplayed CG04 10 1</TRADUIT>
+    <TRADUIT />
     <INDEX>22</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -23866,11 +23699,9 @@ player.additem ammo10mm 30</TRADUIT>
     <ORIGINAL>setObjectiveCompleted CG04 10 1
 setObjectiveDisplayed CG04 40 1
 </ORIGINAL>
-    <TRADUIT>setObjectiveCompleted CG04 10 1
-setObjectiveDisplayed CG04 40 1
-</TRADUIT>
+    <TRADUIT />
     <INDEX>33</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -23926,13 +23757,9 @@ setObjectiveDisplayed CG04 60 1
 ; clean up if this is still going:
 set CG04.OverseerCallForHelp to 0
 </ORIGINAL>
-    <TRADUIT>setObjectiveCompleted CG04 50 1
-setObjectiveDisplayed CG04 60 1
-; clean up if this is still going:
-set CG04.OverseerCallForHelp to 0
-</TRADUIT>
+    <TRADUIT />
     <INDEX>35</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -24016,17 +23843,9 @@ CG04AmataRef.setalert 0
 ;Vault101RedLightsREF.disable
 ;Vault101RegularLightsREF.enable
 ;Vault101BackupGeneratorLightsREF.disable</ORIGINAL>
-    <TRADUIT>setObjectiveCompleted CG04 40 1
-setObjectiveCompleted CG04 60 1
-setObjectiveDisplayed CG04 70 1
-; in case Amata scene never finished
-CG04AmataRef.setalert 0
-; turn the lights back on
-;Vault101RedLightsREF.disable
-;Vault101RegularLightsREF.enable
-;Vault101BackupGeneratorLightsREF.disable</TRADUIT>
+    <TRADUIT />
     <INDEX>37</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -24055,16 +23874,9 @@ set CG04.timer to 2
 CG04Vault101Security07Ref.enable
 CG04Vault101Security08Ref.enable
 </ORIGINAL>
-    <TRADUIT>setObjectiveCompleted CG04 70 1
-setObjectiveDisplayed CG04 80 1
-; run timer for guard yells
-set CG04.runTimer to 1
-set CG04.timer to 2
-CG04Vault101Security07Ref.enable
-CG04Vault101Security08Ref.enable
-</TRADUIT>
+    <TRADUIT />
     <INDEX>38</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -24258,9 +24070,9 @@ CG04StanleyREF.disable
     <EDID>CG04</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Enter the Overseer's office.</ORIGINAL>
-    <TRADUIT>Enter the Overseer's office.</TRADUIT>
+    <TRADUIT />
     <INDEX>2</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -24270,9 +24082,9 @@ CG04StanleyREF.disable
     <EDID>CG04</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Enter the reactor control room.</ORIGINAL>
-    <TRADUIT>Enter the reactor control room.</TRADUIT>
+    <TRADUIT />
     <INDEX>3</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -24535,9 +24347,9 @@ addachievement 11
     <EDID>MS03</EDID>
     <CHAMP>CNAM</CHAMP>
     <ORIGINAL>Ask Moira about her book.</ORIGINAL>
-    <TRADUIT>Ask Moira about her book.</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -26551,9 +26363,9 @@ SetObjectiveDisplayed MS03 100 1</TRADUIT>
     <EDID>MS03</EDID>
     <CHAMP>CNAM</CHAMP>
     <ORIGINAL>Bring the printed books back to Lea.</ORIGINAL>
-    <TRADUIT>Bring the printed books back to Lea.</TRADUIT>
+    <TRADUIT />
     <INDEX>28</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -27937,9 +27749,9 @@ addachievement 16</TRADUIT>
     <EDID>MS03</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Ask Moira Brown about her book.</ORIGINAL>
-    <TRADUIT>Ask Moira Brown about her book.</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -28153,9 +27965,9 @@ addachievement 16</TRADUIT>
     <EDID>MS03</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Become seriously injured (50% health or less).</ORIGINAL>
-    <TRADUIT>Become seriously injured (50% health or less).</TRADUIT>
+    <TRADUIT />
     <INDEX>19</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -28443,13 +28255,9 @@ set CG00DadREF.doTalk to 1
 set CG00DadREF.timer to 0  ; for now to synch with animation
 player.addScriptPackage CG00PlayerSection1
 </ORIGINAL>
-    <TRADUIT>; Dad starts talking
-set CG00DadREF.doTalk to 1
-set CG00DadREF.timer to 0  ; for now to synch with animation
-player.addScriptPackage CG00PlayerSection1
-</TRADUIT>
+    <TRADUIT />
     <INDEX>6</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -28480,14 +28288,9 @@ player.addScriptPackage CG00PlayerSection2
 set CG00.runTimer to 1
 set CG00.timer to 1
 </ORIGINAL>
-    <TRADUIT>; player chooses gender
-player.addScriptPackage CG00PlayerSection2
-; run timer before starting dialogue again
-set CG00.runTimer to 1
-set CG00.timer to 1
-</TRADUIT>
+    <TRADUIT />
     <INDEX>8</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -28551,11 +28354,9 @@ set CG00.timer to 1</TRADUIT>
     <ORIGINAL>set CG00.runTimer to 0
 ; dad starts speaking again
 set CG00DadREF.doTalk to 1</ORIGINAL>
-    <TRADUIT>set CG00.runTimer to 0
-; dad starts speaking again
-set CG00DadREF.doTalk to 1</TRADUIT>
+    <TRADUIT />
     <INDEX>12</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -28622,20 +28423,9 @@ CG03DadREF.MatchFaceGeometry player CGMatchFace
 MQDadREF.MatchFaceGeometry player CGMatchFace
 
 </ORIGINAL>
-    <TRADUIT>; dad matches player's race and face
-CG01DadREF.MatchRace player
-CG02DadREF.MatchRace player
-CG03DadREF.MatchRace player
-MQDadREF.MatchRace player
-; match face
-CG01DadREF.MatchFaceGeometry player CGMatchFace
-CG02DadREF.MatchFaceGeometry player CGMatchFace
-CG03DadREF.MatchFaceGeometry player CGMatchFace
-MQDadREF.MatchFaceGeometry player CGMatchFace
-
-</TRADUIT>
+    <TRADUIT />
     <INDEX>16</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -29291,9 +29081,9 @@ addachievement 23
     <EDID>MS11</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Disarm Megaton's atomic bomb.</ORIGINAL>
-    <TRADUIT>Disarm Megaton's atomic bomb.</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -29363,9 +29153,9 @@ addachievement 23
     <EDID>MS11</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Disarm Megaton's atomic bomb... or rig it to explode.</ORIGINAL>
-    <TRADUIT>Disarm Megaton's atomic bomb... or rig it to explode.</TRADUIT>
+    <TRADUIT />
     <INDEX>7</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -29483,9 +29273,9 @@ addachievement 23
     <EDID>ttbOQ01MessageNeedKey</EDID>
     <CHAMP>DESC</CHAMP>
     <ORIGINAL>You're going to need the key to Amanda's slave collar before you unlock the cage.</ORIGINAL>
-    <TRADUIT>You're going to need the key to Amanda's slave collar before you unlock the cage.</TRADUIT>
+    <TRADUIT>Necesitarás la llave del collar de esclava de Amanda antes de forzar la puerta de la jaula.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
