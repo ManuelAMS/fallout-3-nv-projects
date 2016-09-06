@@ -2365,9 +2365,9 @@ endif</ORIGINAL>
     <EDID>GREETING</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>We have to get out of here. They'll be coming for us next. We've got to evacuate now!</ORIGINAL>
-    <TRADUIT>Tenemos que salir de aquí. Ahora vendrán a por nosotros. ¡Tenemos que evacuar este lugar ya!</TRADUIT>
+    <TRADUIT />
     <INDEX>2</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2405,9 +2405,9 @@ endif</ORIGINAL>
     <EDID>GREETING</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>You've saved me. I was afraid I'd be trapped in there forever.</ORIGINAL>
-    <TRADUIT>Me has salvado. Tenía miedo de estar aquí atrapada para siempre.</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>99</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2429,9 +2429,9 @@ endif</ORIGINAL>
     <EDID>GREETING</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>It's so good to see you, but... What are you DOING here?</ORIGINAL>
-    <TRADUIT>Me alegro mucho de verte, pero... ¿Qué estás HACIENDO aquí?</TRADUIT>
+    <TRADUIT />
     <INDEX>2</INDEX>
-    <STATUS>99</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2474,9 +2474,9 @@ endif</ORIGINAL>
     <EDID>GREETING</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Son... You've saved me. I was afraid I'd be trapped in there forever.</ORIGINAL>
-    <TRADUIT>Hijo... Me has salvado. Creí que me pasaría atrapado el resto de mi vida.</TRADUIT>
+    <TRADUIT />
     <INDEX>1</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>0</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -3167,9 +3167,9 @@ ttbCG04JammedDoorRef.disable</ORIGINAL>
     <EDID>IdleChatter</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>You really think Dad was working out of a place like this? Doesn't seem... "sciencey" enough.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¿En serio crees que papá estuvo trabajando en un sitio como este? No parece lo bastante... "ciencioso".</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -3467,9 +3467,9 @@ ttbCG04JammedDoorRef.disable</ORIGINAL>
     <EDID>IdleChatter</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I still just can't believe we've got him back.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Sigo sin creerme del todo que le hayamos traido de vuelta.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -7641,9 +7641,9 @@ SetObjectiveDisplayed TTBTiesThatBind 99 0</ORIGINAL>
     <EDID>ttbMiscAmandaThoughts</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>You really think Dad was working out of a place like this? Doesn't seem... "sciencey" enough.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¿En serio crees que papá estuvo trabajando en un sitio como este? No parece lo bastante... "ciencioso".</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -7715,7 +7715,7 @@ SetObjectiveDisplayed TTBTiesThatBind 99 0</ORIGINAL>
     <ORIGINAL>So he really was here...</ORIGINAL>
     <TRADUIT>Así que realmente estuvo aquí...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>90</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -7857,9 +7857,9 @@ SetObjectiveDisplayed TTBTiesThatBind 99 0</ORIGINAL>
     <EDID>ttbMiscAmandaThoughts</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I still just can't believe we've got him back.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Sigo sin creerme del todo que le hayamos traido de vuelta.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -8217,9 +8217,9 @@ SetObjectiveDisplayed TTBTiesThatBind 99 0</ORIGINAL>
     <EDID>ttbMQ04Freed1Plan1</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Right... right, of course: Project Purity, and all that.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Ya... ya, claro... el Proyecto Pureza, y todo eso.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -8229,9 +8229,9 @@ SetObjectiveDisplayed TTBTiesThatBind 99 0</ORIGINAL>
     <EDID>ttbMQ04Freed1Plan1</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>The three of us go back to Rivet City.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Los tres volvemos juntos a Rivet City.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -8303,9 +8303,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ04Freed1Success1</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I was just so focused on trying to FIND him... what do we do?</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Estaba tan centrada en intentar ENCONTRARLE... ¿Qué hacemos ahora?</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -8339,9 +8339,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ04Freed1Success2</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Hah, I feel a bit like the LITTLE sister right now.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Je, me siento un poco como si yo fuera la hermana PEQUEÑA ahora.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -8363,9 +8363,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ04Freed1Success2</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I was just so focused on trying to FIND him... what do we do?</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Estaba tan centrada en intentar ENCONTRARLE... ¿Qué hacemos ahora?</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -8375,7 +8375,7 @@ endif</ORIGINAL>
     <EDID>ttbMQ04Freed1Success2</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>I never had a doubt.</ORIGINAL>
-    <TRADUIT>Nunca lo dudé.</TRADUIT>
+    <TRADUIT>Yo nunca lo dudé.</TRADUIT>
     <INDEX>1</INDEX>
     <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
@@ -8435,9 +8435,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ04Freed1Plan2</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>Hell if I know.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>No tengo ni la menor idea.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -8459,9 +8459,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ04Freed1Plan1a</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Weird? No - more like an unpleasant reminder...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¿Raro? No... Más bien como un recordatorio incómodo...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -8471,9 +8471,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ04Freed1Plan1a</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>He was like this before - Mum too. Maybe it's worse; I can't really remember.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Ya estuvo así antes... y mamá tambien. Puede que sea peor, no lo recuerdo bien.</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -8483,9 +8483,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ04Freed1Plan1a</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Would make sense: he probably feels like he's doing it for her.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Tiene sentido... probablemente siente que lo está haciendo por ella.</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -8495,9 +8495,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ04Freed1Plan1a</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>Does it seem weird to you that he's more concerned with that than us?</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¿No te parece raro que esté mas preocupado por eso que por tí o por mí?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -8519,9 +8519,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ04Freed1Plan1b</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Hah, you might be right.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Je, puede que tengas razón.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -8531,9 +8531,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ04Freed1Plan1b</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Come on: they'll be time for questions back in Rivet City.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Vamos... habrá tiempo para las preguntas en Rivet City.</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -8555,9 +8555,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ04Freed1Plan1b</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>We'd better hurry: sounds like he might leave us behind otherwise.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Será mejor que nos demos prisa... creo que podría dejarnos atrás...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -8663,9 +8663,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ04Freed1Plan2a</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I guess you're right. Well, no time like the present...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Supongo que tienes razón. Bueno, no hay mejor momento que el presente...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -8687,9 +8687,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ04Freed1Plan2a</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>We've got to move forward.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Tenemos que seguir adelante.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -8711,9 +8711,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ04Freed1Plan2b</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>No, I suppose you wouldn't. This must seem like some great adventure to you...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>No, supongo que tú no. Esta debe ser una gran aventura para tí...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -8723,9 +8723,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ04Freed1Plan2b</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Well, back to Rivet City it is...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Pues nada, de vuelta a Rivet City...</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -8747,9 +8747,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ04Freed1Plan2b</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>I wouldn't want to, even if we could.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Yo no querría ni aunque pudiera.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -8771,9 +8771,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ04Freed1Plan1ai</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Not right now. Maybe once we're back in Rivet City.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Ahora no. Tal vez cuando estemos de vuelta en Rivet City.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -8795,9 +8795,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ04Freed1Plan1ai</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>Tell me about what they were like back then.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Háblame un poco de como eran entonces.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -8819,9 +8819,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ04Freed1Plan1aii</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I'm sure it broke his heart to leave us without so much as a goodbye...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Estoy segura de que le rompió el corazón tener que abandonarnos sin poder despedirse...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -8831,9 +8831,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ04Freed1Plan1aii</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>but probably only half as much as if he'd taken us with him and something had happened to one of us.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>pero probablemente solo la mitad que si nos hubiera llevado con el y nos hubiera pasado algo.</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -8867,9 +8867,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ04Freed1Plan1aiii</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Don't say that: you don't mean it.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>No digas eso... no lo dices en serio.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -8879,9 +8879,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ04Freed1Plan1aiii</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Come on: I'm sure once we're back in Rivet City he'll have time for us.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Vamos. Estoy segura de que cuando estemos en Rivet City tendrá tiempo para hablar.</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -8904,9 +8904,9 @@ ttbAmandaRef.sayto MQDadRef ttbMQ04Freed</ORIGINAL>
     <EDID>ttbMQ04Freed1Plan1aiii</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>I'm starting to wish I'd just let him abandon us.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Estoy empezando a pensar que sería mejor haberle dejado abandonarnos.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -8928,9 +8928,9 @@ ttbAmandaRef.sayto MQDadRef ttbMQ04Freed</ORIGINAL>
     <EDID>ttbMQ04Freed1Plan1aii1</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I may not have a child of my own, but being a big sister... well...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Puede que yo no tenga hijos, pero siendo una hermana mayor... bueno...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -8940,9 +8940,9 @@ ttbAmandaRef.sayto MQDadRef ttbMQ04Freed</ORIGINAL>
     <EDID>ttbMQ04Freed1Plan1aii1</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Let's just say I don't like it either, but I at least understand.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Digamos que a mí tampoco me gusta, pero al menos puedo comprenderlo.</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -8988,9 +8988,9 @@ ttbAmandaRef.sayto MQDadRef ttbMQ04Freed</ORIGINAL>
     <EDID>ttbMQ04Freed1Plan1aii2</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Watch your mouth: he's still your father!</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¡Cuidado con lo que dices! ¡Sigue siendo tu padre!</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18964,9 +18964,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ04Freed</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Daddy! I can't believe... I'm just so glad you're okay.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¡Papá! No puedo creer... me alegro de que estés bien.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -20439,9 +20439,9 @@ endif</ORIGINAL>
     <EDID>ttbMiscJoke1</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I thought you could use a joke.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Pensé que te vendría bien una broma.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -20475,9 +20475,9 @@ endif</ORIGINAL>
     <EDID>ttbMiscJoke1a</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Botany...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Ernesto...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -20499,9 +20499,9 @@ endif</ORIGINAL>
     <EDID>ttbMiscJoke1a</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Bought-any good digs lately? I'm getting sick of these clothes...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>El dueño de todo esto.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -20523,9 +20523,9 @@ endif</ORIGINAL>
     <EDID>ttbMiscJoke1a</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>Botany who?</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¿Qué Ernesto?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -20583,9 +20583,9 @@ endif</ORIGINAL>
     <EDID>ttbMiscJoke2a</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Sez...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Abogado...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -20607,9 +20607,9 @@ endif</ORIGINAL>
     <EDID>ttbMiscJoke2a</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Says me, that's who!</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>El que tengo aquí colgado.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -20619,9 +20619,9 @@ endif</ORIGINAL>
     <EDID>ttbMiscJoke2a</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>Sez who?</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¿Qué abogado?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -20679,9 +20679,9 @@ endif</ORIGINAL>
     <EDID>ttbMiscJoke3a</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Yacht...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Antúnez</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -20703,7 +20703,7 @@ endif</ORIGINAL>
     <EDID>ttbMiscJoke3a</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Y'ought to know me by now!</ORIGINAL>
-    <TRADUIT>¡Ya tendrías que conocerme a estas alturas!</TRADUIT>
+    <TRADUIT>El que te la mete el domingo y te la saca el lunes.</TRADUIT>
     <INDEX>1</INDEX>
     <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
@@ -20715,9 +20715,9 @@ endif</ORIGINAL>
     <EDID>ttbMiscJoke3a</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>Yacht who?</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¿Qué Antunez?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -27611,7 +27611,7 @@ addachievement 23
     <ORIGINAL>Keepsake</ORIGINAL>
     <TRADUIT>Recuerdo</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
