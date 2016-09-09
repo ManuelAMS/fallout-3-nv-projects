@@ -2701,9 +2701,9 @@ endif</ORIGINAL>
     <EDID>GREETING</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Just go! I don't want to talk to you right now.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¡Vete! No quiero hablar contigo ahora.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2737,9 +2737,9 @@ endif</ORIGINAL>
     <EDID>GREETING</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Oh shit, I think it's bad...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Mierda, creo que esto es malo...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>98</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2749,9 +2749,9 @@ endif</ORIGINAL>
     <EDID>GREETING</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Oh shit, it's bad!</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¡Mierda, es malo!</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>98</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -11952,9 +11952,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Sad1console1a</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>You're right. I was so focused on trying to DO something... I didn't take the time to just look in his eyes and say goodbye... tell him I love him.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Tienes razón. Estaba tán centrada en intentar hacer algo, lo que sea... que no tuve tiempo para mirarle a los ojos y decirle adiós... decirle que le quiero.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -14227,9 +14227,9 @@ setstage ttbFamilyReunion 60</ORIGINAL>
     <EDID>ttbOQ01Funeral1Plan3</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Well... I don't know about sea, but there IS one place...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>No es exactamente el mar, pero conozco un lugar...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -14528,9 +14528,9 @@ setstage ttbFamilyReunion 60</ORIGINAL>
     <EDID>ttbOQ01Funeral1Reflect1a</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>Is this what Dad did with Mom when she died?</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¿Es eso lo que hizo papá con mamá cuando murió?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -14830,7 +14830,7 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Funeral1Eulogy1c</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Please...?</ORIGINAL>
-    <TRADUIT>¿Por favor...?</TRADUIT>
+    <TRADUIT>¿...Por favor...?</TRADUIT>
     <INDEX>1</INDEX>
     <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
@@ -15217,9 +15217,9 @@ setStage ttbFamilyReunion 70</ORIGINAL>
     <EDID>ttbOQ01Funeral1Eulogy</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>One of us should probably say something...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Deberíamos pronunciar unas palabras...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15565,9 +15565,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Home1Remains3</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>It's hard to say... lots of places. Rivet City? Maybe the Jefferson Memorial?</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>No sabría decir... hay muchos sitios. ¿Rivet City? ¿Tal vez el monumento a Jefferson?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15601,7 +15601,7 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Home1Remains4</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Okay, we don't have to let them go just yet. You let me know when you feel you're ready.</ORIGINAL>
-    <TRADUIT>Vale, no tenemos que hacer esto ahora. Avísame cuando creas que ha llegado el momento.</TRADUIT>
+    <TRADUIT>Claro, no tenemos que hacer esto ahora. Avísame cuando creas que ha llegado el momento.</TRADUIT>
     <INDEX>1</INDEX>
     <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
@@ -15673,9 +15673,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Home1Remains1b</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Better. I still think about it, especially right before I fall asleep - a sort of panic. Like it's the only time I really realize he's gone...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Mejor. Aunque sigo pensando en ello, sobre todo justo antes de dormir... como un ataque de pánico. Como si fuera el único momento en el que me doy cuenta de que ya no está...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15685,9 +15685,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Home1Remains1b</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>...that we'll never see or talk to him again... But I guess that'll just take time.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>... de que nunca le volveremos a ver o a hablar con él... Supongo que hace falta tiempo.</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15697,9 +15697,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Home1Remains1b</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>How are you holding up?</ORIGINAL>
-    <TRADUIT>¿Cómo consigues resistir?</TRADUIT>
+    <TRADUIT>¿Cómo lo llevas?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15805,9 +15805,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Home1Remains3c</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>Maybe I'll just hang onto them for now.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Creo que las guardaré de momento.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15973,9 +15973,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Home1Truth1b</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>And that's where you brought Mom?</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¿Es ahí donde llevasteis a mamá?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15997,9 +15997,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Home1Truth1c</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>It's not that big a deal. People move around, especially out here.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>No es para tanto. La gente se desplaza mucho, sobre todo aquí fuera.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16021,9 +16021,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Home1Truth1c</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>It's like I didn't even know them.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Es como si ni siquiera les conociera.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16045,7 +16045,7 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Home1Truth1bi</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>There are no children in the wasteland. That part of you dies as soon as your eyes can see - you ears can hear...</ORIGINAL>
-    <TRADUIT>No hay niños en el yermo. Esa parte de tí muere en cuanto tus ojos pueden ver... y tus oidos pueden oir...</TRADUIT>
+    <TRADUIT>No hay niños en el yermo. Esa parte de tí muere en cuanto tus ojos pueden ver... y tus oidos escuchar...</TRADUIT>
     <INDEX>1</INDEX>
     <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
@@ -16093,9 +16093,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Home1Truth1bii</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Just the once, but yes. Technically so have you, but you were only a couple weeks old.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Solo una vez, pero sí. Y técnicamente tú tambien, pero solo tenías unas pocas semanas.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16105,9 +16105,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Home1Truth1bii</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>So you HAVE been to the old house?</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¿Entonces ESTUVISTE tú en la vieja casa?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16153,9 +16153,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Home1Truth1bii1</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>We should probably head out sooner rather than later. With everything coming to a head with the enclave, we may not get another chance.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Probablemente deberíamos ir allí antes o después. Con todo lo que está pasando con el enclave, puede que no tengamos otra oportunidad.</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16165,9 +16165,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Home1Truth1bii1</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I'm pretty sure I can pinpoint it on your Pip-Boy...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Estoy segura de que puedo mostrarte la ubicación en tu Pip-Boy...</TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16191,9 +16191,9 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Home1Truth1bii1</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>Do you remember how to get to the old house?</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¿Recuerdas como llegar a la vieja casa?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16227,9 +16227,9 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Home1Truth1bii2</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>We should probably head out sooner rather than later. With everything coming to a head with the enclave, we may not get another chance.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Probablemente deberíamos ir allí antes o después. Con todo lo que está pasando con el enclave, puede que no tengamos otra oportunidad.</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16239,9 +16239,9 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Home1Truth1bii2</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I'm pretty sure I can pinpoint it on your Pip-Boy...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Estoy segura de que puedo mostrarte la ubicación en tu Pip-Boy...</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16265,9 +16265,9 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Home1Truth1bii2</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>I have to see it. I have to see Mom.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Tengo que verla. Tengo que ver a mamá.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16289,9 +16289,9 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Home1Truth1bii3</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I... I was being selfish. I wanted to lay him to rest at somewhere meaningful to me. The only memories I have of that place are bad ones.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Yo... estaba siendo egoista. Quería que descansara en paz en algún sitio que tuviera un significado para mí. Los únicos recuerdos que tengo de aquel sitio son malos.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16329,7 +16329,7 @@ endif</ORIGINAL>
     <ORIGINAL>I can't say I'm looking forward to it, but I understand.</ORIGINAL>
     <TRADUIT>No puedo decir que tenga ganas de ir, pero lo entiendo.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16339,9 +16339,9 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Home1Truth1bii3</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>We should probably head out sooner rather than later. With everything coming to a head with the enclave, we may not get another chance.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Probablemente deberíamos ir allí antes o después. Con todo lo que está pasando con el enclave, puede que no tengamos otra oportunidad.</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16351,9 +16351,9 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Home1Truth1bii3</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I'm pretty sure I can pinpoint it on your Pip-Boy...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Estoy segura de que puedo mostrarte la ubicación en tu Pip-Boy...</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16363,9 +16363,9 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Home1Truth1bii3</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>That's where I want to spread Dad's ashes.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Allí es donde quiero esparcir las cenizas de papá.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16423,9 +16423,9 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Home2Arrive1</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>After we moved into the Vault... well... It was all in the past.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Y cuando nos mudamos al refugio... todo eso quedó en el pasado.</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16509,7 +16509,7 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Home3Mom</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>This is it.</ORIGINAL>
-    <TRADUIT>Ya está.</TRADUIT>
+    <TRADUIT>Aquí es.</TRADUIT>
     <INDEX>1</INDEX>
     <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
@@ -16701,7 +16701,7 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Home3Mom1a</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Take all the time you need. We'll spend the night and if you want, you can look around some more in the morning.</ORIGINAL>
-    <TRADUIT>Tómate todo el tiempo que necesites. Podemos pasar la noche aquí</TRADUIT>
+    <TRADUIT>s</TRADUIT>
     <INDEX>3</INDEX>
     <STATUS>90</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
@@ -16713,7 +16713,7 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Home3Mom1a</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I'll see you inside.</ORIGINAL>
-    <TRADUIT>Te veré dentro.</TRADUIT>
+    <TRADUIT>Te espero dentro.</TRADUIT>
     <INDEX>4</INDEX>
     <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
@@ -16742,7 +16742,7 @@ endif</ORIGINAL>
     <ORIGINAL>I thought things would make more sense once we got here.</ORIGINAL>
     <TRADUIT>Pensé que las cosas tendrían mas sentido en cuanto estuviéramos aquí.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>90</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16776,7 +16776,7 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Home3Mom1b</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I'll see you inside.</ORIGINAL>
-    <TRADUIT>Te veré dentro.</TRADUIT>
+    <TRADUIT>Te espero dentro.</TRADUIT>
     <INDEX>2</INDEX>
     <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
@@ -16839,7 +16839,7 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Home3Mom1c</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I'll see you inside.</ORIGINAL>
-    <TRADUIT>Te veré dentro.</TRADUIT>
+    <TRADUIT>Te espero dentro.</TRADUIT>
     <INDEX>2</INDEX>
     <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
@@ -16890,9 +16890,9 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Home3Mom1d</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I'm sorry you never got the chance to meet her, but nothing's going to change that...</ORIGINAL>
-    <TRADUIT>Siento que nunca pudieras conocerla, pero eso no lo va a cambiar nada...</TRADUIT>
+    <TRADUIT>Siento que nunca tuvieras la oportunidad de conocerla, pero nada va a cambiar eso...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16904,7 +16904,7 @@ endif</ORIGINAL>
     <ORIGINAL>Especially not some shack in the middle of nowhere.</ORIGINAL>
     <TRADUIT>Y menos una cabaña en medio de la nada.</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16926,7 +16926,7 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Home3Mom1d</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I'll see you inside.</ORIGINAL>
-    <TRADUIT>Te veré dentro.</TRADUIT>
+    <TRADUIT>Te espero dentro.</TRADUIT>
     <INDEX>4</INDEX>
     <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
@@ -17279,7 +17279,7 @@ endif</ORIGINAL>
     <ORIGINAL>We can leave whenever you're done looking around.</ORIGINAL>
     <TRADUIT>Podemos marcharnos cuando hayas terminado de mirarlo todo.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -17413,9 +17413,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight1Payback1</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Lead the way: I'll be right behind you.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Vete tú delante. Te sigo.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -17464,9 +17464,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight1Payback2</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Of course I'm sure! This has been a long time coming.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¡Pues claro que estoy segura! Llevaba mucho tiempo esperándolo.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -17476,9 +17476,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight1Payback2</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>It's not just for Dad, it's for us - it's for everyone.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Eso no es solo por papá. Es por tí y por mí. Es por todos nosotros.</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -17488,9 +17488,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight1Payback2</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>Are you sure you're ready for this?</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¿Estás segura de estar preparada para esto?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -17548,9 +17548,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight1Payback2a</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Lead the way: I'll be right behind you.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Vete tú delante. Te sigo.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -17599,7 +17599,7 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight1Payback2b</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I trust Dad. He was sure: I'm sure.</ORIGINAL>
-    <TRADUIT>Confío en papá. Él estaba seguro... yo estoy segura.</TRADUIT>
+    <TRADUIT>Creo en papá. Él estaba seguro... yo estoy segura.</TRADUIT>
     <INDEX>1</INDEX>
     <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
@@ -17613,7 +17613,7 @@ endif</ORIGINAL>
     <ORIGINAL>Do you really think Project Purity will work?</ORIGINAL>
     <TRADUIT>¿Crees de verdad que el Proyecto Pureza funcionará?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>90</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -17635,9 +17635,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight1Payback2bi</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Lead the way: I'll be right behind you.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Vete tú delante. Te sigo.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -17662,9 +17662,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight1Payback2bi</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>Let's do this.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Hagámoslo.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -17686,9 +17686,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight1Payback3ai</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Yer goddamn right, "let's go".</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Joder, sí, vamos allá.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -17737,9 +17737,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight1Payback3a</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Fuck what YOU need!</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¡Me importa una mierda lo que necesites tú!</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -17749,9 +17749,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight1Payback3a</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>You're not the only one who lost a father - you're not the only on who wants payback!</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¡No eres la única persona que ha perdido un padre! ¡Ni la única que quiere venganza!</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -17761,9 +17761,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight1Payback3a</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>This is something I need to do on my own.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Esto es algo que necesito hacer por mi cuenta.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -17821,9 +17821,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight1Payback3c</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>You're actually SERIOUS about this, aren't you?</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¿Lo estás diciendo en serio? ¿De verdad?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -17833,9 +17833,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight1Payback3c</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>You can wait in the Citadel - I'll be back soon.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Puedes esperarme en la Ciudadela... volveré pronto.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -17920,9 +17920,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight1Payback3bii</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>God damn it... and what about me?</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Joder... ¿Y que coño pasa conmigo?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -17932,9 +17932,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight1Payback3bii</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>What am I supposed to do when my baby brother doesn't come home?</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¿Y qué se supone que tengo que hacer cuando mi hermano pequeño no vuelva a casa?</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -17956,9 +17956,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight1Payback3bii</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>God damn it... and what about me?</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Joder... ¿Y que coño pasa conmigo?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -17968,9 +17968,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight1Payback3bii</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>What am I supposed to do when my baby sister doesn't come home?</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¿Y qué se supone que tengo que hacer cuando mi hermana pequeña no vuelva a casa?</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18004,9 +18004,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight1Payback3bii1</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>(sigh) You'd better. You'd fucking better...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>(suspiro) Más te vale. Mas te vale, joder...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18043,9 +18043,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight1Payback3bii1</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>(sigh) You'd better. You'd fucking better...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>(suspiro) Más te vale. Mas te vale, joder...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18067,9 +18067,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight1Payback3bii1</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Maybe it'll bring you some luck or something...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Tal vez te traiga suerte o algo así...</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18118,9 +18118,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Oh shit, I think it's bad...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Mierda, creo que esto es malo...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18130,9 +18130,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Oh shit, it's bad!</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¡Mierda, es malo!</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18154,9 +18154,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound1</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I... I'm not sure - I felt it go through, but... it didn't hurt, so...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>No... no estoy segura... lo sentí atravesar de lado a lado, pero... no dolió, así que...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18166,9 +18166,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound1</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Oh shit, that's my blood...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Mierda, esa sangre es mía...</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18178,9 +18178,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound1</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Shit... that's all my blood.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Mierda... es demasiada sangre.</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18214,9 +18214,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound2</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Yeah... Yeah, just let me - ughhh! No...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Sí... sí, solo deja que... ¡ughhh! No...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18226,9 +18226,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound2</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Fuck... No, I don't...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Joder... No... yo no...</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18238,9 +18238,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound2</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Shit...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Mierda...</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18274,9 +18274,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound3</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Right... sorry. I -</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Sí... perdón. Yo...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18286,9 +18286,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound3</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Augggh! Fuck...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¡Aggggh! Joder...</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18298,9 +18298,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound3</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Oh, shit! I...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¡Oh, mierda! Yo...</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18310,9 +18310,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound3</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Oh, shit - I think I'm DYING...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Oh, mierda... creo que me muero...</TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18324,7 +18324,7 @@ endif</ORIGINAL>
     <ORIGINAL>Come on, we've got to keep moving.</ORIGINAL>
     <TRADUIT>Vamos, tenemos que continuar.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18346,9 +18346,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound1a</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Oh shit, no... I feel... Everything's...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Oh, mierda, no... siento... como si todo...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18358,9 +18358,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound1a</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Take Mum's necklace... She'd want...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Toma el colgante de mamá... Ella habría querido que...</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18382,9 +18382,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound1a</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>This can't... it can't all be for nothing...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Esto no... no puede haber sido para nada...</TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18407,9 +18407,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound1a</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>Let me help you.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Deja que te ayude.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18419,9 +18419,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound1a</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Oh shit, no... I feel... Everything's...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Oh, mierda, no... siento... como si todo...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18443,9 +18443,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound1a</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>This can't... it can't all be for nothing...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Esto no... no puede haber sido para nada...</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18455,9 +18455,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound1a</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>Let me help you.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Deja que te ayude.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18479,9 +18479,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound1b</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Oh shit, no... I feel... Everything's...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Oh, mierda, no... siento... como si todo...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18491,9 +18491,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound1b</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Take Mum's necklace... She'd want...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Toma el colgante de mamá... Ella habría querido que...</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18515,9 +18515,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound1b</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>This can't... it can't all be for nothing...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Esto no... no puede haber sido para nada...</TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18552,9 +18552,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound1b</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Oh shit, no... I feel... Everything's...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Oh, mierda, no... siento... como si todo...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18576,9 +18576,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound1b</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>This can't... it can't all be for nothing...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Esto no... no puede haber sido para nada...</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18588,9 +18588,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound1b</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>Let me help you.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Deja que te ayude.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18612,9 +18612,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound1c</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Oh shit, no... I feel... Everything's...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Oh, mierda, no... siento... como si todo...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18624,9 +18624,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound1c</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Take Mum's necklace... She'd want...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Toma el colgante de mamá... Ella habría querido que...</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18648,9 +18648,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound1c</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>This can't... it can't all be for nothing...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Esto no... no puede haber sido para nada...</TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18685,9 +18685,9 @@ showmessage ttbOQ01MessageKeepsakeNotification</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound1c</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Oh shit, no... I feel... Everything's...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Oh, mierda, no... siento... como si todo...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18709,9 +18709,9 @@ showmessage ttbOQ01MessageKeepsakeNotification</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound1c</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>This can't... it can't all be for nothing...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Esto no... no puede haber sido para nada...</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>98</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18721,9 +18721,9 @@ showmessage ttbOQ01MessageKeepsakeNotification</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound1c</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>Let me help you.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Deja que te ayude.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18757,9 +18757,9 @@ showmessage ttbOQ01MessageKeepsakeNotification</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound1ai</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I'm scared... I'm so scared...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Tengo miedo... tengo mucho miedo...</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18822,9 +18822,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound1aii</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I'm scared... I'm so scared...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Tengo miedo... tengo mucho miedo...</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18851,9 +18851,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound1aii</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>Tell me what you need me to do.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Dime que necesitas que haga.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18887,9 +18887,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound1aiii</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Oh, shit... don't let me...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Oh, mierda... no me dejes...</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18916,9 +18916,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight2Wound1aiii</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>I'll stop the. I swear it.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Les detendré. Lo juro.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
