@@ -30,9 +30,9 @@
     <EDID>ttbHairAmanda</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Held Back - Long</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Sujeto atrás - Largo</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -44,7 +44,7 @@
     <ORIGINAL>African American</ORIGINAL>
     <TRADUIT>Afroamericana</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -56,7 +56,7 @@
     <ORIGINAL>Asian</ORIGINAL>
     <TRADUIT>Asiática</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -68,7 +68,7 @@
     <ORIGINAL>Caucasian</ORIGINAL>
     <TRADUIT>Caucásica</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -80,7 +80,7 @@
     <ORIGINAL>Hispanic</ORIGINAL>
     <TRADUIT>Hispana</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -1899,11 +1899,11 @@ END</ORIGINAL>
     <EDID>ttbDadDead</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Dad</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Papá</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
-    <COMMENTAIRE>000042c3 (ID) - Hombre</COMMENTAIRE>
+    <COMMENTAIRE>Anciano caucásico - Hombre</COMMENTAIRE>
   </ESP>
   <ESP>
     <GRUP>NPC_</GRUP>
@@ -1995,9 +1995,9 @@ END</ORIGINAL>
     <EDID>RavenRock03</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Raven Rock - Level 3</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Raven Rock - Nivel 3</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2007,9 +2007,9 @@ END</ORIGINAL>
     <EDID>RCHangarDeckAft</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Science Lab</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Laboratorio científico</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2019,9 +2019,9 @@ END</ORIGINAL>
     <EDID>RavenRock02</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Raven Rock - Level 2</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Raven Rock - Nivel 2</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2031,9 +2031,9 @@ END</ORIGINAL>
     <EDID>Vault101d</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Vault 101</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Refugio 101</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2043,9 +2043,9 @@ END</ORIGINAL>
     <EDID>Vault87a</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Test Labs</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Laboratorios de pruebas</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2055,9 +2055,9 @@ END</ORIGINAL>
     <EDID>Vault101b</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Vault 101 Atrium</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Atrio del Refugio 101</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2067,9 +2067,9 @@ END</ORIGINAL>
     <EDID>Vault106a</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Vault 106 Entrance</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Entrada al Refugio 106</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2079,9 +2079,9 @@ END</ORIGINAL>
     <EDID>PPurity01</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Jefferson Memorial Rotunda</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Rotonda del Jefferson Memorial</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2091,9 +2091,9 @@ END</ORIGINAL>
     <EDID>PPurity02</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Jefferson Museum and Gift Shop</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Museo y tienda regalos Jefferson</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2103,9 +2103,9 @@ END</ORIGINAL>
     <EDID>LL</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Lamplight Caverns</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Cavernas de Lamplight</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2115,9 +2115,9 @@ END</ORIGINAL>
     <EDID>LLGrandChamber</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>The Great Chamber</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>La Gran Cámara</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2127,9 +2127,9 @@ END</ORIGINAL>
     <EDID>TaftTunnel02</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Taft Tunnels</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Túneles Taft</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2139,9 +2139,9 @@ END</ORIGINAL>
     <EDID>Wasteland</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Wasteland</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Yermo</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2165,7 +2165,7 @@ END</ORIGINAL>
     <ORIGINAL>Paradise Falls</ORIGINAL>
     <TRADUIT>Paradise Falls</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>52</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2175,9 +2175,9 @@ END</ORIGINAL>
     <EDID>GREETING</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>GREETING</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>SALUDO</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2189,7 +2189,7 @@ END</ORIGINAL>
     <ORIGINAL>Look, this is a restricted area. I'm tired of telling you people...</ORIGINAL>
     <TRADUIT>Mira, esta es una zona restringida. Estoy hasta el moño de decírselo a la gente...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2213,7 +2213,7 @@ END</ORIGINAL>
     <ORIGINAL>I... It's you. My heavens, you look so much like him...</ORIGINAL>
     <TRADUIT>Eres... tú. Cielos, te pareces tanto a él...</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2237,7 +2237,7 @@ END</ORIGINAL>
     <ORIGINAL>You're James' son, aren't you? What are you doing here?</ORIGINAL>
     <TRADUIT>Eres el hijo de James, ¿no? ¿Qué estás haciendo aquí?</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2266,7 +2266,7 @@ endif</ORIGINAL>
     <ORIGINAL>Look, this is a restricted area. I'm tired of telling you people...</ORIGINAL>
     <TRADUIT>Mira, esta es una zona restringida. Estoy hasta el moño de decírselo a la gente...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2290,7 +2290,7 @@ endif</ORIGINAL>
     <ORIGINAL>I... It's you. My heavens, you look so much like him...</ORIGINAL>
     <TRADUIT>Eres... tú. Cielos, te pareces tanto a él...</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2314,7 +2314,7 @@ endif</ORIGINAL>
     <ORIGINAL>You're James' daughter, aren't you? What are you doing here?</ORIGINAL>
     <TRADUIT>Eres la hija de James, ¿no? ¿Qué estás haciendo aquí?</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2341,9 +2341,9 @@ endif</ORIGINAL>
     <EDID>GREETING</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>James... he's gone...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>James... se ha ido...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2365,9 +2365,9 @@ endif</ORIGINAL>
     <EDID>GREETING</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>We have to get out of here. They'll be coming for us next. We've got to evacuate now!</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Tenemos que salir de aquí. Ahora vendrán a por nosotros. ¡Tenemos que evacuar este lugar ya!</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2405,9 +2405,9 @@ endif</ORIGINAL>
     <EDID>GREETING</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>You've saved me. I was afraid I'd be trapped in there forever.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Me has salvado. Creí que me pasaría atrapado el resto de mi vida.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2429,9 +2429,9 @@ endif</ORIGINAL>
     <EDID>GREETING</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>It's so good to see you, but... What are you DOING here?</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Me alegro mucho de verte, pero... ¿Qué estás HACIENDO aquí?</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2474,9 +2474,9 @@ endif</ORIGINAL>
     <EDID>GREETING</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Son... You've saved me. I was afraid I'd be trapped in there forever.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Hijo... Me has salvado. Creí que me pasaría atrapado el resto de mi vida.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2713,9 +2713,9 @@ endif</ORIGINAL>
     <EDID>GREETING</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Let him be alive. Somehow, just please let him be alive...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Que esté vivo. Lo que sea pero por favor, que esté vivo...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2739,7 +2739,7 @@ endif</ORIGINAL>
     <ORIGINAL>Oh shit, I think it's bad...</ORIGINAL>
     <TRADUIT>Mierda, creo que esto es malo...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2751,7 +2751,7 @@ endif</ORIGINAL>
     <ORIGINAL>Oh shit, it's bad!</ORIGINAL>
     <TRADUIT>¡Mierda, es malo!</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2763,7 +2763,7 @@ endif</ORIGINAL>
     <ORIGINAL>So, what do you want to do with the ashes?</ORIGINAL>
     <TRADUIT>¿Qué quieres que hagamos con las cenizas?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2775,7 +2775,7 @@ endif</ORIGINAL>
     <ORIGINAL>I guess it's back to business. We' should probably tell the Brotherhood about Raven Rock.</ORIGINAL>
     <TRADUIT>Supongo que ahora toca volver a los demás asuntos. Deberíamos decirle a la Hermandad lo de Raven Rock.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2933,9 +2933,9 @@ setobjectivecompleted ttbtiesthatbind 25 1</ORIGINAL>
     <EDID>GREETING</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Didn't Dad tell you to stop stalling?</ORIGINAL>
-    <TRADUIT>¿No te dijo Papá que dejaras de vaguear?</TRADUIT>
+    <TRADUIT>¿No te dijo Papá que dejaras de entretenerte?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -2945,9 +2945,9 @@ setobjectivecompleted ttbtiesthatbind 25 1</ORIGINAL>
     <EDID>GREETING</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Come on, no more stalling.</ORIGINAL>
-    <TRADUIT>Vamos, deja de hacer el vago.</TRADUIT>
+    <TRADUIT>Vamos, deja de entretenerte.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -3095,9 +3095,9 @@ ttbCG04JammedDoorRef.disable</ORIGINAL>
     <EDID>IdleChatter</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Idle Chatter</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Idle Chatter</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -3121,7 +3121,7 @@ ttbCG04JammedDoorRef.disable</ORIGINAL>
     <ORIGINAL>I guess it's back to business. We' should probably tell the Brotherhood about Raven Rock.</ORIGINAL>
     <TRADUIT>Supongo que ahora toca volver a los demás asuntos. Deberíamos decirle a la Hermandad lo de Raven Rock.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -3133,7 +3133,7 @@ ttbCG04JammedDoorRef.disable</ORIGINAL>
     <ORIGINAL>I'd rather not be around this place for any reason...</ORIGINAL>
     <TRADUIT>Preferiría no acercarme a este sitio por ningún motivo...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -3179,9 +3179,9 @@ ttbCG04JammedDoorRef.disable</ORIGINAL>
     <EDID>IdleChatter</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>What is WRONG with these people...?</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¿Qué DIABLOS le pasa a esta gente...?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -3275,9 +3275,9 @@ ttbCG04JammedDoorRef.disable</ORIGINAL>
     <EDID>IdleChatter</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Little high an' mighty that one, hey?</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Se lo tiene bastante creído este tío, ¿no?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -3361,7 +3361,7 @@ ttbCG04JammedDoorRef.disable</ORIGINAL>
     <ORIGINAL>Charming... Like a rat in a tuxedo.</ORIGINAL>
     <TRADUIT>Encantador... como una rata con esmóquin.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -3383,9 +3383,9 @@ ttbCG04JammedDoorRef.disable</ORIGINAL>
     <EDID>IdleChatter</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Places like this make me glad we grew up in the vault. I can't even imagine trying to be a kid in a place like this...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Los lugares como este hacen que me alegre de haber crecido en el refugio. No puedo ni imaginar ser un niño en un sitio como este...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -3443,9 +3443,9 @@ ttbCG04JammedDoorRef.disable</ORIGINAL>
     <EDID>IdleChatter</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Let him be alive. Somehow... just please let him be alive...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Que esté vivo. Lo que sea pero por favor, que esté vivo...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -3503,9 +3503,9 @@ ttbCG04JammedDoorRef.disable</ORIGINAL>
     <EDID>Attack</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Attack</ORIGINAL>
-    <TRADUIT>Atacar</TRADUIT>
+    <TRADUIT>Ataque</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -3527,9 +3527,9 @@ ttbCG04JammedDoorRef.disable</ORIGINAL>
     <EDID>Attack</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Heads up!</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¡Cuidado!</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -3541,7 +3541,7 @@ ttbCG04JammedDoorRef.disable</ORIGINAL>
     <ORIGINAL>Hit</ORIGINAL>
     <TRADUIT>Impacto</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -3577,7 +3577,7 @@ ttbCG04JammedDoorRef.disable</ORIGINAL>
     <ORIGINAL>Ahh, shit that hurts!</ORIGINAL>
     <TRADUIT>¡Ahh, joder, eso duele!</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -3599,7 +3599,7 @@ ttbCG04JammedDoorRef.disable</ORIGINAL>
     <EDID>Flee</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Flee</ORIGINAL>
-    <TRADUIT>Huir</TRADUIT>
+    <TRADUIT>Huida</TRADUIT>
     <INDEX>1</INDEX>
     <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
@@ -3611,9 +3611,9 @@ ttbCG04JammedDoorRef.disable</ORIGINAL>
     <EDID>Flee</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Oh, shit - run!</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Oh, mierda. ¡Corre!</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -3647,9 +3647,9 @@ ttbCG04JammedDoorRef.disable</ORIGINAL>
     <EDID>FireExplosive</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Catch!</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¡Atrápalo!</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -3683,9 +3683,9 @@ ttbCG04JammedDoorRef.disable</ORIGINAL>
     <EDID>NormalToCombat</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Heads up...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Cuidado...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -3697,7 +3697,7 @@ ttbCG04JammedDoorRef.disable</ORIGINAL>
     <ORIGINAL>Death</ORIGINAL>
     <TRADUIT>Muerte</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -3709,7 +3709,7 @@ ttbCG04JammedDoorRef.disable</ORIGINAL>
     <ORIGINAL>Ahhh!</ORIGINAL>
     <TRADUIT>¡Aaah!</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -3721,7 +3721,7 @@ ttbCG04JammedDoorRef.disable</ORIGINAL>
     <ORIGINAL>Ahhh!</ORIGINAL>
     <TRADUIT>¡Aaah!</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -3743,9 +3743,9 @@ ttbCG04JammedDoorRef.disable</ORIGINAL>
     <EDID>CombatIdleChatter</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Got one!</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¡Le he dado a uno!</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -3755,9 +3755,9 @@ ttbCG04JammedDoorRef.disable</ORIGINAL>
     <EDID>CombatIdleChatter</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Got one!</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¡Le he dado a uno!</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -3863,9 +3863,9 @@ ttbCG04JammedDoorRef.disable</ORIGINAL>
     <EDID>CombatToNormal</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Whoah, nice!</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¡Oooh! ¡Bien!</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -3899,9 +3899,9 @@ ttbCG04JammedDoorRef.disable</ORIGINAL>
     <EDID>MegMoriartyChoice1c</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>You're lying. The Vault's been sealed for 200 years!</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Mientes. ¡El refugio lleva 200 años sellado!</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -3913,7 +3913,7 @@ ttbCG04JammedDoorRef.disable</ORIGINAL>
     <ORIGINAL>Ha ha ha ha ha! God in Heaven, would you listen to yourself? Do you honestly believe that's true? The lies they've put into that head of yours....</ORIGINAL>
     <TRADUIT>¡Ja ja ja ja ja! ¿Pero tú te has parado a pensar en lo que has dicho? ¿De verdad te crees todo eso? Menudas trolas te han contado...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -3923,9 +3923,9 @@ ttbCG04JammedDoorRef.disable</ORIGINAL>
     <EDID>MegMoriartyChoice1c</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Your father brought you to the Vault right after you were born. To keep you safe, you see. I remember it well -- you stayed in my saloon, after all.</ORIGINAL>
-    <TRADUIT>Tu padre te trajo al refugio justo antes de que nacieras. Para que estuvieras a salvo. Lo recuerdo bien, te quedaste en mi bar, después de todo. </TRADUIT>
+    <TRADUIT>Tu padre te trajo al refugio justo antes de que nacieras. Para que estuvieras a salvo. Lo recuerdo bien, te quedaste en mi bar, después de todo.</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -3935,9 +3935,9 @@ ttbCG04JammedDoorRef.disable</ORIGINAL>
     <EDID>MegMoriartyChoice1c</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>That's right. Your father, his Brotherhood of Steel friend, and you, the suckling babe with nary a tit to suckle. Sorry about your mum. Truly.      </ORIGINAL>
-    <TRADUIT>Efectivamente. Tu padre, su amigo de la Hermandad del Acero y tú, que eras un pobre bebé destetado. Sentí mucho lo de tu madre...</TRADUIT>
+    <TRADUIT>Efectivamente. Tu padre, su amigo de la Hermandad del Acero y tú, que eras un pobre bebé destetado. Sentí mucho lo de tu madre...      </TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -3949,7 +3949,7 @@ ttbCG04JammedDoorRef.disable</ORIGINAL>
     <ORIGINAL>But, no matter. That big round door has opened now, hasn't it? Daddy's gone, and you need to know why. Could be I know where, and why....</ORIGINAL>
     <TRADUIT>Pero eso ya da igual. El caso es que la puerta se ha abierto, ¿no? Papaíto se ha ido y tú quieres una explicación. Quizá yo sepa adónde y por qué...</TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -3974,9 +3974,9 @@ endif</ORIGINAL>
     <EDID>MegMoriartyChoice1d</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Tell me what you know! Tell me everything!</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¡Cuéntame lo que sabes! ¡Dímelo todo!</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -4000,7 +4000,7 @@ endif</ORIGINAL>
     <ORIGINAL>But all least you've got balls. Yeah, I know your dad, met him when you were just a baby, when you two passed through here on your way to the Vault.</ORIGINAL>
     <TRADUIT>Pero tienes huevos; eso sí. Conocí a tu padre cuando no eras más que un bebé. Pasasteis por aquí de camino al refugio.</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -4012,7 +4012,7 @@ endif</ORIGINAL>
     <ORIGINAL>You look shocked. You didn't think you were born in that hole, did you? Good Christ, boy. Know the truth, and it will set you free.</ORIGINAL>
     <TRADUIT>¿A qué viene esa cara? No pensarías que habías nacido en ese agujero, ¿no? Ay, alma cándida... Piensa que solo la verdad te hará libre...</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -4037,9 +4037,9 @@ endif</ORIGINAL>
     <EDID>MegMoriartyChoice1b</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Huh? My father and I were born in Vault 101...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¿Eh? Mi padre y yo nacimos en el Refugio 101.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -4051,7 +4051,7 @@ endif</ORIGINAL>
     <ORIGINAL>Is that what your father told you? That you were born in that hole? That HE was born there as well? </ORIGINAL>
     <TRADUIT>¿Es eso lo que te contó tu padre? ¿Que naciste en ese agujero? ¿Y que ÉL nació allí también? </TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -4075,7 +4075,7 @@ endif</ORIGINAL>
     <ORIGINAL>Your father brought you to the Vault right after you were born. To keep you safe, you see. I remember it well -- you stayed in my saloon, after all. </ORIGINAL>
     <TRADUIT>Tu padre te trajo al refugio justo antes de que nacieras. Para que estuvieras a salvo. Lo recuerdo bien, te quedaste en mi bar, después de todo. </TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -4085,9 +4085,9 @@ endif</ORIGINAL>
     <EDID>MegMoriartyChoice1b</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>That's right. Your father, his Brotherhood of Steel friend, and you, the suckling babe with nary a tit to suckle. Sorry about your mom. Truly.      </ORIGINAL>
-    <TRADUIT>Efectivamente. Tu padre, su amigo de la Hermandad del Acero y tú, que eras un pobre bebé destetado. </TRADUIT>
+    <TRADUIT>Efectivamente. Tu padre, su amigo de la Hermandad del Acero y tú, que eras un pobre bebé destetado. Sentí mucho lo de tu madre...      </TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -4099,7 +4099,7 @@ endif</ORIGINAL>
     <ORIGINAL>But, life goes on. Daddy lied. Life's full of little disappointments. And now... you're all grown up, and wondering where he's gone to....</ORIGINAL>
     <TRADUIT>Pero la vida sigue. Papá te mintió. Ya ves cuántas decepciones se lleva uno. Y aquí estás... Preguntándote adónde habrá ido...</TRADUIT>
     <INDEX>5</INDEX>
-    <STATUS>20</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -4136,7 +4136,7 @@ endif</ORIGINAL>
     <EDID>MQ05DadDeathConv</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>...run... Run!...</ORIGINAL>
-    <TRADUIT>...corre... ¡Corre!...</TRADUIT>
+    <TRADUIT>Corred... ¡Corred!...</TRADUIT>
     <INDEX>1</INDEX>
     <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
@@ -5897,7 +5897,7 @@ set TTBDialogue.CG04TrapAmanda to 4
     <EDID>ttbCG04Wilk2</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Seriously? Shit, that went fast.</ORIGINAL>
-    <TRADUIT>¿En serio? Joder, se nos han acabado pronto.</TRADUIT>
+    <TRADUIT>¿En serio? Hostia, se nos han acabado pronto.</TRADUIT>
     <INDEX>1</INDEX>
     <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
@@ -6029,9 +6029,9 @@ set TTBDialogue.CG04TrapAmanda to 4
     <EDID>ttbCG04Wilk4</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Shit - move!</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Mierda. ¡Muévete!</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -7619,7 +7619,7 @@ SetObjectiveDisplayed TTBTiesThatBind 99 0</ORIGINAL>
     <ORIGINAL>I guess it's back to business. We' should probably tell the Brotherhood about Raven Rock.</ORIGINAL>
     <TRADUIT>Supongo que ahora toca volver a los demás asuntos. Deberíamos decirle a la Hermandad lo de Raven Rock.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -7653,9 +7653,9 @@ SetObjectiveDisplayed TTBTiesThatBind 99 0</ORIGINAL>
     <EDID>ttbMiscAmandaThoughts</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>What is WRONG with these people...?</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¿Qué DIABLOS le pasa a esta gente...?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -7749,9 +7749,9 @@ SetObjectiveDisplayed TTBTiesThatBind 99 0</ORIGINAL>
     <EDID>ttbMiscAmandaThoughts</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Little high an' mighty that one, hey?</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Se lo tiene bastante creído este tío, ¿no?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -7871,7 +7871,7 @@ SetObjectiveDisplayed TTBTiesThatBind 99 0</ORIGINAL>
     <ORIGINAL>I was worried about it at first, but I'm glad we came back here.</ORIGINAL>
     <TRADUIT>Me asustaba un poco la idea, pero ahora me alegro de haber venido.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -8193,9 +8193,9 @@ SetObjectiveDisplayed TTBTiesThatBind 99 0</ORIGINAL>
     <EDID>ttbAmandaWounded</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Ah, shit - I'm down!</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Mierda, ¡Estoy herida!</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -9400,7 +9400,7 @@ set TTBDialogue.CG04SlaverConversation to ( TTBDialogue.CG04SlaverConversation +
     <EDID>ttbCG04SlaverConversation</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Seriously? Shit, that went fast...</ORIGINAL>
-    <TRADUIT>¿En serio? Joder, se nos han acabado pronto...</TRADUIT>
+    <TRADUIT>¿En serio? Hostia, se nos han acabado pronto...</TRADUIT>
     <INDEX>1</INDEX>
     <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
@@ -12048,9 +12048,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Sad1console1ai</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I can't help but think what it's gonna be like when I die... Or what if you go first -  and I have to lose you too?</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>No puedo evitar pensar en que pasará cuando yo muera... ¿O qué pasa si tú desapareces primero, y tengo que perderte a tí también?</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>90</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12096,9 +12096,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Sad1console1aii</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I wish that were enough for me...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Ojalá fuera suficiente para mí...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12108,9 +12108,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Sad1console1aii</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I can't help but think what it's gonna be like when I die... Or what if you go first -  and I have to lose you too?</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>No puedo evitar pensar en que pasará cuando yo muera... ¿O qué pasa si tú desapareces primero, y tengo que perderte a tí también?</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>98</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -12432,9 +12432,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ06Sad1console1ai1</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Sorry if this is a little dark. I guess it's just going to take some time.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Lo siento si ha sonado algo deprimente. Supongo que necesitaré tiempo.</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>90</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -13298,9 +13298,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ07Pfalls2Reassure</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I didn't even get the worst of it. Eulogy took a... liking to me. I suppose I should count myself lucky.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Y eso que yo me libré de lo peor. Creo que yo le... gusté a Eulogy. Supongo que podría decir que tuve suerte.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -13334,9 +13334,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ07Pfalls2Reassure1</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Don't get any crazy hero ideas in your head. There are too many of them - and too many innocents to catch a stray bullet.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>No te pongas en plan héroe ahora. Son demasiados... y demasiados inocentes que pueden recibir una bala perdida.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -13490,9 +13490,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ07Pfalls2Reassure2b</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>I'm sure it's just a story.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Seguro que es solo un cuento.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15168,9 +15168,9 @@ setStage ttbFamilyReunion 70</ORIGINAL>
     <EDID>ttbOQ01Funeral1Eulogy1ai3</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>I know, me neither... but, we'll try.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Lo sé, yo tampoco... pero lo intentaremos.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15193,9 +15193,9 @@ setStage ttbFamilyReunion 70</ORIGINAL>
     <EDID>ttbOQ01Funeral1Eulogy1ai3</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>I'm not sure we will be...</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>No sé si lo estaremos...</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15495,7 +15495,7 @@ ttbAmandaRef.EVP</ORIGINAL>
     <ORIGINAL>What about it?</ORIGINAL>
     <TRADUIT>¿Qué le pasa?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15565,7 +15565,7 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Home1Remains3</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>It's hard to say... lots of places. Rivet City? Maybe the Jefferson Memorial?</ORIGINAL>
-    <TRADUIT>No sabría decir... hay muchos sitios. ¿Rivet City? ¿Tal vez el monumento a Jefferson?</TRADUIT>
+    <TRADUIT>No sabría decir... hay muchos sitios. ¿Rivet City? ¿Tal vez el Jefferson Memorial?</TRADUIT>
     <INDEX>1</INDEX>
     <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
@@ -15769,9 +15769,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Home1Remains3b</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>Nowhere particularly stands out to you?</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¿No hay algún sitio que destaque para tí?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -15877,9 +15877,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Home1Truth2</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>To Rivet City? What do you mean "back"?</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¿A Rivet City? ¿A que te refieres con "volver"?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16069,9 +16069,9 @@ ttbAmandaRef.EVP</ORIGINAL>
     <EDID>ttbOQ01Home1Truth1bi</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>You were five! You make it sound like HE was the kid.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¡Pero si tenías cinco años! Lo cuentas como si ÉL hubiera sido el niño.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16701,9 +16701,9 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Home3Mom1a</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Take all the time you need. We'll spend the night and if you want, you can look around some more in the morning.</ORIGINAL>
-    <TRADUIT>s</TRADUIT>
+    <TRADUIT>Tómate todo el tiempo que necesites. Podemos pasar la noche aquí, y seguir mirando alrededor por la mañana.</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>90</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16764,9 +16764,9 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Home3Mom1b</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Take all the time you need. We'll spend the night and if you want, you can look around some more in the morning.</ORIGINAL>
-    <TRADUIT>Tómate todo el tiempo que necesites. Podemos pasar la noche aquí</TRADUIT>
+    <TRADUIT>Tómate todo el tiempo que necesites. Podemos pasar la noche aquí, y seguir mirando alrededor por la mañana.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16827,9 +16827,9 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Home3Mom1c</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Take all the time you need. We'll spend the night and if you want, you can look around some more in the morning.</ORIGINAL>
-    <TRADUIT>Tómate todo el tiempo que necesites. Podemos pasar la noche aquí</TRADUIT>
+    <TRADUIT>Tómate todo el tiempo que necesites. Podemos pasar la noche aquí, y seguir mirando alrededor por la mañana.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -16914,9 +16914,9 @@ endif</ORIGINAL>
     <EDID>ttbOQ01Home3Mom1d</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Take all the time you need. We'll spend the night and if you want, you can look around some more in the morning.</ORIGINAL>
-    <TRADUIT>Tómate todo el tiempo que necesites. Podemos pasar la noche aquí</TRADUIT>
+    <TRADUIT>Tómate todo el tiempo que necesites. Podemos pasar la noche aquí, y seguir mirando alrededor por la mañana.</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -17575,9 +17575,9 @@ endif</ORIGINAL>
     <EDID>ttbMQ11Fight1Payback2a</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>And we're going to stop them together.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Y vamos a detenerles trabajando en equipo.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -18711,7 +18711,7 @@ showmessage ttbOQ01MessageKeepsakeNotification</ORIGINAL>
     <ORIGINAL>This can't... it can't all be for nothing...</ORIGINAL>
     <TRADUIT>Esto no... no puede haber sido para nada...</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>98</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -19567,9 +19567,9 @@ ttbAmandaRef.evp</ORIGINAL>
     <EDID>ttbMS12Tenpenny3bi</EDID>
     <CHAMP>RNAM</CHAMP>
     <ORIGINAL>There aren't a lot of us left: we have an obligation to each other.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>No quedamos muchos. Tenemos el deber de cuidarnos los unos a los otros.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -21236,7 +21236,7 @@ set ttbDialogue.OQ01AmandaDeal to 99</ORIGINAL>
     <ORIGINAL>Do you know who I AM?! [karma]</ORIGINAL>
     <TRADUIT>¡¿Pero es que no sabes QUIEN SOY?! [karma]</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>90</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -21672,7 +21672,7 @@ player.addnote ttbNoteParadiseFalls</ORIGINAL>
     <EDID>TTBOQ01CantGoHome</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>You Can't Go Home Again</ORIGINAL>
-    <TRADUIT>No puedes volver a casa de nuevo</TRADUIT>
+    <TRADUIT>Ya no puedes regresar a casa</TRADUIT>
     <INDEX>1</INDEX>
     <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
@@ -21759,9 +21759,9 @@ CompleteQuest ttbOQ01CantGoHome</ORIGINAL>
     <EDID>MQ09</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>The American Dream</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>El Sueño Americano</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -21930,9 +21930,9 @@ addachievement 12
     <EDID>MQ09</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Get free from the chair.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Liberarse de la silla.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -21942,9 +21942,9 @@ addachievement 12
     <EDID>MQ09</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Retrieve equipment from the locker.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Recuperar equipos de la taquilla.</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -21954,9 +21954,9 @@ addachievement 12
     <EDID>MQ09</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Meet President Eden in his office.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Reunirse con el presidente Eden en su oficina.</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -21966,9 +21966,9 @@ addachievement 12
     <EDID>MQ09</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Take the vial of modified FEV.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Coger el frasco de VEF modificado.</TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -21978,9 +21978,9 @@ addachievement 12
     <EDID>MQ09</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Escape the Enclave base.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Escapar de la base de Enclave.</TRADUIT>
     <INDEX>5</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -21990,9 +21990,9 @@ addachievement 12
     <EDID>MQ09</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Report to Elder Lyons at the Citadel.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Ir a ver a Elder Lyons a la Ciudadela.</TRADUIT>
     <INDEX>6</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -22002,9 +22002,9 @@ addachievement 12
     <EDID>CG02</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Growing Up Fast</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Madurando deprisa</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -22177,9 +22177,9 @@ CG02OverseerREF.evp</ORIGINAL>
     <EDID>CG02</EDID>
     <CHAMP>CNAM</CHAMP>
     <ORIGINAL>Enjoy the party and speak with the guests.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Disfruta de la fiesta y habla con los invitados.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -22489,9 +22489,9 @@ CG02DadREF.evp</ORIGINAL>
     <EDID>CG02</EDID>
     <CHAMP>CNAM</CHAMP>
     <ORIGINAL>Follow Dad to my surprise present.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Sigue a papá hasta el regalo sorpresa.</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -22556,9 +22556,9 @@ setObjectiveCompleted CG02 20 1</ORIGINAL>
     <EDID>CG02</EDID>
     <CHAMP>CNAM</CHAMP>
     <ORIGINAL>Shoot all 3 targets with the BB gun.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Dispara a los 3 objetivos con la pistola BB.</TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -22598,9 +22598,9 @@ CG02DadREF.evp</ORIGINAL>
     <EDID>CG02</EDID>
     <CHAMP>CNAM</CHAMP>
     <ORIGINAL>Use the BB gun to kill the radroach.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Usa la pistola BB para matar a la mutaracha.</TRADUIT>
     <INDEX>5</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -22642,9 +22642,9 @@ SetQuestObject CG02weapBBgun 0
     <EDID>CG02</EDID>
     <CHAMP>CNAM</CHAMP>
     <ORIGINAL>Stand next to Dad so Jonas can take the picture.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Quédate junto a papá para que Jonas pueda sacar la fotografía.</TRADUIT>
     <INDEX>6</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -22748,9 +22748,9 @@ setstage CG03 0</ORIGINAL>
     <EDID>CG02</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Enjoy the party and speak with the guests.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Disfrutar de la fiesta y hablar con los invitados.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -22760,9 +22760,9 @@ setstage CG03 0</ORIGINAL>
     <EDID>CG02</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Meet Jonas on the Reactor Level.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Reunirse con Jonas en el nivel del reactor.</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -22772,9 +22772,9 @@ setstage CG03 0</ORIGINAL>
     <EDID>CG02</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Use the BB Gun to kill the Radroach.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Usar la pistola BB para matar a la mutaracha.</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -22784,9 +22784,9 @@ setstage CG03 0</ORIGINAL>
     <EDID>CG02</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Stand next to Dad so Jonas can take the picture.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Colocarme cerca de papá para que Jonas pueda hacer la foto.</TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -22796,9 +22796,9 @@ setstage CG03 0</ORIGINAL>
     <EDID>CG02</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Shoot all three targets with the BB Gun.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Disparar todos los objetivos con la pistola BB.</TRADUIT>
     <INDEX>5</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -22808,9 +22808,9 @@ setstage CG03 0</ORIGINAL>
     <EDID>CG04</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Escape!</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>¡Huye!</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -22971,9 +22971,9 @@ player.additem ammo10mm 36</ORIGINAL>
     <EDID>CG04</EDID>
     <CHAMP>CNAM</CHAMP>
     <ORIGINAL>Enter the Overseer's office.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Entra en la oficina del supervisor.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -23388,9 +23388,9 @@ player.additem ammo10mm 30</ORIGINAL>
     <EDID>CG04</EDID>
     <CHAMP>CNAM</CHAMP>
     <ORIGINAL>Use the Overseer's computer to access the secret tunnel.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Usa el ordenador del supervisor para acceder al túnel secreto.</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -23414,9 +23414,9 @@ setObjectiveDisplayed CG04 40 1
     <EDID>CG04</EDID>
     <CHAMP>CNAM</CHAMP>
     <ORIGINAL>Enter the reactor room.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Entra en la sala del reactor.</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -23441,9 +23441,9 @@ setObjectiveDisplayed CG04 50 1
     <EDID>CG04</EDID>
     <CHAMP>CNAM</CHAMP>
     <ORIGINAL>Turn the power back on.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Vuelve a activar la corriente.</TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -23508,9 +23508,9 @@ endif</ORIGINAL>
     <EDID>CG04</EDID>
     <CHAMP>CNAM</CHAMP>
     <ORIGINAL>Open the vault door.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Abre la puerta del refugio.</TRADUIT>
     <INDEX>6</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -23540,9 +23540,9 @@ CG04AmataRef.setalert 0
     <EDID>CG04</EDID>
     <CHAMP>CNAM</CHAMP>
     <ORIGINAL>Escape from Vault 101.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Escapa del Refugio 101.</TRADUIT>
     <INDEX>7</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -23699,9 +23699,9 @@ CG04StanleyREF.disable
     <EDID>CG04</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Talk to Amata about her plan to escape the Vault.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Hablar con Amata sobre su plan para huir del refugio.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -23711,9 +23711,9 @@ CG04StanleyREF.disable
     <EDID>CG04</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Enter the Overseer's office.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Entrar en la oficina del supervisor.</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -23723,9 +23723,9 @@ CG04StanleyREF.disable
     <EDID>CG04</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Enter the reactor control room.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Entrar en la sala de control del reactor.</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -23735,9 +23735,9 @@ CG04StanleyREF.disable
     <EDID>CG04</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Turn the power back on.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Conectar la energía.</TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -23747,9 +23747,9 @@ CG04StanleyREF.disable
     <EDID>CG04</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Open the Vault door.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Abrir la puerta del refugio.</TRADUIT>
     <INDEX>5</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -23759,9 +23759,9 @@ CG04StanleyREF.disable
     <EDID>CG04</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Use the Overseer's computer to access the secret tunnel.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Usar el ordenador del supervisor para acceder el túnel secreto.</TRADUIT>
     <INDEX>6</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -23771,9 +23771,9 @@ CG04StanleyREF.disable
     <EDID>CG04</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Escape the Vault.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Escapar del refugio.</TRADUIT>
     <INDEX>7</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -23783,9 +23783,9 @@ CG04StanleyREF.disable
     <EDID>MQ08</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Finding the Garden of Eden</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>En busca del Jardín del Edén</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -23795,9 +23795,9 @@ CG04StanleyREF.disable
     <EDID>MQ08</EDID>
     <CHAMP>CNAM</CHAMP>
     <ORIGINAL>Locate the underground entrance to Vault 87</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Localiza la entrada subterránea al Refugio 87.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -23819,9 +23819,9 @@ CG04StanleyREF.disable
     <EDID>MQ08</EDID>
     <CHAMP>CNAM</CHAMP>
     <ORIGINAL>Retrieve the G.E.C.K.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Recupera el G.E.C.K.</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -23844,9 +23844,9 @@ SetObjectiveDisplayed MQ08 15 1</ORIGINAL>
     <EDID>MQ08</EDID>
     <CHAMP>CNAM</CHAMP>
     <ORIGINAL>Rescue Fawkes from the Observation Cells (Optional)</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Rescata a Fawkes de las celdas de observación (opcional).</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -23868,9 +23868,9 @@ SetObjectiveDisplayed MQ08 15 1</ORIGINAL>
     <EDID>MQ08</EDID>
     <CHAMP>CNAM</CHAMP>
     <ORIGINAL>Escape from Vault 87</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Escapa del Refugio 87.</TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -23927,9 +23927,9 @@ addachievement 11
     <EDID>MQ08</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Locate the underground entrance to Vault 87.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Encontrar la entrada subterránea al Refugio 87.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -23939,9 +23939,9 @@ addachievement 11
     <EDID>MQ08</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL> (Optional) Rescue Fawkes from the Observation Cells.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT> (Opcional) Rescatar a Fawkes de las celdas de observación.</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -23951,9 +23951,9 @@ addachievement 11
     <EDID>MQ08</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Escape from Vault 87.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Huir del Refugio 87.</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -23963,9 +23963,9 @@ addachievement 11
     <EDID>MQ08</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Retrieve the G.E.C.K.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Recuperar el G.E.C.K.</TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -23975,9 +23975,9 @@ addachievement 11
     <EDID>MS03</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Wasteland Survival Guide</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Guía de supervivencia del Yermo</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -23987,9 +23987,9 @@ addachievement 11
     <EDID>MS03</EDID>
     <CHAMP>CNAM</CHAMP>
     <ORIGINAL>Ask Moira about her book.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Pregunta  a Moira sobre su libro.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -24011,9 +24011,9 @@ addachievement 11
     <EDID>MS03</EDID>
     <CHAMP>CNAM</CHAMP>
     <ORIGINAL>Help Moira with Chapter 1.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Ayuda a Moira con el Capítulo 1.</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -25294,9 +25294,9 @@ endif
     <EDID>MS03</EDID>
     <CHAMP>CNAM</CHAMP>
     <ORIGINAL>Print the manuscript at Hubris Comics Publishing.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Imprime el manuscrito en la editorial Cómics Hubris.</TRADUIT>
     <INDEX>27</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -25319,9 +25319,9 @@ SetObjectiveDisplayed MS03 100 1</ORIGINAL>
     <EDID>MS03</EDID>
     <CHAMP>CNAM</CHAMP>
     <ORIGINAL>Bring the printed books back to Lea.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Devuelve los libros impresos a Lea.</TRADUIT>
     <INDEX>28</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -25362,9 +25362,9 @@ endif</ORIGINAL>
     <EDID>MS03</EDID>
     <CHAMP>CNAM</CHAMP>
     <ORIGINAL>Moira Brown is dead. Her book will never be written. NO ACHIEVEMENT - QUEST FAILED!</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Moira Brown está muerta. Su libro no se escribirá nunca. NO HAY LOGRO - QUEST FRACASADA!</TRADUIT>
     <INDEX>29</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -25531,9 +25531,9 @@ StartQuest MS03Fin
     <EDID>MS03</EDID>
     <CHAMP>CNAM</CHAMP>
     <ORIGINAL>Moira Brown has been convinced to give up on her book.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Han convencido a Moira Brown para que renuncie a su libro.</TRADUIT>
     <INDEX>30</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -25707,9 +25707,9 @@ addachievement 16
     <EDID>MS03</EDID>
     <CHAMP>CNAM</CHAMP>
     <ORIGINAL>The Wasteland Survival Guide has been distributed throughout the Capitol Wastes, where it may help survivors.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Se ha distribuido la Guía de supervivencia del Yermo por toda Yermo Capital; allí tal vez resulte de ayuda a los supervivientes.</TRADUIT>
     <INDEX>31</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -25892,9 +25892,9 @@ addachievement 16</ORIGINAL>
     <EDID>MS03</EDID>
     <CHAMP>CNAM</CHAMP>
     <ORIGINAL>The Wasteland Survival Guide has been researched and spread throughout the Capitol Wasteland, where it will help countless survivors.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Se ha investigado y difundido la Guía de supervivencia del Yermo por toda Yermo Capital; allí servirá de ayuda a innumerables supervivientes.</TRADUIT>
     <INDEX>32</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -26078,9 +26078,9 @@ addachievement 16</ORIGINAL>
     <EDID>MS03</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Ask Moira Brown about her book.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Preguntar a Moira Brown sobre su libro.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -26090,9 +26090,9 @@ addachievement 16</ORIGINAL>
     <EDID>MS03</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Help Moira with Chapter 1.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Ayudar a Moira con el capítulo 1.</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -26102,9 +26102,9 @@ addachievement 16</ORIGINAL>
     <EDID>MS03</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Find food in the Super-Duper Mart.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Encontrar comida en las Tiendas Superguay.</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -26114,9 +26114,9 @@ addachievement 16</ORIGINAL>
     <EDID>MS03</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>(Optional) Find medicine in the Super-Duper Mart.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>(Opcional) Encontrar medicina en las Tiendas Superguay.</TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -26126,9 +26126,9 @@ addachievement 16</ORIGINAL>
     <EDID>MS03</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Return to Moira.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Volver a Moira.</TRADUIT>
     <INDEX>5</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -26138,9 +26138,9 @@ addachievement 16</ORIGINAL>
     <EDID>MS03</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Contract radiation sickness (200 rads).</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Contraer malestar por radiación (200 rads).</TRADUIT>
     <INDEX>6</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -26150,9 +26150,9 @@ addachievement 16</ORIGINAL>
     <EDID>MS03</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>(Optional) Contract more severe radiation sickness (600 rads).</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>(Opcional) Contraer malestar por radiación más grave (600 rads).</TRADUIT>
     <INDEX>7</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -26162,9 +26162,9 @@ addachievement 16</ORIGINAL>
     <EDID>MS03</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Return to Moira.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Volver a Moira.</TRADUIT>
     <INDEX>8</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -26174,9 +26174,9 @@ addachievement 16</ORIGINAL>
     <EDID>MS03</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Travel to the playground in Minefield.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Viajar al parque infantil de Minefield.</TRADUIT>
     <INDEX>9</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -26186,9 +26186,9 @@ addachievement 16</ORIGINAL>
     <EDID>MS03</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>(Optional) Bring a landmine to Moira.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>(Opcional) Llevar una mina de tierra a Moira.</TRADUIT>
     <INDEX>10</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -26198,9 +26198,9 @@ addachievement 16</ORIGINAL>
     <EDID>MS03</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Return to Moira.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Volver a Moira.</TRADUIT>
     <INDEX>11</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -26210,9 +26210,9 @@ addachievement 16</ORIGINAL>
     <EDID>MS03</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Help Moira with Chapter 2.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Ayudar a Moira con el capítulo 2.</TRADUIT>
     <INDEX>12</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -26222,9 +26222,9 @@ addachievement 16</ORIGINAL>
     <EDID>MS03</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Test the repellent on three Mole Rats.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Probar el repelente en las ratas topo.</TRADUIT>
     <INDEX>13</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -26234,9 +26234,9 @@ addachievement 16</ORIGINAL>
     <EDID>MS03</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>(Optional) Test the repellent on seven more Mole Rats.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>(Opcional) Probar el repelente en siete ratas topo más.</TRADUIT>
     <INDEX>14</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -26246,9 +26246,9 @@ addachievement 16</ORIGINAL>
     <EDID>MS03</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Return to Moira.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Volver a Moira.</TRADUIT>
     <INDEX>15</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -26258,9 +26258,9 @@ addachievement 16</ORIGINAL>
     <EDID>MS03</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Place the observer in a spawning pod in the Anchorage War Memorial.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Colocar el observador en una cápsula ovígera en el Anchorage War Memorial.</TRADUIT>
     <INDEX>16</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -26270,9 +26270,9 @@ addachievement 16</ORIGINAL>
     <EDID>MS03</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>(Optional) Do not kill any Mirelurks in the Anchorage War Memorial.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>(Opcional) No mates ningún hombre pinza en el Anchorage War Memorial.</TRADUIT>
     <INDEX>17</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -26282,9 +26282,9 @@ addachievement 16</ORIGINAL>
     <EDID>MS03</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Return to Moira.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Volver a Moira.</TRADUIT>
     <INDEX>18</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -26294,9 +26294,9 @@ addachievement 16</ORIGINAL>
     <EDID>MS03</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Become seriously injured (50% health or less).</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Estar seriamente herido (50% de salud o menos).</TRADUIT>
     <INDEX>19</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -26306,9 +26306,9 @@ addachievement 16</ORIGINAL>
     <EDID>MS03</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>(Optional) Receive a crippling injury.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>(Opcional) Sufrir una lesión en una parte del cuerpo.</TRADUIT>
     <INDEX>20</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -26318,9 +26318,9 @@ addachievement 16</ORIGINAL>
     <EDID>MS03</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Return to Moira with your injuries.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Volver a Moira con las heridas.</TRADUIT>
     <INDEX>21</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -26330,9 +26330,9 @@ addachievement 16</ORIGINAL>
     <EDID>MS03</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Help Moira with the last chapter.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Ayudar a Moira con el último capítulo.</TRADUIT>
     <INDEX>22</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -26342,9 +26342,9 @@ addachievement 16</ORIGINAL>
     <EDID>MS03</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Learn the history of Rivet City.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Aprender la historia de Rivet City.</TRADUIT>
     <INDEX>23</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -26354,9 +26354,9 @@ addachievement 16</ORIGINAL>
     <EDID>MS03</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>(Optional) Check other sources to confirm Rivet City's history.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>(Opcional) Comprobar otras fuentes para confirmar la historia de Rivet City.</TRADUIT>
     <INDEX>24</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -26366,9 +26366,9 @@ addachievement 16</ORIGINAL>
     <EDID>MS03</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>(Optional) Uncover Rivet City's true history.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>(Opcional) Descubrir la verdadera historia de Rivet City.</TRADUIT>
     <INDEX>25</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -26378,9 +26378,9 @@ addachievement 16</ORIGINAL>
     <EDID>MS03</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Return to Moira.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Volver a Moira.</TRADUIT>
     <INDEX>26</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -26390,9 +26390,9 @@ addachievement 16</ORIGINAL>
     <EDID>MS03</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Install the processor widget in the RobCo production facility mainframe.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Instalar el artilugio del procesador en la unidad central de las instalaciones de producción de RobCo.</TRADUIT>
     <INDEX>27</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -26402,9 +26402,9 @@ addachievement 16</ORIGINAL>
     <EDID>MS03</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>(Optional) Reprogram the RobCo facility mainframe.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>(Opcional) Reprogramar la unidad central de las instalaciones de RobCo.</TRADUIT>
     <INDEX>28</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -26414,9 +26414,9 @@ addachievement 16</ORIGINAL>
     <EDID>MS03</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Return to Moira.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Volver a Moira.</TRADUIT>
     <INDEX>29</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -26426,9 +26426,9 @@ addachievement 16</ORIGINAL>
     <EDID>MS03</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Access the card catalogue in Arlington Public Library.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Acceder al catálogo de tarjetas de la Biblioteca Pública de Arlington.</TRADUIT>
     <INDEX>30</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -26438,9 +26438,9 @@ addachievement 16</ORIGINAL>
     <EDID>MS03</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>(Optional) Retrieve complete library archives.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>(Opcional) Recuperar los archivos completos de la biblioteca.</TRADUIT>
     <INDEX>31</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -26450,9 +26450,9 @@ addachievement 16</ORIGINAL>
     <EDID>MS03</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Return to Moira.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Volver a Moira.</TRADUIT>
     <INDEX>32</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -26802,9 +26802,9 @@ setstage CG01 0
     <EDID>MS11</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>The Power of the Atom</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>El poder del átomo</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -26900,9 +26900,9 @@ setStage MS11 50</ORIGINAL>
     <EDID>MS11</EDID>
     <CHAMP>CNAM</CHAMP>
     <ORIGINAL>Activate the detonator at Tenpenny Tower.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Activa el detonador de la Torre Tenpenny.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -27273,9 +27273,9 @@ addachievement 23
     <EDID>MS11</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Disarm Megaton's atomic bomb.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Desactivar la bomba atómica de Megatón.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -27285,9 +27285,9 @@ addachievement 23
     <EDID>MS11</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Rig Megaton's atomic bomb to explode.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Hacer explotar la bomba atómica de Megatón.</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -27297,9 +27297,9 @@ addachievement 23
     <EDID>MS11</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Report to Lucas Simms in Megaton.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Ir a ver a Lucas Simms en Megatón.</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -27309,9 +27309,9 @@ addachievement 23
     <EDID>MS11</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Report to Mister Burke in Tenpenny Tower.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Ir a ver a Mister Burke en Tenpenny Tower.</TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -27321,9 +27321,9 @@ addachievement 23
     <EDID>MS11</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Activate the detonator at Tenpenny Tower.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Activar el detonador en Tenpenny Tower.</TRADUIT>
     <INDEX>5</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -27333,9 +27333,9 @@ addachievement 23
     <EDID>MS11</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Receive reward from Mister Burke in Tenpenny Tower.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Recibir recompensa de Mister Burke en Tenpenny Tower.</TRADUIT>
     <INDEX>6</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -27345,9 +27345,9 @@ addachievement 23
     <EDID>MS11</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Disarm Megaton's atomic bomb... or rig it to explode.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Desactivar la bomba atómica de Megatón... o hacer que explote.</TRADUIT>
     <INDEX>7</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -27357,9 +27357,9 @@ addachievement 23
     <EDID>MS11</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>Report to Lucas Simms' son, Harden, in Megaton.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Ir a ver al hijo de Lucas Simms, Harden, en Megatón.</TRADUIT>
     <INDEX>8</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -27369,9 +27369,9 @@ addachievement 23
     <EDID>MS11</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>[Optional] Ask Leo Stahl at the Brass Lantern about buying Mentats.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>[Opcional] Preguntar a Leo Stahl en El farol de latón sobre comprar Mentats para mejorar la habilidad Explosivos.</TRADUIT>
     <INDEX>9</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -27381,9 +27381,9 @@ addachievement 23
     <EDID>MS11</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>[Optional] Meet Leo Stahl at the water treatment plant for Mentats .</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>[Opcional] Reunirse con Leo Stahl en la planta de tratamiento de agua para mejorar la habilidad Explosivos con Mentats.</TRADUIT>
     <INDEX>10</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -27393,9 +27393,9 @@ addachievement 23
     <EDID>MS11</EDID>
     <CHAMP>NNAM</CHAMP>
     <ORIGINAL>[Optional] Loot Leo Stahl's stash at the water treatment plant for Mentats.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>[Opcional] Saquear el escondite de Leo Stahl en la planta de tratamiento de agua para mejorar la habilidad Explosivos con Mentats.</TRADUIT>
     <INDEX>11</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -27477,9 +27477,9 @@ addachievement 23
     <EDID>ttbOQ01MessageNeedKey</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Need Key</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Necesitas la llave</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -27489,7 +27489,7 @@ addachievement 23
     <EDID>ttbMQ09TakeRemainsMsg</EDID>
     <CHAMP>DESC</CHAMP>
     <ORIGINAL>The manifest indicates that the crate contains the body of a male scientist, recovered from an irradiated chamber in the Jefferson Memorial Rotunda.</ORIGINAL>
-    <TRADUIT>El albarán indica que el contenedor contiene el cuerpo de un científico varón, recuperado de una cámara irradiada en la plaza del Monumento de Jefferson.</TRADUIT>
+    <TRADUIT>El albarán indica que el contenedor contiene el cuerpo de un científico varón, recuperado de una cámara irradiada en la Rotonda del Jefferson Memorial.</TRADUIT>
     <INDEX>1</INDEX>
     <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
@@ -27573,9 +27573,9 @@ addachievement 23
     <EDID>ttbOQ01MessageClosureNotification</EDID>
     <CHAMP>DESC</CHAMP>
     <ORIGINAL>Perk added: Closure</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Extra añadido: Pasando página</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
@@ -27597,9 +27597,9 @@ addachievement 23
     <EDID>ttbOQ01MessageKeepsakeNotification</EDID>
     <CHAMP>DESC</CHAMP>
     <ORIGINAL>Perk added: Keepsake</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Extra añadido: Recuerdo</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
   </ESP>
